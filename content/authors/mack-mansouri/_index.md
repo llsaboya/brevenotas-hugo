@@ -1,18 +1,11 @@
 ---
-title: Mack Mansouri
+title: L.L. Saboya (en)
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: /images/mack-mansouri.jpg
+avatar: "/images/llsaboya.jpg"
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: LinkedIn
+  url: https://www.linkedin.com/in/llsaboya/
+
 ---
