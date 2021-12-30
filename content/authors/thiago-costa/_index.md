@@ -1,19 +1,12 @@
 ---
-title: Thiago Costa
+title: L.L. Saboya
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
+avatar: "/images/llsaboya.jpg"
 featured: false
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: LinkedIn
+  url: https://www.linkedin.com/in/llsaboya/
+
 ---
