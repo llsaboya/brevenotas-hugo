@@ -6,6 +6,7 @@ bio: |
 avatar: "/images/llsaboya.jpg"
 featured: false
 social:
+- {}
 - title: LinkedIn
   url: https://www.linkedin.com/in/llsaboya/
 
