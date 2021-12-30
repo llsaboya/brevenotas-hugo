@@ -1,0 +1,15 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "post",
+      "path": "c:/Users/lsabo/OneDrive/Documentos/Projetos/Sites/github/brevenotas-hugo/content/post"
+    },
+    {
+      "title": "images",
+      "path": "c:/Users/lsabo/OneDrive/Documentos/Projetos/Sites/github/brevenotas-hugo/images"
+    }
+  ]
+}

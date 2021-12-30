@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"frontMatter.content.fmHighlight": true,
+		"[markdown]": {
+		},
+		"frontMatter.dashboard.openOnStart": true
+	}
+}
