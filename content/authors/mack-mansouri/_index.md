@@ -1,11 +1,13 @@
 ---
 title: L.L. Saboya (en)
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+bio: 'Married and father of a boy. I''ve achieved a lot in my life, but never alone.
+  My teams hit goals, created answers. I just trained and coordinated what they do
+  best: work well.
+
+'
 avatar: "/images/llsaboya.jpg"
 social:
 - title: LinkedIn
-  url: https://www.linkedin.com/in/llsaboya/
+  url: https://www.linkedin.com/in/llsaboya/?locale=en_US
 
 ---
