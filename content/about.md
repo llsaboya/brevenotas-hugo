@@ -1,11 +1,16 @@
 ---
 title: About
+
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
+O **Breves Notas** é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia. Qualquer que seja seu gosto, o **Breves Notas** tem o que você deseja. Eu não me orgulho disso.
 
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+Até breve.
 
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Lefebvre de Saboya
 
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+## Contato
+
+Não tem nenhum segredo para falar comigo. Só mandar um e-mail:
+
+[hello@llsaboya.com](mailto:hello@llsaboya.com) e pode conversar comigo sobre qualquer assunto.

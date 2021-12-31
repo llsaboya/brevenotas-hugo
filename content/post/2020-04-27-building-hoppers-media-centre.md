@@ -1,14 +1,12 @@
 ---
-title: Breves Notas - Showcasa
-date: 2020-04-27
-hero: "/images/hero-3.jpg"
+title: Breves Notas - Showcase
+hero: /images/hero-3.jpg
 excerpt: Markdown reference for Breves Notas
 timeToRead: 8
 authors:
-- Dennis Brotzky
-
+  - Lefebvre Saboya
+date: '2021-12-01T03:00:00.000Z'
 ---
-
 
 Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
 

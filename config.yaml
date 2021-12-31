@@ -5,17 +5,28 @@ pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
 # Theme settings
-theme: hugo-theme-novela
+theme: brevesnotas-novela
 # module:
 #   imports:
 #     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
+  twitter: "https://twitter.com/llsaboya"
   github: "#"
-  instagram: "#"
-  linkedin: "#"
+  instagram: "https://www.instagram.com/llsaboya/"
+  linkedin: "https://www.linkedin.com/in/llsaboya/"
   dribbble: "#"
-  youtube: "#"
+  youtube: "https://www.youtube.com/channel/UCrUYEofsuTPiNSsq9S9W0HA"
 taxonomies:
   author: authors
+frontmatter:
+  date: 
+    - publishDate
+    - :filename
+    - date
+    - :fileModTime
+  publishDate: 
+    - publishDate
+    - :filename
+    - date
+    - :fileModTime

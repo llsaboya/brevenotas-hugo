@@ -8,6 +8,7 @@
 		"frontMatter.content.fmHighlight": true,
 		"[markdown]": {
 		},
-		"frontMatter.dashboard.openOnStart": true
+		"frontMatter.dashboard.openOnStart": true,
+		"frontMatter.preview.host": "http://localhost:1313/"
 	}
 }
