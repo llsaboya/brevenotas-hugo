@@ -1,3 +1,15 @@
 [submodule "themes/hugo-theme-novela"]
 	path = themes/hugo-theme-novela
 	url = https://github.com/forestryio/hugo-theme-novela.git
+[submodule "hugo-theme-novela"]
+	path = hugo-theme-novela
+	url = https://github.com/llsaboya/hugo-theme-novela
+[submodule "brevesnotas-novela"]
+	path = brevesnotas-novela
+	url = https://github.com/llsaboya/brevesnotas-novela.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/brevesnotas-novela"]
+	path = themes/brevesnotas-novela
+	url = https://github.com/llsaboya/brevesnotas-novela.git
