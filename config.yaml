@@ -11,7 +11,7 @@ googleAnalytics: UA-174059-11
 # module:
 #   imports:
 #     - path: "github.com/forestryio/hugo-theme-novela"
-paginate: 3
+paginate: 6
 social:
   twitter: "https://twitter.com/llsaboya"
   github: "#"
