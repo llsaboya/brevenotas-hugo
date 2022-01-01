@@ -1,4 +1,4 @@
-baseURL: "https://example.com"
+baseURL: "https://llsaboya.com"
 languageCode: "en-us"
 title: "Breves Notas"
 pygmentsstyle: 'monokai'
@@ -11,7 +11,7 @@ googleAnalytics: UA-174059-11
 # module:
 #   imports:
 #     - path: "github.com/forestryio/hugo-theme-novela"
-paginate: 6
+paginate: 3
 social:
   twitter: "https://twitter.com/llsaboya"
   github: "#"

@@ -1,7 +1,7 @@
 ---
 title: Lefebvre Saboya
 bio: 
-  Just another nuthead, tattooed, AC/DC addict, writer.
+  Just another nuthead, tattooed, AC/DC addict, writer that really hate waiting in line.
 avatar: /images/llsaboya.jpg
 featured: true
 social:
