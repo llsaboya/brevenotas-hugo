@@ -11,7 +11,7 @@ hero: /images/1-design-l.jpg
 authors:
 - Lefebvre Saboya
 ---
-![Só falta inventarem medir isso](//images/soft-skills-nederlia.png "Só falta inventarem medir isso")
+![Só falta inventarem medir isso](/images/soft-skills-nederlia.png "Só falta inventarem medir isso")
 
 Hoje você acordou e descobriu que o mercado de trabalho resolveu exigir mais uma qualidade para ter um emprego. Agora a exigência da vez é ter ***soft skills***. Tudo bem, você pensa, vou procurar um livro, fazer um curso e pronto. Mais um certificado no meu currículo que mudará minha carreira para a melhor.
 

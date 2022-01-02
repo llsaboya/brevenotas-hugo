@@ -78,7 +78,7 @@ Entretanto, falta ao livro um ponto de vista muito importante: qual o preço pag
 
 A maldade, ainda que derrotada, deixa marcas em tudo que toca. As cicatrizes também tem suas histórias, e o leitor as busca. Mas por decisão do escritor não temos esse lado tão rico. O livro é sobre o *Agente 114*, e não sobre a pessoa por trás do distintivo. O traficantes aprenderam nesses anos quem era o agente Pinelli. Em uma conversa captada pela PF, o traficante e seu advogado enfim ententem: *"o primo branco [o agente Pinelli] não tem nada cara, ficha limpa. É casca grossa. Só que gosta de uma cachaça"*.
 
-![Agente Pinelli](//images/f2f129151a62d5cc83831a34416ddae15ba364d4.webp "Agente Pinelli")
+![Agente Pinelli](/images/f2f129151a62d5cc83831a34416ddae15ba364d4.webp "Agente Pinelli")
 
 ## Vale a pena ler o livro Agente 114 - O caçador de bandidos?
 

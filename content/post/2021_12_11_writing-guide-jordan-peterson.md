@@ -18,7 +18,7 @@ Original por Jordan Peterson
 
 # Como escrever um ensaio
 
-**Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio Jordan Peterson.docx) ou a [versão em PDF](/goodies/Made.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
+**Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio Jordan Peterson.docx) ou a [versão em PDF](/goodies/Como-Escrever-Ensaios-Jordan Peterson.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
 
 
 Você pode usar este documento do Word para escrever uma excelente ensaio, do início ao fim, usando um processo de dez passos. Na maioria das vezes, os alunos ou aspirantes a escritores recebem apenas informações básicas sobre como escrever, e a maior parte dessas informações concentra-se nos detalhes da formatação. Esses são detalhes necessários, mas escrever é obviamente muito mais do que a mera formatação de texto. Se você escrever seu ensaio seguindo esse plano, ao concluir todas as etapas, produzirá uma redação que é, pelo menos, muito boa. Você também aprenderá exatamente como escrever um ensaio, o que é algo muito valioso para se aprender.
@@ -80,7 +80,8 @@ Um ensaio, como qualquer texto, existe em vários níveis de resolução ao mesm
 
 Aqui está uma pequena história para ilustrar essa ideia, retirada em parte de um documento chamado *Codex Bezae*.
 
-> Cristo está descendo a estrada no sábado, quando os bons judeus daquela época não deviam trabalhar. Na vala, ele vê um pastor tentando resgatar uma ovelha do buraco em que ela caiu. Está muito quente e, claro, a ovelha não ficará bem se passar um dia inteiro sob o sol do deserto. Por outro lado, é o sábado. Cristo olha para o pastor e diz: "Homem, se de fato sabes o que fazes, és bem-aventurado; mas, se não sabes, és maldito e transgressor da lei". Em seguida, ele segue pela estrada.
+| Cristo está descendo a estrada no sábado, quando os bons judeus daquela época não deviam trabalhar. Na vala, ele vê um pastor tentando resgatar uma ovelha do buraco em que ela caiu. Está muito quente e, claro, a ovelha não ficará bem se passar um dia inteiro sob o sol do deserto. Por outro lado, é o sábado. Cristo olha para o pastor e diz: "Homem, se de fato sabes o que fazes, és bem-aventurado; mas, se não sabes, és maldito e transgressor da lei". Em seguida, ele segue pela estrada. |
+| ------------------ |
 
 A questão é esta: há um dia de descanso por um motivo. Caso contrário, as pessoas trabalhariam o tempo todo. Então, elas ficariam infelizes e exaustas. Elas competiriam umas com o outras até a morte. Portanto, se é hora de todos descansarem, então descanse, e não quebre a regra. No entanto, também não é bom deixar uma ovelha morrer no sol quente quando alguns minutos de trabalho podem salvá-la. Então, se você respeitar a regra e, consciente de sua importância, perceber que ela serve de bastião contra o caos do desconhecido e, ainda assim, você decidir quebrá-la, com cuidado, porque as particularidades das circunstâncias o exigem - bem, então, parabéns para você. Se você for apenas um narcisista descuidado, ignorante e anti-social, tome cuidado. Você quebra a regra por sua própria conta e risco, quer você saiba disso ou não.
 
@@ -148,16 +149,18 @@ ESCOLHA ENTRE TÓPICOS e LISTA DE LEITURA
 
 Coloque-os em forma de pergunta, como nos exemplos acima.
 
-    1.
-    2.
-    3.
-    4.
-    5.
-    6.
-    7.
-    8.
-    9.
-    10.
+| Tópicos |
+| :------ |
+| 1.      |
+| 2.      |
+| 3.      |
+| 4.      |
+| 5.      |
+| 6.      |
+| 7.      |
+| 8.      |
+| 9.      |
+| 10.     |
 
 Se não puder fazer isso, você terá que fazer mais algumas leituras (o que provavelmente você terá que fazer para completar o ensaio de qualquer maneira) . A propósito, não existe *bloqueio de leitor.* Se você não consegue escrever, é porque não tem nada a dizer. Você não tem ideias. Em tal situação, não se orgulhe de seu *bloqueio de escritor*. Leia alguma coisa. Se isso não funcionar, leia outra coisa - talvez algo melhor. Repita até que o problema seja resolvido.
 
@@ -169,35 +172,18 @@ Se você encontrar alguém cujo os textos sejam particularmente interessantes e 
 
 Suponha que você precise de 5 a 10 livros ou artigos por mil palavras para seu ensaio, a menos que tenha sido instruído de outra forma. Uma página digitada em espaço duplo geralmente contém cerca de 250 palavras. Liste suas fontes agora, mesmo se você tiver que fazer isso mal. Você sempre pode fazer melhor mais tarde.
 
-    Leitura 1.
-    Notas: (consulte a próxima seção para Notas sobre Notas):
-    
-    Leitura 2.
-    Notas:
-    
-    Leitura 3.
-    Notas:
-    
-    Leitura 4.
-    Notas:
-    
-    Leitura 5.
-    Notas:
-    
-    Leitura 6.
-    Notas:
-    
-    Leitura 7.
-    Notas:
-    
-    Leitura 8.
-    Notas:
-    
-    Leitura 9.
-    Notas:
-    
-    Leitura 10 (repetir se necessário).
-    Notas (repita se necessário):`
+| Lista de Leitura                                             |
+| :----------------------------------------------------------- |
+| Leitura 1.<br/>Notas: (consulte a próxima seção para *"Notas sobre Notas"*): |
+| Leitura 2.<br/>Notas:                                        |
+| Leitura 3.<br/>Notas:                                        |
+| Leitura 4.<br/>Notas:                                        |
+| Leitura 5.<br/>Notas:                                        |
+| Leitura 6.<br/>Notas:                                        |
+| Leitura 7.<br/>Notas:                                        |
+| Leitura 8.<br/>Notas:                                        |
+| Leitura 9.<br/>Notas:                                        |
+| Leitura 10 (repetir se necessário).<br/>Notas (repita se necessário):` |
 
 ## Uma nota psicológica e algumas notas sobre notas.
 
@@ -217,19 +203,18 @@ Faça cerca de duas a três vezes mais notas do que você precisará para sua re
 
 Neste ponto, você preparou uma lista de tópicos e uma lista de leitura. Agora é hora de escolher um tópico.
 
-    INSIRA O TÓPICO AQUI
-    
-    1.
+| INSIRA O TÓPICO AQUI |
+| -------------------- |
+| 1.                   |
 
 Aqui está outra regra. Ao escrever seu primeiro rascunho, ele deve ser mais longo do que a versão final. Isso é para que você tenha alguma texto extra para jogar fora. Você quer ter algo para jogar fora após o primeiro rascunho, de modo que só tenha de ficar com o que é bom. Não é mais rápido tentar escrever exatamente quantas palavras você precisa quando se sentar pela primeira vez para escrever. Tentar fazer isso apenas te torna consciente demais do que está escrevendo e essa preocupação vai atrasá-lo. Procure produzir um primeiro rascunho 25% mais longo do que o rascunho final deve ser. Se o seu trabalho final tiver 1000 palavras, escreva 1250 palavras.
 
 Agora especifique a extensão do seu ensaio.
 
-    PALAVRAS:
-    
-    PÁGINAS:
-    
-    ADICIONE 25% AOS COMPRIMENTOS ACIMA
+| Extensão do Ensaio (*adicione 25% aos tamanhos abaixo*) |
+| ------------------------------------------------------- |
+| PALAVRAS:                                               |
+| PÁGINAS:                                                |
 
 Agora você tem que fazer um esboço. **Esta é a parte mais difícil de escrever um ensaio** e não é opcional. O esboço de um ensaio é como o esqueleto de um corpo. Ele fornece sua forma e sua estrutura fundamental. Além disso, o esboço é basicamente o argumento (com as próprias sentenças e palavras que servem a esse argumento).
 
@@ -317,35 +302,25 @@ Cuidado com a tendência de escrever introduções e conclusões banais, repetit
 
 Escreva o esboço aqui:
 
-```
-1. Esboço da frase 1:
-
-2. Esboço da frase 2:
-
-3. Esboço da frase 3:
-
-4. Esboço da frase 4:
-
-5. Esboço da frase 5:
-
-6. Esboço da frase 6:
-
-7. Esboço da frase 7:
-
-8. Esboço da frase 8:
-
-9. Esboço da frase 9:
-
-10. Esboço da frase 10 (repita se necessário):
-```
+| Esboço                                         |
+| ---------------------------------------------- |
+| 1. Esboço da frase 1:                          |
+| 2. Esboço da frase 2:                          |
+| 3. Esboço da frase 3:                          |
+| 4. Esboço da frase 4:                          |
+| 5. Esboço da frase 5:                          |
+| 6. Esboço da frase 6:                          |
+| 7. Esboço da frase 7:                          |
+| 8. Esboço da frase 8:                          |
+| 9. Esboço da frase 9:                          |
+| 10. Esboço da frase 10 (repita se necessário): |
 
 # Passo 5: parágrafos
 
 Então, agora você tem seu esboço. Copie aqui:
 
-```
-ESBOÇO COPIADO AQUI
-```
+| ESBOÇO COPIADO AQUI |
+| ------------------- |
 
 Agora, escreva de dez a quinze sentenças por frase no esboço para completar seu parágrafo. Você pode achar útil adicionar subdivisões adicionais ao seu esboço e trabalhar para frente e para trás no esboço e as frases, editando ambos. Use suas anotações também. Use espaçamento simples neste ponto, para que você possa ver mais coisas escritas no papel de uma vez. Você irá formatar direito seu ensaio mais tarde.
 
@@ -357,9 +332,10 @@ Aqui está um exemplo de escrita associada a uma pergunta no esboço: (nota: os 
 
 **Pergunta de esboço: Como o capitalismo foi definido?**
 
-> *Algo tão complexo como o capitalismo não pode ser facilmente definido. Cada um dos diferentes autores ofereceu sua opinião. Pensadores liberais ou conservadores enfatizam a importância da propriedade privada e dos direitos de propriedade que acompanham essa propriedade como chave para o capitalismo (REFERÊNCIA, 19XX). Essa propriedade privada (incluindo bens valiosos e os meios pelos quais são produzidos) pode ser comercializada, livremente, com outros proprietários, em um mercado onde o preço é definido pela demanda pública, e não por qualquer agência central. Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência. Eles acreditam que o custo mais baixo é uma característica desejável da produção e que a concorrência leal ajuda a garantir preços desejavelmente mais baixos.* 
-> 
-> *O Movimento Socialista Mundial (REFERÊNCIA, 19XX), um consórcio internacional de partidos políticos de extrema esquerda, define o capitalismo, em contraste, como a propriedade dos meios de produção por uma pequena minoria de pessoas, a classe capitalista, que explora lucrativamente a classe trabalhadora, os produtores genuínos, que devem vender sua capacidade de trabalhar por um salário ou ordenado. Esses socialistas acreditam que é apenas o lucro o motivador do capitalismo e que a motivação do lucro é essencialmente corrupta. Ambientalistas modernos tendem a adicionar o próprio mundo natural à lista de alvos capitalistas de exploração (REFERÊNCIA, 19XX). Os pensadores da direita tendem a considerar os problemas que emergem do sistema capitalista como reais, mas triviais em comparação com aqueles produzidos por outros sistemas econômicos e políticos, reais e hipotéticos. Os pensadores da extrema esquerda consideram o capitalismo a causa central de problemas tão sérios como a pobreza, a desigualdade e a degradação ambiental, e acreditam que existem outros sistemas políticos e econômicos cuja implementação constituiria uma melhoria.*
+| *Algo tão complexo como o capitalismo não pode ser facilmente definido. Cada um dos diferentes autores ofereceu sua opinião. Pensadores liberais ou conservadores enfatizam a importância da propriedade privada e dos direitos de propriedade que acompanham essa propriedade como chave para o capitalismo (REFERÊNCIA, 19XX). Essa propriedade privada (incluindo bens valiosos e os meios pelos quais são produzidos) pode ser comercializada, livremente, com outros proprietários, em um mercado onde o preço é definido pela demanda pública, e não por qualquer agência central. Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência. Eles acreditam que o custo mais baixo é uma característica desejável da produção e que a concorrência leal ajuda a garantir preços desejavelmente mais baixos.* |
+| ------------------------------------------------------------ |
+
+
 
 Demorou dois parágrafos para começar a abordar a primeira frase de esboço. Observe que o ensaio começa sem se referir a si mesmo. É bom dizer ao leitor sobre o que será o ensaio e como o tópico será abordado do que perambular estupidamente no início de um ensaio, mas ainda melhor é chamar a atenção do leitor imediatamente, sem rodeios. 
 
@@ -369,29 +345,22 @@ Depois de completar dez a quinze frases para cada título do esboço, você ter�
 
 Copie o primeiro parágrafo do seu primeiro rascunho aqui:
 
-```
-Parágrafo 1:
-```
+| Parágrafo 1: |
+| ------------ |
+|              |
 
 Agora, coloque cada frase em sua própria linha, para que fique assim (este exemplo é retirado do primeiro parágrafo sobre o capitalismo, acima):
 
-> *Algo tão complexo como o capitalismo não pode ser facilmente definido.* 
-> 
-> *Cada um dos diferentes autores ofereceu sua opinião.* 
-> 
-> *Pensadores liberais ou conservadores enfatizam a importância da propriedade privada e dos direitos de propriedade que acompanham essa propriedade como chave para o capitalismo (REFERÊNCIA, 19XX).* 
-> 
-> *Essa propriedade privada (incluindo bens valiosos e os meios pelos quais são produzidos) pode ser comercializada, livremente, com outros proprietários, em um mercado onde o preço é definido pela demanda pública, e não por qualquer agência central.* 
-> 
-> *Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência.* 
-> 
-> *Eles acreditam que o custo mais baixo é uma característica desejável da produção e que a concorrência leal ajuda a garantir preços desejavelmente mais baixos.*
+| *Algo tão complexo como o capitalismo não pode ser facilmente definido.* <br/><br/>*Cada um dos diferentes autores ofereceu sua opinião.* <br/><br/>*Pensadores liberais ou conservadores enfatizam a importância da propriedade privada e dos direitos de propriedade que acompanham essa propriedade como chave para o capitalismo (REFERÊNCIA, 19XX).* <br/><br/>*Essa propriedade privada (incluindo bens valiosos e os meios pelos quais são produzidos) pode ser comercializada, livremente, com outros proprietários, em um mercado onde o preço é definido pela demanda pública, e não por qualquer agência central.* <br/><br/>*Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência.* <br/><br/>*Eles acreditam que o custo mais baixo é uma característica desejável da produção e que a concorrência leal ajuda a garantir preços desejavelmente mais baixos.* |
+| ------------------------------------------------------------ |
+|                                                              |
 
 **Agora, escreva outra versão de cada frase, abaixo de cada frase, assim:**
 
-> ~~*Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência.*~~
-> 
-> *Pensadores liberais e conservadores enfatizam a importância da qualidade e da eficiência e os vêem como devidamente recompensados ​​pelo lucro.*
+| ~~*Os pensadores liberais e conservadores enfatizam a eficiência da produção, bem como a qualidade, e consideram o lucro o motivo da eficiência.*~~<br/><br/>*Pensadores liberais e conservadores enfatizam a importância da qualidade e da eficiência e os vêem como devidamente recompensados pelo lucro.* |
+| ------------------------------------------------------------ |
+
+
 
 Neste exemplo, o significado da frase foi ligeiramente alterado durante a reescrita. Pode ser que a segunda frase flua melhor do que a primeira e também seja mais precisa e significativa. Veja se você consegue deixar cada frase que escreveu melhor, de maneira semelhante:
 
@@ -401,33 +370,25 @@ Neste exemplo, o significado da frase foi ligeiramente alterado durante a reescr
 
 Leia cada frase em voz alta e escute como ela soa. Se for estranho, veja se você pode dizer a mesma coisa de uma maneira diferente e melhor. Escute o que você disse e anote. Reescreva cada frase. Depois de fazer isso com todas as frases, leia as versões antigas e as novas, então substitua a antiga pela nova se a nova for melhor. Em seguida, copie o novo parágrafo aqui:
 
-```
-Novo parágrafo 1:
+| Repita para cada parágrafo: |
+| --------------------------- |
+| Novo parágrafo 1:           |
+| Novo parágrafo 2:           |
+| Novo parágrafo 3:           |
+| Novo parágrafo 4:           |
+| Novo parágrafo 5 (etc.):    |
 
-Repita para cada parágrafo:
 
-Novo parágrafo 2:
-
-Novo parágrafo 3:
-
-Novo parágrafo 4:
-
-Novo parágrafo 5 (etc.):
-```
 
 Agora você vai tentar melhorar cada um desses parágrafos. Copie-os novamente aqui, inalterados (você está fazendo isso para poder comparar facilmente os parágrafos melhorados com os originais, para ter certeza de que estão realmente melhores, antes de mantê-los):
 
-```
-Novo parágrafo 1 (cópia):
-
-Novo parágrafo 2 (cópia):
-
-Novo parágrafo 3 (cópia):
-
-Novo parágrafo 4 (cópia):
-
-Novo parágrafo 5 (cópia) (etc.):
-```
+| Cópia de cada parágrafo:          |
+| --------------------------------- |
+| Novo parágrafo 1 (cópia):         |
+| Novo parágrafo 2 (cópia):         |
+| Novo parágrafo 3 (cópia):         |
+| Novo parágrafo 4 (cópia):         |
+| Novo parágrafo 5  (cópia) (etc.): |
 
 Comece com o parágrafo 1. Divida-o em frases simples, como você fez antes. Agora analise se as frases estão na melhor ordem possível, dentro de cada parágrafo. Arraste e solte-os ou corte e cole-os em uma ordem melhor.
 
@@ -437,31 +398,23 @@ Você também pode eliminar frases que não são mais necessárias. Quando você
 
 Agora, copie todos os novos parágrafos melhorados que você editou aqui:
 
-```
-Novo parágrafo melhorado 1:
-
-Novo parágrafo melhorado 2:
-
-Novo parágrafo melhorado 3:
-
-Novo parágrafo melhorado 4:
-
-Novo parágrafo melhorado 5 (etc .):
-```
+| Novos parágrafos melhorados         |
+| ----------------------------------- |
+| Novo parágrafo melhorado 1:         |
+| Novo parágrafo melhorado 2:         |
+| Novo parágrafo melhorado 3:         |
+| Novo parágrafo melhorado 4:         |
+| Novo parágrafo melhorado 5 (etc .): |
 
 Agora você vai tentar melhorar a ordem desses parágrafos novos e aprimorados. Copie-os aqui, novamente, inalterados.
 
-```
-Novo parágrafo melhorado 1 (cópia):
-
-Novo parágrafo melhorado 2 (cópia):
-
-Novo parágrafo melhorado 3 (cópia):
-
-Novo parágrafo melhorado 4 (cópia):
-
-Novo parágrafo melhorado 5 (cópia) (etc.):
-```
+| Melhorar a ordem dos parágrafos melhorados |
+| ------------------------------------------ |
+| Novo parágrafo melhorado 1:                |
+| Novo parágrafo melhorado 2:                |
+| Novo parágrafo melhorado 3:                |
+| Novo parágrafo melhorado 4:                |
+| Novo parágrafo melhorado 5 (etc .):        |
 
 Agora olhe para a ordem dos próprios parágrafos (como você acabou de fazer com as sentenças dentro de cada parágrafo). Pode ser que agora, no processo de edição, você descubra que a ordem dos sub-tópicos em seu esboço original não é mais apropriada e que alguma reordenação desses sub-tópicos é necessária. Portanto, mova o novo parágrafo melhorado (cópias) acima, até que eles sejam ordenados de forma mais apropriada do que estavam.
 
@@ -471,9 +424,10 @@ Então, agora você deve ter produzido um segundo esboço bem decente. Você ide
 
 A próxima etapa o levará de uma dissertação "B" para uma dissertação "A". Pode até ajudá-lo a escrever algo melhor do que você jamais produziu (melhor significa mais rico em informações, preciso, coerente, elegante e bonito). Copie o que você escreveu até agora aqui:
 
-```
-ENSAIO COMPLETO AQUI:
-```
+| ENSAIO COMPLETO AQUI: |
+| --------------------- |
+
+colar
 
 Leia-o atentamente. Depois, continue para a próxima parte.
 
@@ -483,27 +437,20 @@ Você acabou de ler seu ensaio. Tente agora escrever um novo esboço de dez a qu
 
 Escreva um novo esboço aqui:
 
-```
-1. Novo esboço da frase 1:
+| Novo esboço                                         |
+| --------------------------------------------------- |
+| 1. Novo esboço da frase 1:                          |
+| 1. Novo esboço da frase 2:                          |
+| 1. Novo esboço da frase 3:                          |
+| 1. Novo esboço da frase 4:                          |
+| 1. Novo esboço da frase 5:                          |
+| 1. Novo esboço da frase 6:                          |
+| 1. Novo esboço da frase 7:                          |
+| 1. Novo esboço da frase 8:                          |
+| 1. Novo esboço da frase 9:                          |
+| 10. Novo esboço da frase 10 (repita se necessário): |
 
-2. Novo esboço da frase 2:
 
-3. Novo esboço da frase 3:
-
-4. Novo esboço da frase 4:
-
-5. Novo esboço da frase 5:
-
-6. Novo esboço da frase 6:
-
-7. Novo esboço da frase 7:
-
-8. Novo esboço da frase 8:
-
-9. Novo esboço da frase 9:
-
-10. Novo esboço da frase 10 (repita se necessário):
-```
 
 Agora que você tem um novo esboço, pode recortar e colar o material de seu ensaio anterior. Para fazer isso, abra um novo documento do Word ao lado deste. Em seguida, corte e cole o novo esboço que você escreveu no novo documento do Word. Volte ao documento original e role para cima até o ensaio completo e reordenado que você copiou e colou no passo 8, acima. Em seguida, corte e cole dessa versão do ensaio reordenado no seu novo esboço feito de memória.
 
@@ -511,9 +458,10 @@ Você pode descobrir que não precisa de tudo o que escreveu antes. Não tenha m
 
 Assim que terminar de recortar e colar o material antigo no novo esboço, copie esse novo ensaio e cole-o em um novo documento do Word. Esse será seu ensaio final. Não se esqueça de colocar uma página de título nele.
 
-```
-COLOQUE O ENSAIO RECÉM ESBOÇADO AQUI:
-```
+| COLOQUE O ENSAIO RECÉM ESBOÇADO AQUI: |
+| ------------------------------------- |
+
+colar
 
 # Passo 9: repetir
 
@@ -527,15 +475,24 @@ Quando você escreve uma frase que contém algo que deve ser um fato ou pelo men
 
 As convenções da American Psychological Association (APA) são comumente usadas por redatores. Esta convenção geralmente requer o uso dos sobrenomes dos autores da fonte entre parênteses após a frase que requer uma referência. Por exemplo:
 
-> *É necessário adicionar uma referência após uma frase contendo uma opinião que não seja a sua, ou um fato que você adquiriu de alguma fonte de material (Peterson, 2014).*
+| *É necessário adicionar uma referência após uma frase contendo uma opinião que não seja a sua, ou um fato que você adquiriu de alguma fonte de material (Peterson, 2014).* |
+| ------------------------------------------------------------ |
+
+
 
 Essa frase também poderia ser construída assim:
 
-> *Peterson (2014) afirma que é necessário adicionar uma referência após uma frase contendo uma opinião que não é sua, ou um fato que você adquiriu de alguma fonte de material.*
+| *Peterson (2014) afirma que é necessário adicionar uma referência após uma frase contendo uma opinião que não é sua, ou um fato que você adquiriu de alguma fonte de material.* |
+| ------------------------------------------------------------ |
+
+
 
 Existem também muitas convenções que abrangem o uso de uma citação direta, que devem ser seguidas quando você cita alguém diretamente, em vez de parafraseá-la. Aqui está um exemplo, adicionando o número específico (fictício) da página que contém o material citado no manuscrito original:
 
-> *Peterson (2014, p. 19) afirma que "as convenções da American Psychological Association (APA) são comumente usadas por ensaio escritoras.\"*
+| *Peterson (2014, p. 19) afirma que "as convenções da American Psychological Association (APA) são comumente usadas por ensaio escritoras.\"* |
+| ------------------------------------------------------------ |
+
+
 
 Na bibliografia, ao final do ensaio, o artigo de Peterson pode ser listado, conforme segue (esta é uma referência fictícia):
 
@@ -547,9 +504,10 @@ Seu professor pode ter recomendado, ou exigido, o uso de um conjunto diferente d
 
 É necessário dominar pelo menos uma convenção. As regras são meticulosas e irritantes. No entanto, elas são necessárias para que os leitores saibam o que os escritores estão fazendo. Além disso, você só precisa aprendê-los uma vez, então diminua os riscos e faça isso.
 
-```
-Copie seu ensaio aqui novamente.
-```
+| Copie seu ensaio aqui novamente. |
+| -------------------------------- |
+
+
 
 Adicione referências onde forem necessárias. Em seguida, adicione sua bibliografia no final de seu ensaio. Certifique-se de construir ambos de acordo com a convenção APA ou algum outro conjunto de regras.
 

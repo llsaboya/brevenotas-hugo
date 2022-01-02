@@ -1,10 +1,10 @@
 ---
 title: "{{name}}"
 slug: "/{{kebabCase name}}/"
+hero: /images/1-joker-t.jpg
 description:
-author: 
-date: 2019-08-22T15:20:28.000Z
-lastmod: 2019-08-22T15:20:28.000Z
+authors:
+- Lefebvre Saboya
 draft: true
 tags: []
 categories: []
