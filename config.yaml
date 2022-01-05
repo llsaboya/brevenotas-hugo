@@ -6,7 +6,6 @@ metaDataFormat: yaml
 
 # Theme settings
 theme: brevesnotas-novela
-googleAnalytics: UA-174059-11
 
 # module:
 #   imports:

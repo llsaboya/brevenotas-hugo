@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-title: 'Como definir, de verdade, o que é um blog?'
+title: 'Como definir o que é ou não um blog?'
 categories:
     - Comunicação
 tags:
@@ -13,7 +13,7 @@ hero: /images/1-comunicacao-l.jpg
 toc: false
 toc_sticky: true
 draft: false
-slug: como-definir-de-verdade-e-um-blog-
+slug: como-definir-de-verdade-e-um-blog
 excerpt: 'Não sei se essa é uma dúvida geral, ou se somente eu aqui, no recanto do meu sossegado lar, penso sobre o que diabos é um blog de verdade.'
 keywords:
     - blog

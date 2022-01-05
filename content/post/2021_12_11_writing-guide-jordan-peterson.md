@@ -18,7 +18,7 @@ Original por Jordan Peterson
 
 # Como escrever um ensaio
 
-**Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio Jordan Peterson.docx) ou a [versão em PDF](/goodies/Como-Escrever-Ensaios-Jordan Peterson.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
+**Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio-Jordan-Peterson.docx) ou a [versão em PDF](static/goodies/Como-Escrever-Ensaios-Jordan-Peterson.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
 
 
 Você pode usar este documento do Word para escrever uma excelente ensaio, do início ao fim, usando um processo de dez passos. Na maioria das vezes, os alunos ou aspirantes a escritores recebem apenas informações básicas sobre como escrever, e a maior parte dessas informações concentra-se nos detalhes da formatação. Esses são detalhes necessários, mas escrever é obviamente muito mais do que a mera formatação de texto. Se você escrever seu ensaio seguindo esse plano, ao concluir todas as etapas, produzirá uma redação que é, pelo menos, muito boa. Você também aprenderá exatamente como escrever um ensaio, o que é algo muito valioso para se aprender.
@@ -36,7 +36,6 @@ Um ensaio é um texto relativamente curto sobre um assunto em particular. No ent
 Via de regra, os alunos escrevem ensaios apenas porque são obrigados por um professor. Assim, os alunos passam a acreditar que ensaios são importantes primeiro para demonstrar seus conhecimentos a um professor. Isso é simplesmente, e perigosamente, errado (embora, na prática, a escrita para demonstração de conhecimento possa ser necessária).
 
 A principal razão para escrever um ensaio é para o escritor conseguir formular e organizar um conjunto de idéias bem informadas, coerentes e sofisticadas sobre algo importante.
-
 
 No que diz respeito a questão, por que é importante se preocupar com o desenvolvimento de ideias sofisticadas? Para começar, porque não há diferença entre fazer isso e pensar. Pensar é importante porque agir baseado no pensamento provavelmente será bem menos doloroso e bem mais produtivo do que a ações baseadas na ignorância. Portanto, se você deseja ter uma vida caracterizada pela competência, produtividade, segurança, originalidade e engajamento, ao invés de uma vida desagradável, bruta e curta, você precisa pensar cuidadosamente sobre questões importantes. Não há melhor maneira de fazer isso do que escrevendo. Isso porque a escrita amplia sua memória, facilita a edição e elucida seus pensamentos.
 
@@ -427,8 +426,6 @@ A próxima etapa o levará de uma dissertação "B" para uma dissertação "A". 
 | ENSAIO COMPLETO AQUI: |
 | --------------------- |
 
-colar
-
 Leia-o atentamente. Depois, continue para a próxima parte.
 
 Esta parte do processo provavelmente parecerá desnecessária ou chata, ou ambos, mas você não sabe de nada. Este é o passo que separa os homens dos meninos, ou as mulheres dos meninos, ou os homens das meninas, ou seja qual for a versão deste ditado que seja aceitavelmente não-sexista e politicamente correta.
@@ -460,8 +457,6 @@ Assim que terminar de recortar e colar o material antigo no novo esboço, copie 
 
 | COLOQUE O ENSAIO RECÉM ESBOÇADO AQUI: |
 | ------------------------------------- |
-
-colar
 
 # Passo 9: repetir
 
