@@ -1,5 +1,5 @@
 ---
-title: 'Tradução - Guia de escrita, por Jordan Peterson'
+title: 'Tradução de Guia de escrita, por Jordan Peterson'
 hero: /images/jordan-peterson-writing-guide.jpeg
 excerpt: 'Como escrever um ensaio, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever.'
 tags:
@@ -12,6 +12,8 @@ authors:
 aliases:
   - /writing-guite-jordan-peterson/
 slug: traducao-guia-de-escrita-por-jordan-peterson
+date: '2021-10-01T18:35:14.000Z'
+description: Um guia para escrever melhor e de forma clara e estruturada.
 ---
 
 Original por Jordan Peterson

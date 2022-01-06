@@ -3,9 +3,11 @@ languageCode: "en-us"
 title: "Breves Notas"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
+enableEmoji: true
 
 # Theme settings
-theme: brevesnotas-novela
+theme: "brevesnotas-novela"
+googleAnalytics: "UA-174059-11"
 
 # module:
 #   imports:

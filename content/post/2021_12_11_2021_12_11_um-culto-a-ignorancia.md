@@ -1,16 +1,18 @@
 ---
-title: 'Tradução - Um Culto da Ignorância, por Isaac Asimov'
+title: 'Tradução de Um Culto da Ignorância, por Isaac Asimov'
 excerpt: Ser contra o intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento.
 tags:
     - Isaac Asimov
+    - Um culto da ignorância
 permalink: /um-culto-a-ignorancia-isaac-asimov/
-
 aliases:
     - /um-culto-a-ignorancia-isaac-asimov/
-hero: "/images/isaac-asimov.jpg"
+hero: /images/isaac-asimov.jpg
 timeToRead: 8
 authors:
-- Lefebvre Saboya
+    - Lefebvre Saboya
+date: '2021-12-01T18:33:57.000Z'
+description: Tradução desse texto maravilhoso e importantíssimo.
 ---
 
 É difícil discutir com a antiquíssima justificativa para a liberdade de imprensa: "*O Direito de Saber da América*". Parece quase cruel perguntar, ingênuo, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?

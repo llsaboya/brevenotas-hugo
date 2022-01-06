@@ -2,12 +2,13 @@
 layout: page
 title: Modelo de Análise e Diagnóstico de Empresa
 excerpt: Você pode mudar para melhor a gestão da sua empresa sozinho com essa ferramenta.
-hero: "/images/made-portifolio.png"
+hero: /images/made-portifolio.png
 permalink: /diagnostico-analise-empresa-made/
 authors:
-- Lefebvre Saboya
+  - Lefebvre Saboya
 aliases:
-    - /diagnostico-analise-empresa-made/
+  - /diagnostico-analise-empresa-made/
+date: '2021-10-01T18:33:13.000Z'
 ---
 
 # Introdução

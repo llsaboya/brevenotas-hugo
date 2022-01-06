@@ -2,12 +2,13 @@
 title: Livro - Atendimento Bancário
 excerpt: Como atender e vender em qualquer Instituição Financeira.
 permalink: /atendimento-bancario-lefebvre-saboya/
-hero: "/images/atendimento-portifolio.png"
-timeToRead: 8
+hero: /images/atendimento-portifolio.png
 authors:
-- Lefebvre Saboya
+    - Lefebvre Saboya
 aliases:
     - /atendimento-bancario-lefebvre-saboya/
+date: '2021-10-01T18:32:14.000Z'
+description: Atendimento Bancário - Como atender e vender em qualquer Instituição Financeira.
 ---
 
 Todos os clientes reclamam do atendimento dos bancos! Bancos gostam de disputar o primeiro lugar do prêmio "qual deles é o menos pior". E até hoje nenhum desses bancos conseguiu mudar a opinião desses clientes.
@@ -18,4 +19,4 @@ Atendimento Bancário mostra como Vender e Atender muito bem todos os clientes d
 
 Lefebvre de Saboya faz uma reflexão sobre o atendimento nos bancos brasileiros, os motivos da sua precariedade e como é fácil se destacar em um mercado com tanta carência de profissionalismo. 
 
-[Compre na Amazon.com](https://www.amazon.com.br/dp/B07ZTTKXW9){: .btn .btn--success .btn--x-large}
+:books: - [Compre na Amazon.com](https://www.amazon.com.br/dp/B07ZTTKXW9)
