@@ -20,11 +20,8 @@ hero: /images/olga-guryanova-ft7vJxwl2RY-unsplash.jpg
 Nós estamos revelando as melhores maneiras de desenvolver software enquando fazemos isso e ao ajudar outras pessoas a fazê-lo. Por meio deste trabalho, nós valorizamos:
 
 - **Indivíduos e interações ao invés de processos e ferramentas**
-
 - **Software funcional ao invés de documentação abrangente**
-
 - **Colaboração com cliente ao invés de negociação de contrato**
-
 - **Responder às mudanças ao invés de seguir um planejamento**
 
 Ou seja, embora exista valor nos itens à direita, valorizamos mais o itens à esquerda.
