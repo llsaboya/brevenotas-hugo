@@ -1,7 +1,7 @@
 ---
 hero:
-  heading: Não quero ser um gênio... Já tenho problemas suficientes ao tentar ser um homem. - Camus
+  heading: Esta obra organizada de um modo um tanto caótico já foi uma boa idéia.
   maxWidthPX: 652
 seo:
-  image: /images/hero-2.jpg
+  image: /images/assets/llsaboya-large.jpg
 ---

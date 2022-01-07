@@ -15,6 +15,7 @@ authors:
 date: '2021-12-01T18:33:57.000Z'
 description: Tradução desse texto maravilhoso e importantíssimo.
 ---
+:book: - Para baixar a versão em PDF, [clique aqui](/goodies/um-culto-da-ignorancia-isaac-asimov.pdf).
 
 É difícil discutir com a antiquíssima justificativa para a liberdade de imprensa: "*O Direito de Saber da América*". Parece quase cruel perguntar, ingênuo, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?
 
@@ -59,7 +60,5 @@ Podemos começar perguntando a nós mesmo se a ignorância é tão maravilhosa n
 Acredito que qualquer ser humano com um cérebro fisiologicamente normal pode aprender um monte de coisas e ser surpreendentemente inteligente. Acredito que o que precisamos desesperadamente é aprovação social do conhecimento e de recompensas sociais pelo aprendizado.
 
 Todos podemos ser membros da elite intelectual e assim, apenas assim, uma frase como "*O Direito de Saber da América*" e, de fato, qualquer conceito de democracia terão algum significado.
-
-> Para baixar a versão em PDF, [clique aqui](/goodies/um-culto-da-ignorancia-isaac-asimov.pdf).
 
 {{< figure src="/images/e8dfe37f70d9d5f2dfdbd01ffb206d69daf1678f.png" alt="Artigo original - A cult of ignorance" caption="A cult of ignorance, de Asimov." >}}

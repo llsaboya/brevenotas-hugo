@@ -19,8 +19,10 @@ social:
 
 O **Breves Notas** é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia.
 
+Já **Lefebvre Saboya** é escritor e especialista em simplicidade e solução de problemas. Ele tem um peculiar talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas adoram encontra-lo. Ele quase sempre consegue resolve-los (ou não).
+
+Quando não está resolvendo os tais "problemas", eu escreve. 
+
 ### Contato
 
-Não tem nenhum segredo para falar comigo. Só mandar um e-mail:
-
-[hello@llsaboya.com](mailto:hello@llsaboya.com) e pode conversar comigo sobre qualquer assunto.
+Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@llsaboya.com](mailto:hello@llsaboya.com) e conversamos sobre qualquer assunto.

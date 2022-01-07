@@ -28,13 +28,13 @@ Você pode usar este documento do Word para escrever uma excelente ensaio, do in
 
 Para começar a escrever seu ensaio, vá para a próxima parte, para o primeiro passo: introdução.
 
-# Passo 1: introdução
+## Passo 1: introdução
 
-## O que é um ensaio?
+### O que é um ensaio?
 
 Um ensaio é um texto relativamente curto sobre um assunto em particular. No entanto, a palavra *ensaio* também significa tentativa, desafio ou experimento. Um ensaio é, portanto, uma pequena peça escrita por alguém que tenta explorar um tópico ou tenta responder a uma pergunta.
 
-## Por que se preocupar em escrever um ensaio?
+### Por que se preocupar em escrever um ensaio?
 
 Via de regra, os alunos escrevem ensaios apenas porque são obrigados por um professor. Assim, os alunos passam a acreditar que ensaios são importantes primeiro para demonstrar seus conhecimentos a um professor. Isso é simplesmente, e perigosamente, errado (embora, na prática, a escrita para demonstração de conhecimento possa ser necessária).
 
@@ -58,13 +58,13 @@ Então, a menos que você queira continuar sendo um ignorante e sem ter substân
 
 Nunca subestime o poder das palavras. Sem elas ainda estaríamos vivendo em árvores. Portanto, quando você está escrevendo um ensaio, você aproveita todo o poder da cultura para sua vida. É por isso que você escreve um ensaio (mesmo se ele for uma obrigação). Esqueça essa importância e você estará fazendo algo estúpido, trivial e enfadonho. Lembre-se disso e você estará conquistando o desconhecido.
 
-## Uma nota sobre tecnologia
+### Uma nota sobre tecnologia
 
 Se você é um estudante, ou qualquer outra pessoa que vai escrever muito, então você deve se dar ao direito de ter a tecnologia certa, especialmente agora, quando é virtualmente grátis. Obviamente, você precisa de um computador. Não precisa ser de última geração, embora um SSD seja um bom investimento para velocidade. Menos óbvio, você precisa de duas telas, uma configurada ao lado da outra. Elas não precisam ser maiores que 19" na diagonal. Até monitores de 17" funcionarão bem. Alta resolução é melhor. Você precisa das duas telas para que possa apresentar seu material de referência em uma tela e seu texto (ou mesmo duas versões de sua redação, lado a lado) na outra.
 
 Ter esse espaço visual extra importa. Isso o deixará menos sobrecarregado e mais eficiente. Um bom teclado (como o Teclado Ergonômico Natural da Microsoft) também é um excelente investimento. Os teclados padrão machucam suas mãos se você usá-los continuamente, e quanto menos se fala sobre o teclado de um notebook, melhor. Use um bom mouse também, e não um *touchpad*, o que requer muitos movimentos meticulosos para alguém que está realmente escrevendo. Configure os teclados de forma que você olhe diretamente para o centro quando estiver sentado ereto. Use uma cadeira decente e sente-se de forma que seus pés possam descansar confortavelmente no chão quando seus joelhos estiverem dobrados em 90 graus. Essas não são questões triviais. Você pode passar horas trabalhando nos seus textos, então terá que criar um espaço de trabalho que não o incomode, ou terá apenas mais um bom motivo para fugir de suas tarefas e atribuições.
 
-## Uma nota sobre o aproveitamento do tempo
+### Uma nota sobre o aproveitamento do tempo
 
 O cérebro das pessoas funciona melhor de manhã. Levante-se. Coma alguma coisa. Você fica mais inteligente e resiliente depois de dormir e comer de maneira adequada. Existem sólidas pesquisas que demonstram isso. O café sozinho é contraproducente. Coma alguma proteína e alguma gordura. Faça uma vitamina com frutas e iogurte de verdade. Saia e compre um café da manhã simples, se necessário. Coma de qualquer jeito, mas coma. Prepare-se para gastar entre 90 minutos a três horas escrevendo. No entanto, até 15 minutos podem ser aproveitados, principalmente se você fizer isso todos os dias.
 
@@ -74,9 +74,9 @@ Perceba que, quando você se sentar pela primeira vez para escrever, sua mente v
 
 Não se iluda pensando que escreverá por seis horas também. Três é o máximo, especialmente se você quiser escrever dia após dia. Não espere demais para começar a escrever, para que você não precise digitar feito um louco, mas dê um tempo a si mesmo após um bom período de concentração constante. Três horas produtivas são muito melhores do que dez horas de improdutividade auto-enganosa, mesmo na biblioteca.
 
-# Passo 2: níveis de resolução
+## Passo 2: níveis de resolução
 
-## Palavras, frases, parágrafos e mais
+### Palavras, frases, parágrafos e mais
 
 Um ensaio, como qualquer texto, existe em vários níveis de resolução ao mesmo tempo. **Primeiro** vem a seleção da palavra. O **segundo** nível é a elaboração da frase. Cada palavra deve ser a palavra certa, no local certo, em cada frase. A frase, ela mesma deve apresentar um pensamento, parte da ideia expressa no parágrafo, de forma gramaticalmente correta. Cada frase deve ser devidamente organizada e sequenciada dentro de um parágrafo, o **terceiro** nível de resolução. Como regra geral, um parágrafo deve ser composto de pelo menos 10 sentenças ou 100 palavras. Isso parece uma regra estúpida, porque é arbitrária. No entanto, você deve deixá-la te guiar, até que você saiba escrever melhor. Você tem pouco direito de quebrar regras até dominá-las.
 
@@ -95,13 +95,13 @@ Todos os parágrafos devem ser organizados em uma progressão lógica, do iníci
 
 O **quinto** nível de resolução é o ensaio como um todo. Cada elemento de um ensaio pode estar certo, cada palavra, frase e parágrafo - até mesmo a ordem dos parágrafos - e o ensaio falhar, apenas porque ele não é interessante ou importante. É muito difícil para escritores competentes, mas pouco inspirados, compreender esse tipo de falha, porque um crítico não pode apenas apontar "essa falha". Não há resposta para a pergunta \"exatamente onde cometi um erro?\". Tal ensaio simplesmente não é bom. Um ensaio sem originalidade ou criatividade pode cair nesta categoria. Às vezes, uma pessoa criativa, que não é tecnicamente proficiente como escritor, pode cometer o erro oposto: sua escolha de palavras é pobre, suas frases mal construídas e mal organizadas nos parágrafos, e seus parágrafos sem nenhuma relação inteligível entre si - e ainda assim o ensaio como um todo pode ter sucesso, porque há pensamentos valiosos dentro dele, desejando em desespero serem expressos.
 
-## Níveis adicionais
+### Níveis adicionais
 
 Você pode pensar ser impossível existir mais em um ensaio do que esses cinco níveis de resolução ou análise, mas você estaria errado. Isso é algo que foi notado pela primeira vez, talvez, por aqueles estudiosos totalmente repreensíveis e destrutivos conhecidos como pós-modernistas. Um ensaio existe necessariamente dentro de um contexto de interpretação, composto pelo leitor (nível seis) e pela cultura na qual o leitor está inserido (nível sete), que é composta em parte pelas suposições trazidas para o texto. Os níveis seis e sete têm raízes profundas na biologia e na cultura. Você pode pensar "por que preciso saber disso?". Entretanto, se você não souber isso, você não está considerando seu público, e isso é um erro. Parte do objetivo do ensaio é expressar seu pensamento, mas a outra parte, igualmente importante, é se comunicar com o público.
 
 Para que o ensaio seja bem-sucedido, de maneira brilhante, ele precisa funcionar em todos esses níveis de resolução simultaneamente. Isso é muito difícil, mas o valor do ato de escrever está nessa dificuldade.
 
-## Considerações sobre estética e fascinação
+### Considerações sobre estética e fascinação
 
 Isso não é tudo que precisa ser administrado de forma adequada quando você escreve um ensaio. Você também deve se esforçar para ser breve, isto é, se expressar de modo conciso e eficiente, bem como a beleza, que é o aspecto melódico ou poético de sua linguagem (em todos os níveis exigidos de análise). Finalmente, você não deve estar entediado ou ser tedioso. Se você fica entediado ao escrever, então, o mais importante a saber é: você está fazendo isso errado e também aborrecerá seu leitor. Pense desta forma: você fica entediado por um motivo, e às vezes é por um bom motivo. Você pode ficar entediado ao escrever seu ensaio porque, na verdade, está mentindo demais para si mesmo sobre o que está fazendo e a razão de estar fazendo isso. Sua mente, independente de seu ego, não pode ser enganada para prestar atenção em algo que você considera desinteressante ou inútil. Ele automaticamente considerará tal coisa indigna de atenção e o deixará entediado.
 
@@ -117,7 +117,7 @@ Portanto, a atitude adequada é interessada e esteticamente sensível.
 
 Dito tudo isso, aqui está algo para lembrar: o *finalizado* vence o *perfeito*. A maioria das pessoas reprova uma aula, uma tarefa ou um projeto de trabalho não porque escrevem mal e obtêm notas baixas, e sim porque não escrevem nada e ganham zeros. Zeros são muito ruins. Eles são os buracos negros dos números. Zeros fazem você falhar. Zeros arruínam sua vida. Ensaios entregues, não importa o quão mal escritos estejam, geralmente podem render pelo menos um 7. Portanto, não seja um idiota autodestrutivo. Entregue algo, independentemente de quão patético você ache que seja (e não importa o quão certo você esteja nesse seu julgamento).
 
-# Passo 3: o tópico e a lista de leitura
+## Passo 3: o tópico e a lista de leitura
 
 A questão central que você está tentando responder com o ensaio é o assunto em questão. Aqui estão algumas questões de tópico potencialmente interessantes:
 
@@ -147,7 +147,7 @@ Você pode começar o processo de redação de duas maneiras diferentes. Você p
 
 ESCOLHA ENTRE TÓPICOS e LISTA DE LEITURA
 
-## Tópicos
+### Tópicos
 
 Coloque-os em forma de pergunta, como nos exemplos acima.
 
@@ -166,7 +166,7 @@ Coloque-os em forma de pergunta, como nos exemplos acima.
 
 Se não puder fazer isso, você terá que fazer mais algumas leituras (o que provavelmente você terá que fazer para completar o ensaio de qualquer maneira) . A propósito, não existe *bloqueio de leitor.* Se você não consegue escrever, é porque não tem nada a dizer. Você não tem ideias. Em tal situação, não se orgulhe de seu *bloqueio de escritor*. Leia alguma coisa. Se isso não funcionar, leia outra coisa - talvez algo melhor. Repita até que o problema seja resolvido.
 
-## Lista de leitura
+### Lista de leitura
 
 Indique aqui o que você deve ou quer ler. Devem ser livros ou artigos, de forma geral. Se você não sabe quais artigos ou livros são apropriados ou úteis, você pode começar com artigos da Wikipédia ou outras fontes enciclopédicas, e olhar suas listas de referência para obter ideias sobre leituras futuras. Essas fontes são boas para começar.
 
@@ -187,7 +187,7 @@ Suponha que você precise de 5 a 10 livros ou artigos por mil palavras para seu 
 | Leitura 9.<br/>Notas:                                        |
 | Leitura 10 (repetir se necessário).<br/>Notas (repita se necessário):` |
 
-## Uma nota psicológica e algumas notas sobre notas.
+### Uma nota psicológica e algumas notas sobre notas.
 
 Enquanto você está lendo, veja se consegue perceber algo que chame sua atenção. Isso pode ser algo que você considere importante, ou algo do qual discorde seriamente ou algo sobre o qual queira saber mais. Você precisa prestar muita atenção às suas reações emocionais para fazer isso.
 
@@ -201,7 +201,7 @@ Se você achar muito difícil fazer anotações dessa maneira, tente isto: leia 
 
 Faça cerca de duas a três vezes mais notas do que você precisará para sua redação. Você pode pensar que isso é ineficiente, mas não é. Para escrever de forma inteligível sobre algo, ou para falar com inteligência sobre algo, você precisa saber muito mais do que realmente vai comunicar. Isso ajuda você a dominar os níveis seis e sete, descritos anteriormente - o contexto dentro do qual o ensaio deve ser compreendido. A partir dessas notas, você deve ser capaz de achar de 8 a 10 questões de tópicos. Faça isso. Lembre-se de que eles podem ser editados posteriormente. Apenas ponha isso no papel.
 
-# Passo 4: o esboço
+## Passo 4: o esboço
 
 Neste ponto, você preparou uma lista de tópicos e uma lista de leitura. Agora é hora de escolher um tópico.
 
@@ -317,7 +317,7 @@ Escreva o esboço aqui:
 | 9. Esboço da frase 9:                          |
 | 10. Esboço da frase 10 (repita se necessário): |
 
-# Passo 5: parágrafos
+## Passo 5: parágrafos
 
 Então, agora você tem seu esboço. Copie aqui:
 
@@ -343,7 +343,7 @@ Demorou dois parágrafos para começar a abordar a primeira frase de esboço. Ob
 
 Depois de completar dez a quinze frases para cada título do esboço, você terá terminado seu primeiro rascunho. Agora é hora de passar para a edição.
 
-# Passo 6: editando e organizando as sentenças dentro dos parágrafos.
+## Passo 6: editando e organizando as sentenças dentro dos parágrafos.
 
 Copie o primeiro parágrafo do seu primeiro rascunho aqui:
 
@@ -396,7 +396,7 @@ Comece com o parágrafo 1. Divida-o em frases simples, como você fez antes. Ago
 
 Você também pode eliminar frases que não são mais necessárias. Quando você estiver satisfeito com o primeiro parágrafo (o que significa que as frases são necessárias, curtas e contundentes e na ordem correta), vá para o próximo parágrafo e faça a mesma coisa.
 
-# Passo 7: reordenando os parágrafos
+## Passo 7: reordenando os parágrafos
 
 Agora, copie todos os novos parágrafos melhorados que você editou aqui:
 
@@ -420,7 +420,7 @@ Agora você vai tentar melhorar a ordem desses parágrafos novos e aprimorados. 
 
 Agora olhe para a ordem dos próprios parágrafos (como você acabou de fazer com as sentenças dentro de cada parágrafo). Pode ser que agora, no processo de edição, você descubra que a ordem dos sub-tópicos em seu esboço original não é mais apropriada e que alguma reordenação desses sub-tópicos é necessária. Portanto, mova o novo parágrafo melhorado (cópias) acima, até que eles sejam ordenados de forma mais apropriada do que estavam.
 
-# Passo 8: gerando um novo esboço
+## Passo 8: gerando um novo esboço
 
 Então, agora você deve ter produzido um segundo esboço bem decente. Você identificou as fontes apropriadas, escreveu as notas adequadas, esboçou seu argumento, esboçou um primeiro rascunho (parágrafo por parágrafo), reescreveu suas frases para torná-las mais elegantes e reordenou essas frases, bem como os próprios parágrafos. Isso é muito mais longe do que a maioria dos escritores jamais chegará. Você pode até pensar que acabou - mas não acabou.
 
@@ -461,13 +461,13 @@ Assim que terminar de recortar e colar o material antigo no novo esboço, copie 
 | COLOQUE O ENSAIO RECÉM ESBOÇADO AQUI: |
 | ------------------------------------- |
 
-# Passo 9: repetir
+## Passo 9: repetir
 
 Agora você tem um terceiro rascunho, e provavelmente é muito bom. Se você realmente deseja avançar para o próximo nível, pode repetir o processo de reescrever e reordenar frases, bem como reescrever e reordenar os parágrafos. Frequentemente, é uma boa ideia esperar alguns dias para fazer isso, de modo que você possa ver o que produziu com novos olhos. Então você poderá ver o que escreveu, em vez de ver o que pensa que escreveu (o que é o caso quando você tenta editar imediatamente após a produção).
 
 Você não terminou de verdade até que não possa mais editar nada para que seu ensaio melhore. Geralmente, você pode dizer se isso aconteceu quando tentar reescrever uma frase (ou um parágrafo) e não tiver certeza de que a nova versão é melhor em relação à original.
 
-# Passo 10: referências e bibliografia
+## Passo 10: referências e bibliografia
 
 Quando você escreve uma frase que contém algo que deve ser um fato ou pelo menos uma opinião informada, e você a pegou isso de algo que leu, então você deve se referir a essa fonte. Caso contrário, seguindo a convenção, as pessoas podem acusá-lo de plágio, que é uma forma de roubo (de propriedade intelectual). Há um grande número de convenções que você pode seguir para estruturar adequadamente suas referências e bibliografia (que é uma lista de livros e artigos que você leu para obter informações gerais relevantes, mas das quais você pode não ter extraído quaisquer ideias específicas o suficiente para exigir uma referência).
 
@@ -509,7 +509,7 @@ Seu professor pode ter recomendado, ou exigido, o uso de um conjunto diferente d
 
 Adicione referências onde forem necessárias. Em seguida, adicione sua bibliografia no final de seu ensaio. Certifique-se de construir ambos de acordo com a convenção APA ou algum outro conjunto de regras.
 
-# Seu ensaio concluído
+## Seu ensaio concluído
 
 Agora seu ensaio está concluído. Agora você precisa copiá-lo em um novo documento do Word e formatá-lo corretamente.
 
