@@ -10,7 +10,7 @@ tags:
     - Agente 114
     - Luiz Antônio da Cruz Pinelli
     - Polícia Federal
-
+preview: /images/bd8969771961988c330414f61ee908ef9cd87f98.png
 hero: /images/bd8969771961988c330414f61ee908ef9cd87f98.png
 rating: 5
 slug: agente-114-cacador-de-bandidos

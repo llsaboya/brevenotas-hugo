@@ -8,6 +8,7 @@ permalink: /um-culto-a-ignorancia-isaac-asimov/
 aliases:
     - /um-culto-a-ignorancia-isaac-asimov/
 hero: /images/isaac-asimov.jpg
+preview: /images/isaac-asimov.jpg
 timeToRead: 8
 authors:
     - Lefebvre Saboya

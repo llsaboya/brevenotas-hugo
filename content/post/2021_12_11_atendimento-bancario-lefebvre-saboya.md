@@ -3,6 +3,7 @@ title: Livro - Atendimento Bancário
 excerpt: Como atender e vender em qualquer Instituição Financeira.
 permalink: /atendimento-bancario-lefebvre-saboya/
 hero: /images/atendimento-portifolio.png
+preview: /images/atendimento-portifolio.png
 authors:
     - Lefebvre Saboya
 aliases:

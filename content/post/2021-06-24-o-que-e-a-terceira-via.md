@@ -1,8 +1,7 @@
 ---
-
 authors:
 - Lefebvre Saboya
-
+preview: /images/fhc-e-tancredo.jpg
 title: A formação de uma terceira via para 2022
 excerpt: Será possível mesmo achar uma terceira via para mudar o Brasil para a melhor?
 categories:

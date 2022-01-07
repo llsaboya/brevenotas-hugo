@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-
+preview: /images/1-joker-l.jpg
 imageshadow: true
 title: Manifesto pela liberdade de expressão
 excerpt: 'Conhecimento e consciência deveriam ser fundamentais para pensar, redigir e publicar manifestos.'

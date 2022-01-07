@@ -13,6 +13,7 @@ tags:
 hero: /images/1-video-l.jpg
 authors:
 - Lefebvre Saboya
+preview: /images/1-video-l.jpg
 
 slug: 5-canais-youtube-para-aprender-alguma-coisa
 ---

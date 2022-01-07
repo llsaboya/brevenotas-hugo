@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-
+preview: /images/alex-motoc-OEMP9bA6mDo-unsplash.jpg
 title: '8 de Setembro, 2021'
 categories:
     - Política
