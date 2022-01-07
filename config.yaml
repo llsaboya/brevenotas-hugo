@@ -1,5 +1,6 @@
 baseURL: "https://llsaboya.com"
-languageCode: "en-us"
+languageCode: "pt-br"
+defaultContentLanguage: "pt-br"
 title: "Breves Notas"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
