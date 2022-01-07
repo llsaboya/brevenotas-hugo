@@ -1,6 +1,5 @@
 ---
 title: Lefebvre de Saboya
-slug: lefebvre-de-saboya
 description: 'Escritor e especialista em simplicidade e solução de problemas. '
 tags:
     - Lefebvre de Saboya
