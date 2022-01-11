@@ -12,6 +12,10 @@ tags:
   - RIM
   - iPhone
 preview: /images/18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg
+categories:
+  - Notas
+keywords:
+  - BlackBerry
 ---
 
 E foi com muito pesar que recebi a notícia da [morte do BlackBerry](https://www.wired.com/story/the-end-BlackBerry-phones-here/). Alguém acha estranho que meu BlackBerry foi mais impactante na minha vida do que muitas pessoas? Os jovens hoje acreditam que estão no pináculo da produtividade humana. Como eles estão errados e não sabem do que falam: nenhum deles usou um BlackBerry na vida!

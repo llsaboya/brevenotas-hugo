@@ -5,6 +5,7 @@ tags:
     - Lefebvre de Saboya
 keywords:
     - Lefebvre de Saboya
+hero: /images/Curriculo-profissional-th.png
 ---
 Escritor e especialista em simplicidade e solução de problemas. Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
 
