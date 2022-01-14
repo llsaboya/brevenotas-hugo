@@ -5,18 +5,23 @@ tags:
     - Lefebvre de Saboya
 keywords:
     - Lefebvre de Saboya
-hero: /images/Curriculo-profissional-th.png
 ---
+
 Escritor e especialista em simplicidade e solução de problemas. Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
 
 Quando não estou resolvendo os tais "problemas", eu escrevo. Abaixo segue alguns exemplos. 
 
 Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@llsaboya.com](mailto:hello@llsaboya.com) e conversamos sobre qualquer assunto.
 
-Experiência
----------
+## Portifólio
 
------------------------------------------------------------
+- [Livro - Atendimento Bancário: Como atender e vender em qualquer Instituição Financeira](/atendimento-bancario-lefebvre-saboya/)
+- [Modelo de Análise e Diagnóstico de Empresa](/diagnostico-analise-empresa-made/)
+- [Tradução de Um Culto da Ignorância, por Isaac Asimov](/um-culto-a-ignorancia-isaac-asimov/)
+- [Tradução de Guia de escrita, por Jordan Peterson](/writing-guite-jordan-peterson/)
+
+
+## Experiência
 
 ### Dale Carnegie Training | 2018-2019
 
@@ -46,10 +51,7 @@ Gerenciei carteira de clientes pessoa jurídica e seus sócios administradores, 
 
 - Gestão de contas de governo, clientes corporativos e associações de classes.
 
-Formação
---------------------
-
----------------------------------
+## Formação
 
 **Superior em Processos Gerenciais, Economia e Gestão Empresarial**, Universidade Luterana do Brasil - ULBRA (2016-2017)
 
