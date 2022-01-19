@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: Instructional design na aprendizagem corporativa
-excerpt: 'O homem não aprende nada sem ser ensinado: não sabe falar, nem caminhar, nem comer, enfim, não sabe fazer nada no estado natural, a não ser chorar.'
+description: 'O homem não aprende nada sem ser ensinado: não sabe falar, nem caminhar, nem comer, enfim, não sabe fazer nada no estado natural, a não ser chorar.'
 categories:
   - Instructional Design
 tags:

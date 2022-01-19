@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 preview: /images/Screenshot_20211007_222512.png
 title: Breves Notas 2.0
-excerpt: 'Nunca estou satisfeito com o design do meu site, sempe quero mudar e não sei quando parar.'
+description: 'Nunca estou satisfeito com o design do meu site, sempe quero mudar e não sei quando parar.'
 categories:
   - Notas
 hero: /images/Screenshot_20211007_222512.png

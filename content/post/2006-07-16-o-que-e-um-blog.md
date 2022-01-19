@@ -14,7 +14,7 @@ toc: false
 toc_sticky: true
 draft: false
 slug: como-definir-de-verdade-e-um-blog
-excerpt: 'Não sei se essa é uma dúvida geral, ou se somente eu aqui, no recanto do meu sossegado lar, penso sobre o que diabos é um blog de verdade.'
+description: 'Não sei se essa é uma dúvida geral, ou se somente eu aqui, no recanto do meu sossegado lar, penso sobre o que diabos é um blog de verdade.'
 keywords:
     - blog
     - definição

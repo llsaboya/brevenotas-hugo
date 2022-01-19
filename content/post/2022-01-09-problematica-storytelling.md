@@ -1,11 +1,10 @@
 ---
 title: O storytelling através da herança do pós-modernismo francês
 hero: /images/derrida-2.jpg
-excerpt: 'Contar bem histórias poder servir para o mal é um conceito relativamente novo, como mostrou o filósofo contemporâneo Platão.'
 authors:
   - Lefebvre Saboya
 slug: storytelling-atraves-da-heranca-pos-modernismo-frances
-description: 'Storytelling podem servir para o mal é um conceito relativamente novo, como mostrou o filósofo contemporâneo Platão.'
+description: 'Storytelling podem servir para o mal é um conceito relativamente novo.'
 tags:
   - storytelling
   - Derrida

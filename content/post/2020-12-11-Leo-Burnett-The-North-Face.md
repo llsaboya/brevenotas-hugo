@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: O Golpe da Leo Burnett Tailor Made e da The North Face
-excerpt: Leo Burnett Tailor Made e a The North Face tiveram a idéia de manipular o Google e claro que não deu certo.
+description: Leo Burnett Tailor Made e a The North Face tiveram a idéia de manipular o Google e claro que não deu certo.
 categories:
     - Comunicação
 tags:

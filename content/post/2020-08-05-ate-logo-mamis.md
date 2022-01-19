@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: 'Até logo, mamis'
-excerpt: A dor e a revolta é assunto dos vivos. E as últimas lembranças também.
+description: A dor e a revolta é assunto dos vivos. E as últimas lembranças também.
 categories:
     - Notas
 tags:

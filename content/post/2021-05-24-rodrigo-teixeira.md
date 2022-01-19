@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: 'O que é ser de Campo Grande, Mato Grosso do Sul'
-excerpt: Ainda acho melhor chamar alguém que goste de Campo Grande para escrever sobre Campo Grande.
+description: Ainda acho melhor chamar alguém que goste de Campo Grande para escrever sobre Campo Grande.
 categories:
     - Cultura
 tags:

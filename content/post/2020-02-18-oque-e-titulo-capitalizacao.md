@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: Título de Capitalização - O que é e como se vende
-excerpt: 'Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira'
+description: 'Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira'
 hero: /images/museums-victoria-bank-unsplash.jpg
 categories:
   - Empresarial

@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: A feijoada que derrubou o governo - Joel Silveira
-excerpt: 'Um bom repórter cumpre o seu dever profissional. O grande é aquele que, mesmo diante das suas diferenças. Já os gênios, como Joel, além de tudo isso, faz algo ainda mais extraordinário'
+description: 'Um bom repórter cumpre o seu dever profissional. O grande é aquele que, mesmo diante das suas diferenças. Já os gênios, como Joel, além de tudo isso, faz algo ainda mais extraordinário'
 categories:
     - Política
     - Cultura

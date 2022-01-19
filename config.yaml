@@ -1,10 +1,11 @@
 baseURL: "https://llsaboya.com"
 languageCode: "pt-br"
 defaultContentLanguage: "pt-br"
-title: "Breves Notas"
+title: "Lefebvre de Saboya - Breves Notas"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 enableEmoji: true
+description: "Esta obra organizada de um modo um tanto caótico já foi uma boa idéia."
 
 # Theme settings
 theme: brevesnotas-novela

@@ -1,6 +1,6 @@
 ---
 title: 'Tradução de Um Culto da Ignorância, por Isaac Asimov'
-excerpt: Ser contra o intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento.
+description: Ser contra o intelectualismo é uma constante ameaça se ignorância é tão boa quanto o conhecimento.
 tags:
     - Isaac Asimov
     - Um culto da ignorância

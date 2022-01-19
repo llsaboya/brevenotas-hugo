@@ -1,6 +1,6 @@
 ---
 title: "Gabriel Marcel e o existencialismo, por Urbano Zilles"
-excerpt: "Monsenhor Urbano Zilles discute a obra de Gabriel Marcel, um filósofo desconhecido na cultura brasileira"
+description: "Monsenhor Urbano Zilles discute a obra de Gabriel Marcel, um filósofo desconhecido na cultura brasileira"
 categories:
   - Cultura
 tags:

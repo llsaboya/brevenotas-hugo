@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: 'Agente 114: o caçador de bandidos'
-excerpt: 'Em resumo, o Agente Pinelli escreveu um belo livro. Entretanto, há um grande problema: ninguém vai acreditar nele. Sim, é verdade, ninguém acredita.'
+description: 'Em resumo, o Agente Pinelli escreveu um belo livro. Entretanto, há um grande problema: ninguém vai acreditar nele. Sim, é verdade, ninguém acredita.'
 categories:
     - Cultura
 tags:

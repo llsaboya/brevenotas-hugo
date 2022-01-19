@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: A revista Crusoé contra o site O Antagonista
-excerpt: Se a Crusoé brigasse com o O Antagonista seria uma situação freudiana interessante.
+description: Se a Crusoé brigasse com o O Antagonista seria uma situação freudiana interessante.
 categories:
     - Política
     - Cultura

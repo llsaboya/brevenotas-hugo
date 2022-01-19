@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: Como despiorar a sua vida em 1 passo
-excerpt: 'Não importa se você é um justiceiro linguístico, "despiorar" é simplesmente errado e não é novidade alguma.'
+description: 'Não importa se você é um justiceiro linguístico, "despiorar" é simplesmente errado e não é novidade alguma.'
 categories:
     - Notas
 tags:

@@ -4,7 +4,7 @@ authors:
 
 imageshadow: true
 title: Quando ter um blog era diversão
-excerpt: 'Não existem mais blogs, apenas sites de venda escrito pelas pessoas mais incompetentes da internet.'
+description: 'Não existem mais blogs, apenas sites de venda escrito pelas pessoas mais incompetentes da internet.'
 categories:
   - Notas
 slug: quando-ter-blog-era-divertido

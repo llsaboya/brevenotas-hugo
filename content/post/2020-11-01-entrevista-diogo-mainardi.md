@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: Entrevista Diogo Mainardi
-excerpt: 'Nessa entrevista, Diogo fala sobre a vida, literatura, o lado pessoal do famoso colunista'
+description: 'Nessa entrevista, Diogo fala sobre a vida, literatura, o lado pessoal do famoso colunista'
 categories:
   - Cultura
 tags:

@@ -1,9 +1,8 @@
 ---
 authors:
-- Lefebvre Saboya
-
+    - Lefebvre Saboya
 title: Aprenda tudo sobre tags em 5 passos
-excerpt: 'Você já pegou um livro, daqueles bem grandes, que tem um índice com os capítulos no começo, e outro muito maior no fim? Tags!'
+description: 'Você já pegou um livro, daqueles bem grandes, que tem um índice com os capítulos no começo, e outro muito maior no fim? Tags!'
 categories:
     - Tecnologia
 tags:
@@ -13,12 +12,10 @@ tags:
     - wordpress
 hero: /images/1-notas-l.jpg
 draft: false
-slug: aprenda-tudo-sobre-tags-em-5-passos
-description: ''
 keywords:
     - Tag
     - Tags
-
+slug: aprenda-tudo-sobre-tags-em-5-passos
 ---
 
 Nesse ano o blogger adicionou uma nova função ao sistema, que são as tags. Desconhecida para a maioria dos blogueiros amadores, as tais tags são uma ferramenta vital para os blogs mais profissionais. Se você surfa na web, já se deparou com o sistema. Mas as tags não são só úteis para quem faz do blog uma espécie de profissão. Saber usar as tags corretamente ajuda qualquer um que goste de publicar texto, foto ou o que quer que seja na web. Além disso, as tags também ajudam os sistemas de publicidade, como o Google Ads, a colocar anúncios mais relevantes na sua página. Se você quer ganhar dinheiro com um blog, ou simplesmente quer ser lido por mais pessoas, é bom ler o texto com atenção.

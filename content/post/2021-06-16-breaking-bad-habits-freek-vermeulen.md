@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 preview: /images/freek-v-th.png
 title: Breaking Bad Habits - Freek Vermeulen
-excerpt: 'Acabado com os maus-hábitos, desafie as normas da indústria e revigore seu negócio'
+description: 'Acabado com os maus-hábitos, desafie as normas da indústria e revigore seu negócio'
 categories:
     - Negócios
 tags:

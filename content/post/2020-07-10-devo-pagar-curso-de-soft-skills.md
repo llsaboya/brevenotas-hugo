@@ -1,6 +1,6 @@
 ---
 title: Devo pagar por cursos de Soft Skills?
-excerpt: Você não desenvolve Soft Skills sozinho. Busque ajuda agora!
+description: Você não desenvolve Soft Skills sozinho. Busque ajuda agora!
 categories:
   - Empresarial
 tags:

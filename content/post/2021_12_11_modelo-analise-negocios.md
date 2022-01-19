@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modelo de Análise e Diagnóstico de Empresa
-excerpt: Você pode mudar para melhor a gestão da sua empresa sozinho com essa ferramenta.
+description: Você pode mudar para melhor a gestão da sua empresa sozinho com essa ferramenta.
 hero: /images/made-hero-853-480.webp
 preview: /images/made-hero-853-480.webp
 permalink: /diagnostico-analise-empresa-made/

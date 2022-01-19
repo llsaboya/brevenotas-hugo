@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: Dale Carnegie vale a pena
-excerpt: Descubra se os cursos de soft skills da Dale Carnegie são bons ou pura enganação.
+description: Descubra se os cursos de soft skills da Dale Carnegie são bons ou pura enganação.
 categories:
     - Instructional Design
     - Empresarial

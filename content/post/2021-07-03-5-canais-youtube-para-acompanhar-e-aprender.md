@@ -1,6 +1,6 @@
 ---
 title: 5 canais do Youtube para aprender alguma coisa
-excerpt: Dê uma chance e abra sua mente para coisas novas para aprender alguma coisa nova e interessante.
+description: Dê uma chance e abra sua mente para coisas novas para aprender alguma coisa nova e interessante.
 categories:
     - Video
 tags:

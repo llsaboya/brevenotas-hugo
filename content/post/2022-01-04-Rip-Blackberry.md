@@ -1,11 +1,10 @@
 ---
 title: A história do BlackBerry até sua morte
 hero: /images/18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg
-excerpt: 'Os jovens hoje acreditam que estão no pináculo da produtividade humana, mas nenhum deles usou um BlackBerry na vida!'
+description: 'Os jovens hoje acreditam que estão no pináculo da produtividade humana, mas nenhum deles usou um BlackBerry na vida!'
 authors:
   - Lefebvre Saboya
 slug: historia-blackberry-ate-sua-morte
-description: Contando a história do meu BlackBerry e como ele foi importante para mim e para o resto do mundo.
 tags:
   - BBM
   - BlackBerry

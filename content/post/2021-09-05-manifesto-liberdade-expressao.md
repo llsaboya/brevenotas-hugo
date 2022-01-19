@@ -4,7 +4,7 @@ authors:
 preview: /images/1-joker-l.jpg
 imageshadow: true
 title: Manifesto pela liberdade de expressão
-excerpt: 'Conhecimento e consciência deveriam ser fundamentais para pensar, redigir e publicar manifestos.'
+description: 'Conhecimento e consciência deveriam ser fundamentais para pensar, redigir e publicar manifestos.'
 categories:
     - Cultura
 tags:

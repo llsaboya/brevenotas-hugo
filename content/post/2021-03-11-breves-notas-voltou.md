@@ -4,7 +4,7 @@ authors:
 
 imageshadow: true
 title: 'Um ano d''A Peste, e o Breves Notas voltou!'
-excerpt: 'Textos sempre foram o pior negócio da história. Espero que meus leitores continuem se seguindo porque, ao menos, você escapa das discussões nas redes sociais e podem vir aqui dizer que eu estou errado.'
+description: 'Textos sempre foram o pior negócio da história. Espero que meus leitores continuem se seguindo porque, ao menos, você escapa das discussões nas redes sociais e podem vir aqui dizer que eu estou errado.'
 categories:
   - Notas
   - Video

@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 
 title: 'A Norma Oculta, por Marcos Bagno'
-excerpt: 'A Norma Oculta é um livro cheio de erros infantis de discurso, raciocínio e análise e não deveria ser levado a sério.'
+description: 'A Norma Oculta é um livro cheio de erros infantis de discurso, raciocínio e análise e não deveria ser levado a sério.'
 categories:
     - Comunicação
 tags:

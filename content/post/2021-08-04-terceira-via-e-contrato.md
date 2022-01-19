@@ -3,7 +3,7 @@ authors:
 - Lefebvre Saboya
 preview: /images/1-politica-l.jpg
 title: 'Terceira via não é causa, é contrato'
-excerpt: Como a Terceira via espera vencer a eleição sem um contrato?
+description: Como a Terceira via espera vencer a eleição sem um contrato?
 categories:
     - Política
 tags:
