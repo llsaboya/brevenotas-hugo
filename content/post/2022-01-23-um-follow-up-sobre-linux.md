@@ -18,7 +18,7 @@ categories:
   - Tecnologia
 ---
 
-Algumas pessoas se irritaram com meu último texto, então preciso esclarecer umas coisas. Entendam: para um usuário normal de computador, tanto faz se ele usa Windows, macOS ou Linux. O importante é o sistema operacional permitir que uma pessoa consiga fazer o que ela quer. É simples assim. Sistema operacional não define caráter, nem é indicativo de qualquer qualidade (boa ou ruim) de ninguém.
+Algumas pessoas se irritaram com meu [último texto](/post/qual-melhor-linux-para-macbook-air-antigo/), então preciso esclarecer umas coisas. Entendam: para um usuário normal de computador, tanto faz se ele usa Windows, macOS ou Linux. O importante é o sistema operacional permitir que uma pessoa consiga fazer o que ela quer. É simples assim. Sistema operacional não define caráter, nem é indicativo de qualquer qualidade (boa ou ruim) de ninguém.
 
 Quem gosta de jogos, por exemplo, usa Windows. Não há motivo algum para um *gamer* precisar aprender toda a parte teórica para concluir todas as etapas necessárias para jogar no Linux. Da mesma forma que usuários de programas específicos (no meu caso uso o Scrivener) precisar de tutoriais antigos e confusos para instalar algo no Wine.
 

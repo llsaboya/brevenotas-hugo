@@ -119,3 +119,5 @@ Entretanto, se você não precisa do Linux no seu MacBook antigo, há uma opçã
 Portanto, se quiser usar seu MacBook Air antigo, a melhor coisa que você faz é transformar ele num ChromeBook. Tudo funciona, a bateria dura uma eternidade e há aplicativos para qualquer coisa na Google Store. 
 
 Vai ser feliz e esqueça a Macintosh. Por mais fantástico que seja a Apple e o novíssimo chip M1, Tim Cook fará seu MacBook ficar obsoleto em cinco anos. Disso eu não tenho dúvidas.
+
+PS: Como algumas pessoas se irritaram com o texto, segue um [follow-up](/post/um-follow-sobre-linux-macos-windows/)
