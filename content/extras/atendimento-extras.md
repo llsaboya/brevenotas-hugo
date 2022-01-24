@@ -1,14 +1,19 @@
 ---
-title: Gestão Bancária
-description: Conteúdo adicional sobre Gestão de Agências Bancárias.
+title: Atendimento Bancário - Extras
+description: Conteúdo adicional sobre Atendimento de Agências Bancárias.
 tags:
     - Lefebvre de Saboya
 keywords:
     - Lefebvre de Saboya
 hero: null
-slug: gestao-bancaria
-draft: true
+slug: atendimento-extras
+aliases:
+    - /gestao-bancaria/
+date: '2022-01-01T23:56:16.000Z'
 ---
+
+## Em Breve
+
 
 Escritor e especialista em simplicidade e solução de problemas. Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
 

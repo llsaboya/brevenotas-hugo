@@ -1,6 +1,6 @@
 ---
 title: 'Um follow-up sobre Linux, macOS e Windows'
-hero: /images/1-notas-t.jpg
+hero: /images/1-notas-l.jpg
 preview: /images/1-notas-t.jpg
 authors:
   - Lefebvre Saboya
