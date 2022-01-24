@@ -19,7 +19,7 @@ description: Um guia para escrever melhor e de forma clara e estruturada.
 
 Original por Jordan Peterson
 
-# Como escrever um ensaio
+## Como escrever um ensaio
 
 **Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio-Jordan-Peterson.docx) ou a [versão em PDF](static/goodies/Como-Escrever-Ensaios-Jordan-Peterson.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.
 
