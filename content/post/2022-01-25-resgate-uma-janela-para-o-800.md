@@ -9,13 +9,15 @@ authors:
 draft: false
 slug: resgate-uma-janela-para-os-oitocentos
 tags:
+    - Eduardo Schnoor
     - Hebe Maria Mattos de Castro
     - Manoel Aguiar Vallim
     - Resgate
-    - Eduardo Schnoor
+    - Ênio Mainardi
 keywords:
     - Manoel Aguiar Vallim
     - Resgate
+    - Ênio Mainardi
 categories:
     - Cultura
 ---
@@ -60,7 +62,7 @@ Uma luta entre os empresários dependentes do escravo e de uma elite intelectual
 >
 > Reformas como esta de que se trata não se operam somente com os simples artigos de uma lei: para consegui-las e fundá-las é necessário animar o trabalho, educar o povo e fiar um pouco o espírito do século acordando-o em suas generosas tendências.
 
-Se naquela época podiam ou não calcular o efeito do fim da abolição, não importa. Fato é que hoje estamos a pagar essa conta. Não é defender a escravidão, mas saber ao menos o que sabe Ênio Mainardi: **Olha, em se tratando de Brasil, somos todos negros.
+Se naquela época podiam ou não calcular o efeito do fim da abolição, não importa. Fato é que hoje estamos a pagar essa conta. Não é defender a escravidão, mas saber ao menos o que sabe Ênio Mainardi: **Olha, em se tratando de Brasil, somos todos negros.**
 
 [Resgate: uma janela para os oitocentos](http://www.labhoi.uff.br/node/457)
 
