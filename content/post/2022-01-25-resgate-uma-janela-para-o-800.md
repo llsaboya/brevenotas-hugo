@@ -6,7 +6,7 @@ description: Será que Comendador Manoel Aguiar Vallim foi apenas o típico faze
 timeToRead: 8
 authors:
     - Lefebvre Saboya
-draft: true
+draft: false
 slug: resgate-uma-janela-para-os-oitocentos
 tags:
     - Hebe Maria Mattos de Castro
