@@ -11,8 +11,8 @@ tags:
     - Soft skills
     - Hard skills
     - Auto-ajuda
-preview: /images/Dale-Carnegie-1920x1080.jpg
-hero: /images/Dale-Carnegie-1920x1080.jpg
+preview: /images/Dale-Carnegie-1920x1080-th.jpg
+hero: /images/Dale-Carnegie-1920x1080-th.jpg
 slug: dale-carnegie-vale-pena
 keywords:
     - Dale Carnegie
