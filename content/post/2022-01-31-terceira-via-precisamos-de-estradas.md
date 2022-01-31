@@ -2,8 +2,8 @@
 title: 'Terveira via: precisamos é de estradas'
 slug: terveira-precisamos-e-de-estradas
 description: 'Todo político é um mentiroso profissional. Se acredita que seu político de estimação é diferente, saiba, o outro lado pensa a mesma coisa do dele.'
-preview: /images/denys-nevozhai-Zeu57mprpaI-unsplash.jpg
-hero: /images/denys-nevozhai-Zeu57mprpaI-unsplash.jpg
+preview: /images/markus-spiske-mbrF_62mp-Y-unsplash-854-480.jpg
+hero: /images/markus-spiske-mbrF_62mp-Y-unsplash-854-480.jpg
 tags:
     - Terceira Via
 categories:
@@ -36,4 +36,5 @@ Seria a falta de *bom-senso* o motivo de queremos pavimentar mais vias em uma es
 
 Alguns políticos param de mentir depois que se aposentam da política. Mas o político brasileiro serve a um objetivo maior. É o seu projeto para toda a vida. Nenhum político brasileiro abandonou de verdade a vida pública - eles apenas transcendem para um lugar especial onde você continua a mentir, sempre, até a morte.
 
-Photo by [Denys Nevozhai](https://unsplash.com/@dnevozhai?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/roads?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)  
+Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
