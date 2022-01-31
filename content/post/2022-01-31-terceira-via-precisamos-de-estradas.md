@@ -1,6 +1,6 @@
 ---
-title: 'Terveira via: precisamos é de estradas'
-slug: terveira-precisamos-e-de-estradas
+title: 'Terceira via: precisamos é de estradas'
+slug: terceira-precisamos-e-de-estradas
 description: 'Todo político é um mentiroso profissional. Se acredita que seu político de estimação é diferente, saiba, o outro lado pensa a mesma coisa do dele.'
 preview: /images/markus-spiske-mbrF_62mp-Y-unsplash-854-480.jpg
 hero: /images/markus-spiske-mbrF_62mp-Y-unsplash-854-480.jpg
