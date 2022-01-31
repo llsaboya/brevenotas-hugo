@@ -21,7 +21,7 @@ O **Breves Notas** é uma obra organizada de um modo um tanto caótico e contém
 
 Já **Lefebvre Saboya** é escritor e especialista em simplicidade e solução de problemas. Ele tem um peculiar talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas adoram encontra-lo. Ele quase sempre consegue resolve-los (ou não).
 
-Quando não está resolvendo os tais "problemas", eu escreve. 
+Quando não está resolvendo os tais "problemas", ele escreve. 
 
 ### Contato
 
