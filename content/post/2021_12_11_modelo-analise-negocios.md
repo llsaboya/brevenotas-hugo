@@ -28,4 +28,8 @@ Em vez de prescrever como se deve estruturar uma organização, suas operações
 
 Com essa fotografia, donos de empresas, líderes e empreendedores podem decidir onde querem chegar e como farão isso.
 
+{{< rawhtml >}}
+<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://ler.amazon.com.br/kp/card?asin=B09QLJDKR6&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_0H3YMGW9DC1D58WXRRPA&hideShare=true" ></iframe>
+{{< /rawhtml >}}
+
 :books: - [Disponível na Amazon.com](https://amzn.to/33zy2FZ)

@@ -79,4 +79,8 @@ Se você procura um processo milagroso para bater metas, você não vai encontra
 
 O livro também fornece um link para materiais extras que são produzidos a partir do *feedback* dos leitores. Desafios específicos podem ser tão úteis quanto regras gerais.
 
+{{< rawhtml >}}
+<iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="336" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://ler.amazon.com.br/kp/card?asin=B07ZTTKXW9&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_RPQEGCERPZPE62SZESQG&hideShare=true" ></iframe>
+{{< /rawhtml >}}
+
 :books: - [Compre na Amazon.com](https://amzn.to/33zy2FZ)
