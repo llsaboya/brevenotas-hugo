@@ -21,7 +21,7 @@ Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@llsaboya
 - [Tradução de Guia de escrita, por Jordan Peterson](/writing-guite-jordan-peterson/)
 
 
-## Experiência
+## Experiências
 
 ### Dale Carnegie Training | 2018-2019
 
