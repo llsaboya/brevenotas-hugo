@@ -21,18 +21,15 @@ education:
 
 # experience
 experience:
-  enable: false
+  enable: true
   title: "Mais sobre mim"
   experience_list:
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - "Sagitário"
+  - "Aprendi a escrever aos 3"
+  - "Já li 'O Romance d'A Pedra do Reino e o Príncipe do Sangue do Vai-e-Volta'"
+  - "Tenho blog desde 2001"
+  - "Já fui um dos maiores blogs brasileiros"
+
 
 ---
 
