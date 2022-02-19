@@ -1,9 +1,8 @@
 ---
 authors:
 - Lefebvre Saboya
-
 title: Scrum Manifesto
-description: 'Quer saber se a transformação ágil funcionará na sua empresa ou na sua carreira? Se algo do manifesto scrum não funcionar no seu caso, nenhum processo ágil vai te ajudar!'
+description: 'Quer saber se a transformação ágil funcionará na sua empresa ou na sua carreira?'
 categories:
     - Empresarial
 tags:
@@ -13,6 +12,8 @@ tags:
     - Ágil
     - Transformação ágil
 image: images/olga-guryanova-ft7vJxwl2RY-unsplash.jpg
+date: '2021-05-12T18:45:10.792Z'
+
 ---
 
 ## Manifesto para o Desenvolvimento Ágil de Software

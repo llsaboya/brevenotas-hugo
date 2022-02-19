@@ -1,17 +1,15 @@
 ---
 authors:
-- Lefebvre Saboya
-
-imageshadow: true
+  - Lefebvre Saboya
 title: 'Um ano d''A Peste, e o Breves Notas voltou!'
-description: 'Textos sempre foram o pior negócio da história. Espero que meus leitores continuem se seguindo porque, ao menos, você escapa das discussões nas redes sociais e podem vir aqui dizer que eu estou errado.'
+description: Textos sempre foram o pior negócio da história.
 categories:
   - Notas
   - Video
 tags:
   - Lefebvre de Saboya
-header:
 image: images/breves-notas.png
+date: '2021-03-11T18:45:10.792Z'
 ---
 
 O Breves Notas voltou.

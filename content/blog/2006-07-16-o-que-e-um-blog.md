@@ -1,7 +1,7 @@
 ---
 authors:
-- Lefebvre Saboya
-title: 'Como definir o que é ou não um blog?'
+    - Lefebvre Saboya
+title: Como definir o que é ou não um blog?
 categories:
     - Comunicação
 tags:
@@ -9,7 +9,7 @@ tags:
     - blog
     - reinaldo azevedo
     - imprensa
-image: images/1-comunicacao-l.jpg
+image: images/1-tecnologia.jpg
 toc: false
 toc_sticky: true
 draft: false
@@ -18,8 +18,8 @@ description: 'Não sei se essa é uma dúvida geral, ou se somente eu aqui, no r
 keywords:
     - blog
     - definição
-type: "regular" # available types: [featured/regular]
-date: 2006-01-24T18:19:25+06:00
+type: regular
+date: '2006-02-19T18:40:36.431Z'
 ---
 
 Preste atenção nisso: *No último ano e meio, mais ou menos, o Brasil vê a ascenção de um tipo diferente de publicações: o blog.* Sim, leitor, as matérias de grandes jornais sempre começam com uma  versão dessa frase. No duro. Jornalista pago (e os não pagos também) não sabem escrever, é fato. Uma mudança ali, um gerúndio fora de lugar e  pronto, a pauta está “cumprida”. Esse é um assunto que eu adoro  analisar.

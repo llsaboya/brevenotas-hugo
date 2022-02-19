@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-
+date: '2021-06-11T18:45:10.792Z'
 title: Como despiorar a sua vida em 1 passo
 description: 'Não importa se você é um justiceiro linguístico, "despiorar" é simplesmente errado e não é novidade alguma.'
 categories:
@@ -11,7 +11,7 @@ tags:
     - Otto Lara Resende
     - Vinicius Torres Freire
     - Dunanimidade
-image: images/1-joker-l.jpg
+image: images/1-joker.jpg
 ---
 Toda vez que leio o tal verbo "despiorar", volta à minha mente Otto Lara Resende e Nelson Rodrigues. Otto Lara Resende adorava "despiorar" os textos. Por escrever muito bem, "despiorar" na sua conversa era apenas gargalhada, uma palavra construída de forma errada para fazer graça da urgente e inútil necessidade dos escritores em lapidar seus escritos. 
 

@@ -9,9 +9,9 @@ categories:
 tags:
     - Mãe
     - Morte
-image: images/até-logo-mae-th.jpeg
+image: images/at_-logo-mae.jpeg
 slug: ate-logo-mamis
-date: 2020-08-05T18:19:25+06:00
+date: '2020-08-05T18:19:25+06:00'
 
 ---
 

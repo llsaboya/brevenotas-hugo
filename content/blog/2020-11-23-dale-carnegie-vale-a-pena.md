@@ -16,7 +16,7 @@ image: images/Dale-Carnegie-1920x1080-th.jpg
 slug: dale-carnegie-vale-pena
 keywords:
     - Dale Carnegie
-date: 2020-11-23T18:19:25+06:00
+date: 12020-11-23T18:19:25+06:00'
 ---
 
 Se você não sabe quem foi Dale Carnegie, já deve ter ouvido falar do livro "Como fazer amigos e influenciar pessoas". Publicado em 1936 é a obra de referência em desenvolvimento pessoal (e auto-ajuda) no século XX.

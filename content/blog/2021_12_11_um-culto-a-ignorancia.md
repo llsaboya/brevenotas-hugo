@@ -12,8 +12,7 @@ preview: /images/isaac-asimov.jpg
 timeToRead: 8
 authors:
     - Lefebvre Saboya
-date: 2020-12-14T18:19:25+06:00
-description: Tradução desse texto maravilhoso e importantíssimo.
+date: '2020-12-14T18:19:25+06:00'
 type: "featured" # available types: [featured/regular]
 
 ---

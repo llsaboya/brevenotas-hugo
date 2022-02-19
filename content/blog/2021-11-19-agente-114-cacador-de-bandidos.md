@@ -1,7 +1,6 @@
 ---
 authors:
-- Lefebvre Saboya
-
+    - Lefebvre Saboya
 title: 'Agente 114: o caçador de bandidos'
 description: 'Em resumo, o Agente Pinelli escreveu um belo livro. Entretanto, há um grande problema: ninguém vai acreditar nele. Sim, é verdade, ninguém acredita.'
 categories:
@@ -18,6 +17,7 @@ keywords:
     - Agente 114
     - Luiz Antônio da Cruz Pinelli
     - Polícia Federal
+date: '2021-11-21T22:20:43.000Z'
 ---
 
 O Brasil não é um país reconheça os esforços de gente honesta. Talvez a exceção é quando *gente honesta* fica rica - o que não é tão comum por aqui. O brasileiro prefere o sangue espremido daqueles programas "policias" vespertinos. Prefere acreditar que nossos campeões nacionais chegaram ao topo apenas com sua força de vontade. É tanto amor às miragens que me pergunto como sobreviveríamos no deserto do Saara. E esse é o maior infortúnio do livro **Agente 114 - O caçador de bandidos**.

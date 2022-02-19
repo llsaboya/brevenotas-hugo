@@ -12,9 +12,9 @@ authors:
   - Lefebvre Saboya
 aliases:
   - /writing-guite-jordan-peterson/
+  - /post/traducao-guia-de-escrita-por-jordan-peterson/
 slug: traducao-guia-de-escrita-por-jordan-peterson
-description: Um guia para escrever melhor e de forma clara e estruturada.
-date: 2021-12-17T18:19:25+06:00
+date: '2021-12-17T18:19:25+06:00'
 type: "featured" # available types: [featured/regular]
 
 ---

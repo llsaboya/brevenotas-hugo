@@ -1,7 +1,6 @@
 ---
 title: A história do BlackBerry até sua morte
 image: images/18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg
-preview: /assets/images/18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg
 description: 'Os jovens hoje acreditam que estão no pináculo da produtividade humana, mas nenhum deles usou um BlackBerry na vida!'
 authors:
   - Lefebvre Saboya
@@ -11,7 +10,6 @@ tags:
   - BlackBerry
   - RIM
   - iPhone
-preview: /images/18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg
 categories:
   - Notas
 keywords:

@@ -1,8 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-
-imageshadow: true
+date: '2021-05-12T18:45:10.792Z'
 title: Quando ter um blog era diversão
 description: 'Não existem mais blogs, apenas sites de venda escrito pelas pessoas mais incompetentes da internet.'
 categories:
@@ -12,7 +11,7 @@ tags:
   - Blog
   - Copywriting
   - Social Media
-image: images/1-joker-l.jpg
+image: images/1-joker.jpg
 ---
 Quando o blog surgiu era uma diversão. Basicamente, ninguém usava a internet. Então cada leitor era valioso. Todo blog começava pequeno, com apenas seus amigos se importanto em abrir o navegador, digitar seu endereço e ler qualquer bobagem que você postava todos os dias. É como ter o poder de ler pensamentos. Por isso blogs eram tão legais.
 

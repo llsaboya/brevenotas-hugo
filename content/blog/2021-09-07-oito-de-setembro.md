@@ -9,7 +9,7 @@ tags:
     - Manifestação
     - 7 de setembro 2021
 image: images/alex-motoc-OEMP9bA6mDo-unsplash.jpg
-lastmod: '2021-10-07T20:39:30.940Z'
+date: '2021-10-07T20:39:30.940Z'
 keywords:
     - 7 de setembro 2021
     - manifestação

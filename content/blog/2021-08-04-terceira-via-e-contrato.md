@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-preview: /images/1-politica-l.jpg
+preview: /images/1-politica.jpg
 title: 'Terceira via não é causa, é contrato'
 description: Como a Terceira via espera vencer a eleição sem um contrato?
 categories:
@@ -11,12 +11,12 @@ tags:
     - Jair Bolsonaro
     - Terceira Via
     - Lula
-image: images/1-politica-l.jpg
+image: images/1-politica.jpg
 draft: false
 keywords:
     - Terceira Via
 slug: terceira-nao-e-causa-e-contrato
-
+date: '2021-08-04T18:45:10.792Z'
 ---
 A terceira via não é causa, é contrato
 

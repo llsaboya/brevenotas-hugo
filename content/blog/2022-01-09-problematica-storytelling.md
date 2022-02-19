@@ -1,22 +1,19 @@
 ---
 title: O storytelling através da herança do pós-modernismo francês
 image: images/derrida-2.jpg
-preview: /assets/images/derrida-2.jpg
 authors:
   - Lefebvre Saboya
 slug: storytelling-atraves-da-heranca-pos-modernismo-frances
-description: 'Storytelling podem servir para o mal é um conceito relativamente novo.'
+description: Storytelling podem servir para o mal é um conceito relativamente novo.
 tags:
   - storytelling
   - Derrida
-preview: /images/derrida-2.jpg
 date: '2022-01-10T23:58:40.094Z'
 categories:
   - Cultura
 keywords:
   - storytelling
   - Derrida
-
 ---
 A herança mais chata dos pós-modernistas é a **cultura da demolição**. Sei que a turma que adora um Derrida acredita que é um método de *desconstrução*; eles estão errados. As abordagens críticas pós-moderna dariam um belo programa no History Channel (e para manter o padrão, deveria passar logo após "Alienígenas do Passado"). Não foram eles os primeiros a identificarem as partes de um discurso, de uma filosofia, de uma ideologia. A questão fundamental do pós-modernista é a capacidade de *descontruir* e sua incompetência em *construir* algo melhor. Então chegamos ao assunto do post, as narrativas (ou *storytelling*).
 

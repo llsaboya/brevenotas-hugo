@@ -17,7 +17,7 @@ tags:
 image: images/freek-v-th.png
 rating: 5.0
 slug: breaking-bad-habits-freek-vermeulen
-lastmod: '2021-10-07T20:37:45.625Z'
+date: '2021-10-07T20:37:45'
 ---
 # Breaking Bad Habits, por Freek Vermeulen
 

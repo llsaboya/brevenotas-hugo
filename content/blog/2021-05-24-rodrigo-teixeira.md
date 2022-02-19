@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-
+date: '2021-05-24T18:45:10.792Z'
 title: 'O que é ser de Campo Grande, Mato Grosso do Sul'
 description: Ainda acho melhor chamar alguém que goste de Campo Grande para escrever sobre Campo Grande.
 categories:
@@ -13,7 +13,7 @@ tags:
     - Goiás
     - Rodrigo Teixeira
     - UOL
-image: images/1-cultura-l.jpg
+image: images/1-cultura.jpg
 slug: o-que-e-ser-do-centro-oeste
 ---
 Acordo hoje e me deparo com [esse texto na página principal](https://www.uol.com.br/nossa/curadores-e-criadores/2021/05/24/o-que-e-ser-do-centro-oeste-a-terra-do-por-do-sol-mais-magico-do-brasil.htm) do UOL. Rodrigo Teixeira vaga pela prosa tentando mostrar que é ser do Centro-Oeste, "a terra do pôr do sol mais mágico do Brasil". Isso lembrou-me imediatamente de uma velha piada de Campo Grande:

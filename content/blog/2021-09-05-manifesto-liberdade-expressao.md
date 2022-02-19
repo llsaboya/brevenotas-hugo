@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-preview: /images/1-joker-l.jpg
+preview: /images/1-joker.jpg
 imageshadow: true
 title: Manifesto pela liberdade de expressão
 description: 'Conhecimento e consciência deveriam ser fundamentais para pensar, redigir e publicar manifestos.'
@@ -11,8 +11,10 @@ tags:
     - Liberdade de Expressão
     - Manifesto
     - Idéias Raricais
-image: images/1-joker-l.jpg
+image: images/1-joker.jpg
 slug: manifesto-pela-liberdade-de-expressao
+date: '2021-09-05T18:45:10.792Z'
+
 ---
 No Brasil não existe liberdade de expressão. Experimentamos liberdade de expressão durante o reinado de Dom Pedro II. Desde então o Brasil passou por vários processos e a *limitação da expressão* foi sempre constante... em todos!
 

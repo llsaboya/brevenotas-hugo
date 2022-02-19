@@ -3,17 +3,15 @@ layout: page
 title: Modelo de Análise e Diagnóstico de Empresa
 description: Você pode mudar para melhor a gestão da sua empresa sozinho com essa ferramenta.
 image: images/made-hero-853-480.webp
-preview: /images/made-hero-853-480.webp
+preview: null
 permalink: /diagnostico-analise-empresa-made/
 authors:
   - Lefebvre Saboya
 aliases:
   - /diagnostico-analise-empresa-made/
 slug: modelo-de-analise-diagnostico-de-empresa
-type: "featured" # available types: [featured/regular]
-date: 2021-12-11T18:19:25+06:00
-
-
+type: featured
+date: '2021-12-11T12:19:25.000Z'
 ---
 
 Sua organização está indo tão bem quanto poderia? Como você sabe? Onde e como sua organização deve melhorar ou mudar? Aprenda a analisar de forma objetiva e eficaz a sua empresa, o seu negócio e até seu departamento, não importa o tamanho deles.

@@ -7,11 +7,11 @@ tags:
   - Soft skills
   - Hard skills
   - Auto-ajuda
-image: images/1-design-l.jpg
+image: images/1-design.jpg
 authors:
 - Lefebvre Saboya
 type: "regular" # available types: [featured/regular]
-date: 2020-07-12T18:19:25+06:00
+date: '2020-07-12T18:19:25+06:00'
 
 ---
 

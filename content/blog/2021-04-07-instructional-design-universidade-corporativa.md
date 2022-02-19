@@ -11,6 +11,8 @@ tags:
   - Universidade Corporativa
 image: images/changbok-ko-F8t2VGnI47I-unsplash.jpg
 slug: instructional-design-na-aprendizagem-corporativa
+date: '2021-04-07T18:45:10.792Z'
+
 ---
 Educação corporativa não é um novo conceito, muito pelo contrário. A General Motors começou a fornecer educação e treinamento para funcionários em 1914, criando a sua Universidade Corporativa (com maiúsculas) em 1950. O McDonald's abriu sua "Universidade do Hamburger" em 1960. A Universidade da Disney e da Motorola apareceram nos anos 70. E a partir do final do século passado, as universidades corporativas se espalharam pelas mais diversas empresas.
 

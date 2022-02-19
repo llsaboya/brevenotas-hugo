@@ -15,6 +15,7 @@ tags:
     - Eleições 2022
 image: images/fhc-e-tancredo.jpg
 slug: formacao-de-uma-terceira-via-para-2022
+date: '2021-06-24T18:45:10.792Z'
 ---
 
 A terceira via é fundamental para a democracia brasileira? Eu nasci em 1980. Deve ser por isso que ouvi tantas histórias sobre Tancredo Neves enquanto crescia. E desde o dia do meu nascimento até o final dos anos 90 ouvi que *"tudo seria diferente se Tancredo não tivesse morrido."* E depois do Plano Cruzado, Plano Cruzado II, Plano verão e a eleição e consequente impeachment do Collor, desenvolvi a seguinte tese:

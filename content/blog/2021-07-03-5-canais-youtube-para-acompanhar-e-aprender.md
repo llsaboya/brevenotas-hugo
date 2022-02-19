@@ -10,11 +10,10 @@ tags:
     - Technology Connections
     - Youtube
     - Rick Beato
-image: images/1-video-l.jpg
+image: images/1-video.jpg
 authors:
 - Lefebvre Saboya
-preview: /images/1-video-l.jpg
-
+date: '2021-07-03T18:45:10.792Z'
 slug: 5-canais-youtube-para-aprender-alguma-coisa
 ---
 

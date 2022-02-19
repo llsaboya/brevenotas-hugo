@@ -10,7 +10,7 @@ categories:
 keywords:
     - Terceira Via
 type: regular
-date: '2022-01-31T17:20:24.000Z'
+date: '2022-01-31T18:23:00.000Z'
 preview: /assets/images/markus-spiske-mbrF_62mp-Y-unsplash-854-480.jpg
 ---
 

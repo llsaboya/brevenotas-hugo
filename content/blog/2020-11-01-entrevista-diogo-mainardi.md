@@ -9,7 +9,7 @@ categories:
 tags:
   - Diogo Mainardi
 image: images/aefe9e80632ceb930785374297dd64377de17d38.jpg
-date: 2020-11-01T18:19:25+06:00
+date: '2020-11-01T18:19:25+06:00'
 
 ---
 > A entrevista foi publicada em 2003

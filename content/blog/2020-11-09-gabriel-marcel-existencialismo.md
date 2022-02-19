@@ -5,13 +5,10 @@ categories:
   - Cultura
 tags:
   - Gabriel Marcel
-header:
-  overlay_image: images/gabriel-marcel-5.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  teaser: /images/gabriel-marcel-5.jpg
+image: images/gabriel-marcel-5.jpg
 authors:
 - Lefebvre Saboya
-date: 2020-11-09T18:19:25+06:00
+date: '2020-11-09T18:19:25+06:00'
 ---
 
 Os seres vivos nascem, crescem e morrem. A existência é prática. Já os seres humanos são especialistas em enriquecer a experiência de viver. As pessoas conseguem isso através do pensamento. Somente a reflexão consegue valorizar atos banais como nascer, crescer e morrer: atividades realizadas por qualquer ser vivo nesse planeta. Todo avanço da humanidade se deve à nossa capacidade de pensar e buscar o reconhecimento por fazê-lo.

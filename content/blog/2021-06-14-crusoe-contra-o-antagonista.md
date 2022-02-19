@@ -1,7 +1,7 @@
 ---
 authors:
 - Lefebvre Saboya
-
+date: '2021-036-14T18:45:10.792Z'
 title: A revista Crusoé contra o site O Antagonista
 description: Se a Crusoé brigasse com o O Antagonista seria uma situação freudiana interessante.
 categories:

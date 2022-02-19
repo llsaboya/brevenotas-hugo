@@ -15,7 +15,7 @@ tags:
     - Publicidade e Propaganda
 image: images/thenorthface.jpg
 slug: golpe-da-leo-burnett-tailor-da-north-face
-date: 2020-11-29T18:19:25+06:00
+date: '2020-11-29T18:19:25+06:00'
 ---
 
 A agência de publicidade Leo Burnett Tailor Made e a The North Face tiveram uma idéia: tentar manipular o Google colocando imagens da The North Face nas páginas dedicadas a destinos de aventura. Para isso eles fotografaram esses lugares em incluíram as imagens nas páginas da Wikipédia. Assim, as primeiras imagens no Google viraram propaganda para a marca de roupas.
