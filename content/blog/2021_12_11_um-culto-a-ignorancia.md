@@ -16,7 +16,7 @@ date: '2020-12-14T18:19:25+06:00'
 type: "featured" # available types: [featured/regular]
 
 ---
-:book: - Para baixar a versão em PDF, [clique aqui](/goodies/um-culto-da-ignorancia-isaac-asimov.pdf).
+*Para baixar a versão em PDF, [clique aqui](/goodies/um-culto-da-ignorancia-isaac-asimov.pdf).*
 
 É difícil discutir com a antiquíssima justificativa para a liberdade de imprensa: "*O Direito de Saber da América*". Parece quase cruel perguntar, ingênuo, "*Por favor, o direto da América saber o quê*"? Ciência? Matemática? Economia? Línguas estrangeiras?
 

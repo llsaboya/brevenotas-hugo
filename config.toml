@@ -13,13 +13,13 @@ title = 'Lefebvre saboya'
 [params.variables]
 color_primary = "#035597"
 body_color = "#FFF"
-text_color = "#555"
-text_dark = "#222"
+text_color = "#3c4041"
+text_dark = "#3c4041"
 text_light = "#999"
-border_color = "#E1E1E1"
-black = "#000"
+border_color = "#f0ece6"
+black = "#3c4041"
 white = "#FFF"
-light = "#f2f2f2"
+light = "#f0ece6"
 
 # font variables
 # base font size for full website, 
