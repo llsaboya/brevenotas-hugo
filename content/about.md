@@ -1,6 +1,6 @@
 ---
 title: "Lefebvre Saboya"
-description: "Sobre Lefebvre e o Breves notas"
+description: "Sobre Lefebvre de Saboya"
 image: "images/llsaboya-pro.jpg"
 layout: "about"
 draft: false
