@@ -1,14 +1,15 @@
 ---
 title: Breves notas sobre o blog
-description: meta description
+description: Novamente o site muda para tentar ser melhor.
 image: images/1-joker.jpg
 categories:
     - notas
-type: "featured" # available types: [featured/regular]
+type: featured
 draft: false
-slug: world
+slug: breves-notas-sobre-blog
 tags:
     - Breves Notas
+    - Lefebvre Saboya
 date: '2022-02-22T19:00:18.216Z'
 ---
 

@@ -7,7 +7,7 @@ description: 'Nunca estou satisfeito com o design do meu site, sempe quero mudar
 categories:
   - Notas
 image: images/Screenshot_20211007_222512.png
-slug: breves-notas-2-0
+slug: breves-notas-nova-2-0
 description: 'Nunca estou satisfeito com o design do meu site, sempe quero mudar e não sei quando parar.'
 ---
 
