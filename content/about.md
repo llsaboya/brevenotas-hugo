@@ -25,7 +25,7 @@ experience:
   title: "Mais sobre mim"
   experience_list:
   - "Sagitário"
-  - "Aprendi a escrever aos 3"
+  - "Aprendi a escrever aos 3 anos"
   - "Já li 'O Romance d'A Pedra do Reino e o Príncipe do Sangue do Vai-e-Volta'"
   - "Tenho blog desde 2001"
   - "Já fui um dos maiores blogs brasileiros"
