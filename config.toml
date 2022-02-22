@@ -1,6 +1,12 @@
 baseURL = 'http://llsaboya.com/'
 languageCode = 'pt-br'
 title = 'Lefebvre saboya'
+rssLimit = 20
+copyright = "2022 Lefebvre Saboya All rights reserved"
+
+[author]
+	name = "Lefebvre Saboya"
+	email = "hello@llsaboya.com"
 # This file is for render site varibles and plugins
 # don't remove this file.
 # The presence of this file is for compatibility with Blogdown and Forestry.
