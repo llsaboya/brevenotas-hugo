@@ -4,7 +4,7 @@ description: meta description
 image: images/1-joker.jpg
 categories:
     - notas
-type: regular
+type: "featured" # available types: [featured/regular]
 draft: false
 slug: world
 tags:
