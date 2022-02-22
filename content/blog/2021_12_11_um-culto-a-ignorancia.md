@@ -7,14 +7,15 @@ tags:
 permalink: /um-culto-a-ignorancia-isaac-asimov/
 aliases:
     - /um-culto-a-ignorancia-isaac-asimov/
+    - /post/2021_12_11_um-culto-a-ignorancia/
 image: images/isaac-asimov.jpg
 preview: /images/isaac-asimov.jpg
 timeToRead: 8
 authors:
     - Lefebvre Saboya
 date: '2020-12-14T18:19:25+06:00'
-type: "featured" # available types: [featured/regular]
-
+type: featured
+slug: traducao-de-um-culto-da-ignorancia-por-isaac-asimov
 ---
 *Para baixar a versão em PDF, [clique aqui](/goodies/um-culto-da-ignorancia-isaac-asimov.pdf).*
 
