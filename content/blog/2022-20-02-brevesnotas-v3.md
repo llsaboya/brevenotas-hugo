@@ -4,7 +4,7 @@ description: Novamente o site muda para tentar ser melhor.
 image: images/1-joker.jpg
 categories:
     - notas
-type: featured
+type: "regular" # available types: [featured/regular]
 draft: false
 slug: breves-notas-sobre-blog
 tags:

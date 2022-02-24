@@ -4,6 +4,7 @@ image: images/derrida-2.jpg
 authors:
   - Lefebvre Saboya
 slug: storytelling-atraves-da-heranca-pos-modernismo-frances
+type: "featured" # available types: [featured/regular]
 description: Storytelling podem servir para o mal é um conceito relativamente novo.
 tags:
   - storytelling
