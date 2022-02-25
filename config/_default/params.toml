@@ -45,10 +45,10 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
-enable = false
+enable = true
 title_large = "Bem-vindo **!**"
 title_small = "ao **breves**notas"
-image = "images/banner.png"
+image = "images/transparent-color-s.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "Esta obra organizada de um modo um tanto caótico já foi uma boa idéia."
 button_label = "Saiba Mais"
