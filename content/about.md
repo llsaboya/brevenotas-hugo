@@ -1,7 +1,7 @@
 ---
 title: "Lefebvre Saboya"
 description: "Sobre Lefebvre de Saboya"
-image: "images/llsaboya-pro.jpg"
+image: "images/vader.jpg"
 layout: "about"
 draft: false
 
@@ -12,8 +12,8 @@ education:
   education_list:
   - name: "[Atendimento Bancário](/atendimento-bancario-lefebvre-saboya/)"
     content: "Como atender e vender em qualquer Instituição Financeira"
-  - name: "[Modelo de Análise e Diagnóstico de Empresas](/diagnostico-analise-empresa-made/)"
-    content: "Framework para sua empresa para atingir melhorias reais"
+  - name: "[Made Framework](/diagnostico-analise-empresa-made/)"
+    content: "Modelo de Análise e Diagnóstico de Empresas"
   - name: "[Guia de Escrita](/writing-guite-jordan-peterson/)"
     content: "Tradução de *“Writing Guide”*, por Jordan Peterson"
   - name: "[Um Culto da Ignorância](/um-culto-a-ignorancia-isaac-asimov/)"
@@ -24,17 +24,18 @@ experience:
   enable: true
   title: "Mais sobre mim"
   experience_list:
-  - "Sagitário - quem se importa?"
   - "Aprendi a escrever aos 3 anos"
   - "Já li 'O Romance d'A Pedra do Reino e o Príncipe do Sangue do Vai-e-Volta'"
   - "Tenho blog desde 2001"
   - "Já fui um dos maiores blogs brasileiros"
+  - "Fiz todos os cursos da Dale Carnegie®"
+  - "Morei em Campo Grande, Natal, Recife, Brasilia, São Paulo, Rio de Janeiro, Serafina Corrêa, Pelotas e Porto Alegre"
 
 
 ---
 
 Escritor e especialista em simplicidade e solução de problemas. Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
 
-Quando não estou resolvendo os tais "problemas", eu escrevo. Abaixo segue alguns exemplos. 
+Quando não estou resolvendo os tais "problemas", eu escrevo.
 
 Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@llsaboya.com](mailto:hello@llsaboya.com) e conversamos sobre qualquer assunto.
