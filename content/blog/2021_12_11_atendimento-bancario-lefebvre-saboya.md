@@ -9,6 +9,7 @@ aliases:
     - /atendimento-bancario-lefebvre-saboya/
     - /livro/
     - /bancos/
+    - /post/livro-atendimento-bancario/
 slug: livro-atendimento-bancario
 type: "featured" # available types: [featured/regular]
 date: '2021-12-12T18:19:25+06:00'
