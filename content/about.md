@@ -22,15 +22,19 @@ education:
 # experience
 experience:
   enable: true
-  title: "Mais sobre mim"
+  title: "Licenças e certificados"
   experience_list:
-  - "Aprendi a escrever aos 3 anos"
-  - "Já li 'O Romance d'A Pedra do Reino e o Príncipe do Sangue do Vai-e-Volta'"
-  - "Tenho blog desde 2001"
-  - "Já fui um dos maiores blogs brasileiros"
-  - "Fiz todos os cursos da Dale Carnegie®"
-  - "Morei em Campo Grande, Natal, Recife, Brasilia, São Paulo, Rio de Janeiro, Serafina Corrêa, Pelotas e Porto Alegre"
-
+  - "LinkedIn Instructional Designer"
+  - "Dale Carnegie Course"
+  - "Advanced Dale Carnegie Course"
+  - "Dale Carnegie High Impact Presentations"
+  - "Dale Carnegie Leadership Training for Managers"
+  - "Dale Carnegie Negotiation Training"
+  - "IDAti - Estratégias Comerciais Avançadas"
+  - "Falconi - Solução de Problemas"
+  - "W4BusinessAnalysis - Agilidade na Análise de Negócios"
+  - "PMRank®"
+  - "ANBIMA CPA-20"
 
 ---
 

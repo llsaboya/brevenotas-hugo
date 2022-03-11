@@ -1,20 +1,33 @@
 ############# English navigation ##############
 
 # main menu
-[[main]]
-name = "Home"
-url = ""
-weight = 1
+# [[main]]
+# name = "Home"
+# url = ""
+# weight = 1
 
 [[main]]
 name = "Sobre"
 url = "about/"
-weight = 2
+weight = 1
 
 [[main]]
 name = "Contato"
 url = "contact/"
+weight = 2
+
+[[main]]
+name = "Instructional Design"
+url = "#"
 weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Instructional Design"
+  name = "O que é Design Intrucional (ID)"
+  url = "blog/o-que-e-design-instrucional-ou-intructional-design/"
+  weight = 1
+
 
 [[main]]
 name = "Arquivo"
