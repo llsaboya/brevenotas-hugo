@@ -65,7 +65,7 @@ Também não faz mal nenhum um nome moderno e marcante. Entra em cena o **design
 
 Nem ensinar, nem aprender são tarefas fáceis. Como eu digo para meu filho, se você acha a 1ª série difícil, eu tenho péssimas notícias para o resto da sua vida.
 
-O [design instrucional](https://llsaboya.com/blog/o-que-e-design-instrucional-ou-intructional-design/) (ID), também conhecido como design de sistemas instrucionais (ISD), consiste em projetar, desenvolver e entregar produtos e experiências instrucionais, tanto digitais quanto físicas, de forma consistente, confiável, eficiente, eficaz, atraente, envolvente e inspiradora.
+O [design instrucional](https://llsaboya.com/blog/o-que-e-design-instrucional-ou-intructional-design/) (ID) consiste em projetar, desenvolver e entregar produtos e experiências instrucionais, tanto digitais quanto físicas, de forma consistente, confiável, eficiente, eficaz, atraente, envolvente e inspiradora.
 
 E é mais fácil falar do que fazer. Entretanto é um passo importante para o aprendizado profissional, porque cada empresa, cada tarefa, cada trabalho e cada tipo de profissional precisa de soluções distintas porque enfrentam problemas distintos.
 
