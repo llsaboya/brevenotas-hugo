@@ -24,7 +24,7 @@ hasChildren = true
 
   [[main]]
   parent = "Instructional Design"
-  name = "O que é Design Intrucional (ID)"
+  name = "O que é Design Instrucional (ID)"
   url = "blog/o-que-e-design-instrucional-ou-intructional-design/"
   weight = 1
 
