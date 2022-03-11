@@ -28,6 +28,12 @@ hasChildren = true
   url = "blog/o-que-e-design-instrucional-ou-intructional-design/"
   weight = 1
 
+  [[main]]
+  parent = "Instructional Design"
+  name = "ID na Educação Corporativa"
+  url = "blog/instructional-design-na-aprendizagem-corporativa/"
+  weight = 2
+
 
 [[main]]
 name = "Arquivo"
