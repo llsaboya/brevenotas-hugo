@@ -29,29 +29,20 @@ Gerenciar sua base de informações e conhecimento é essencial para o desenvolv
 
 Agora, se existem apenas casos anedóticos, episódios e exceções em relação ao aprendizado, a empresa encontra-se em uma posição ruim. Talvez ela nem saiba e descubra quando for tarde demais.
 
-·     **Gestão do conhecimento**
+- **Gestão do conhecimento**
+  - Como você constrói e gerencia o conhecimento organizacional? 
+  - Como você coleta e transfere conhecimento da força de trabalho?
+  - Como você combinar e correlacionar dados de diferentes fontes para construir novos conhecimentos?
+  - Como você transferir conhecimento relevante de e para clientes, fornecedores, parceiros e colaboradores?
+  - Como você reunir e transferir conhecimento relevante para uso em seus processos de inovação e planejamento estratégico?
 
-o  Como você constrói e gerencia o conhecimento organizacional? 
+- **Melhores práticas**
+  - Como você compartilha as melhores práticas em sua organização? 
+  - Como você identifica unidades organizacionais internas e externas ou operações de alto desempenho?
+  - Como você identifica as melhores práticas para compartilhá-las e implementá-las em sua organização, conforme apropriado?
 
-o  Como você coleta e transfere conhecimento da força de trabalho?
-
-o  Como você combinar e correlacionar dados de diferentes fontes para construir novos conhecimentos?
-
-o  Como você transferir conhecimento relevante de e para clientes, fornecedores, parceiros e colaboradores?
-
-o  Como você reunir e transferir conhecimento relevante para uso em seus processos de inovação e planejamento estratégico?
-
-·     **Melhores práticas**
-
-o  Como você compartilha as melhores práticas em sua organização? 
-
-o  Como você identifica unidades organizacionais internas e externas ou operações de alto desempenho? 
-
-o  Como você identifica as melhores práticas para compartilhá-las e implementá-las em sua organização, conforme apropriado?
-
-·     **Aprendizado Organizacional**
-
-o  Como você usa seu conhecimento e recursos para incorporar o aprendizado na forma como sua organização opera?
+- **Aprendizado Organizacional**
+  - Como você usa seu conhecimento e recursos para incorporar o aprendizado na forma como sua organização opera?
 
 Nenhuma empresa ou profissional sobrevive de apenas boas intenções. Eles precisam de resultados práticos. Tanto nomes pomposos como "universidades corporativas", como os mais normais "setores de treinamento" são essenciais para o desenvolvimento do negócio quando implementadas de modo planejado e eficaz. Elas ajudam os profissionais a trabalharem melhor, a empresa ter mais lucro e os clientes ficarem felizes e satisfeitos.
 
@@ -79,15 +70,15 @@ Lembremos que nessa década o mundo analógico e vivia a Guerra Fria. Um erro ba
 
 O ADDIE é um modelo dinâmico de gestão de aprendizagem. Ele não é um curso, uma técnica, mas um framework para a implementar processos de aprendizagens eficazes. 
 
-·     **Análise**: levantamento dos objetivos de aprendizagem, das características do público-alvo, dos contextos de treinamento, plataformas que serão utilizadas, conteúdos e formas etc.;
+- **Análise**: levantamento dos objetivos de aprendizagem, das características do público-alvo, dos contextos de treinamento, plataformas que serão utilizadas, conteúdos e formas etc.;
 
-·     **Design**: nesta etapa seleciona-se os objetivos de aprendizado e desempenho que deverão ser trabalhados em prioridade e adota uma estratégia para apresentar cada um destes conteúdos;
+- **Design**: nesta etapa seleciona-se os objetivos de aprendizado e desempenho que deverão ser trabalhados em prioridade e adota uma estratégia para apresentar cada um destes conteúdos;
 
-·     **Desenvolvimento**: desenvolve-se todos os conteúdos e materiais didáticos do treinamento: as atividades de aprendizado e os métodos e métricas de avaliação de desempenho;
+- **Desenvolvimento**: desenvolve-se todos os conteúdos e materiais didáticos do treinamento: as atividades de aprendizado e os métodos e métricas de avaliação de desempenho;
 
-·     **Implementação**: aplica-se o conteúdo do treinamento nas plataformas, apresentando, da melhor maneira, forma e conteúdo;
+- **Implementação**: aplica-se o conteúdo do treinamento nas plataformas, apresentando, da melhor maneira, forma e conteúdo;
 
-·     **Avaliação**: acompanhamento das métricas estabelecidas para mensuração dos resultados para assegurar que o treinamento realmente está atingindo os objetivos pretendidos - as avaliações devem permear todo o processo.
+- **Avaliação**: acompanhamento das métricas estabelecidas para mensuração dos resultados para assegurar que o treinamento realmente está atingindo os objetivos pretendidos - as avaliações devem permear todo o processo.
 
 A partir dos anos 80 o design de sistemas instrucionais (ISD) começou sua jornada para o mundo civil e logo chegou no mundo corporativo. Por trinta anos ele se desenvolveu e se adaptou às necessidades de organizações ao redor do mundo. Na última década, com o avanço da internet, dos agilismo e educação remota, os conceitos do *Instructional Design* foram adaptados para a velocidade do mundo atual.
 
@@ -103,53 +94,33 @@ O modelo ADDIE não é um programa de "cinco passos". Envolve processos e uma eq
 
 Por exemplo, casa fase do ADDIE é subdividido em outras fases necessárias para o processo. Outros sistemas de ID usam o ADDIE como base (mesmo que não admitam por motivos pessoais ou comerciais). Em sua origem, ele é dividido assim:
 
-·     Analisar
+-Analisar
+  - Analisar o trabalho a ser feito
+  - Selecionar as tarefas e funções
+  - Construir os indicadores de desempenho do trabalho
+  - Analisar os cursos existentes
+  - Selecionar o método de aprendizado
 
-o  Analisar o trabalho a ser feito
+- Design
+  - Criar os objetivos
+  - Criar os testes
+  - Descrever o conhecimento inicial do público-alvo
+  - Determinar a sequência e estrutura
 
-o  Selecionar as tarefas e funções
+- Desenvolvimento
+  - Especificar os eventos e atividades de aprendizado
+  - Especificar o plano de gestão de aprendizado e sistema de entrega
+  - Revisar ou selecionar o material existente
+  - Desenvolver a instrução
+  - Validar a instrução
 
-o  Construir os indicadores de desempenho do trabalho
-
-o  Analisar os cursos existentes
-
-o  Selecionar o método de aprendizado
-
-·     Design
-
-o  Criar os objetivos
-
-o  Criar os testes
-
-o  Descrever o conhecimento inicial do público-alvo
-
-o  Determinar a sequência e estrutura
-
-·     Desenvolvimento
-
-o  Especificar os eventos e atividades de aprendizado
-
-o  Especificar o plano de gestão de aprendizado e sistema de entrega
-
-o  Revisar ou selecionar o material existente
-
-o  Desenvolver a instrução
-
-o  Validar a instrução
-
-·     Implementação
-
-o  Implementar o plano de gestão de aprendizado
-
-o  Conduzir as instruções/aulas/curso
-
-·     Avaliação
-
-o  Conduzir a avaliação interna
-
-o  Conduzir a avaliação externa
-
-o  Revisar o processo
+- Implementação
+  - Implementar o plano de gestão de aprendizado
+  - Conduzir as instruções/aulas/curso
+  - Avaliação
+  - Conduzir a avaliação interna
+  - Conduzir a avaliação externa
+  - Revisar o processo
 
 Depois de aberto conseguimos visualizar o processo de *Instructional Design* do começo ao fim. É possível apreender o caminho de desenvolvimento para sistemas de aprendizados inteligentes, sejam eles on-line ou analógicos. No fim, a tecnologia é ferramenta, não definidor de resultados.
 
