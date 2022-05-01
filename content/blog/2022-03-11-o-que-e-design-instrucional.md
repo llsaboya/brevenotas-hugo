@@ -21,9 +21,9 @@ A prática formal do *design instrucional* surgiu da necessidade de treinar melh
 
 Nos anos seguintes à guerra, o psicólogo chamado Robert Gagné projetou e testou materiais instrucionais para treinar os pilotos e as equipes da Força Aérea dos Estados Unidos. 
 
-Sua abordagem sistemática para analisar as necessidades de aprendizagem, formular estratégias de ensino e produzir materiais didáticos especializados permitiu a publicação de um artigo no início da década de 1960. Este artigo apresentou os achados de sua pesquisa e formou a base de seu livro, "*The Conditions of Learning*".
+Sua abordagem sistemática para analisar as necessidades de aprendizagem, para formular estratégias de ensino e para produzir materiais didáticos especializados permitiu a publicação de um artigo no início da década de 1960. Este artigo apresentou os achados de sua pesquisa e formou a base de seu livro, "*The Conditions of Learning*".
 
-Desde então novos estudos na área de como a *aprendizagem acontece* e na *forma como ela é implementada* surgiram, criando uma outro jeito de ensinar e aprender - mais eficaz e inteligente.
+Desde então novos estudos na área de como a *aprendizagem acontece* e na *forma como ela é implementada* surgiram, criando um outro jeito de ensinar e aprender - mais eficaz e inteligente.
 
 ## Como o Design Instrucional é diferente dos treinamentos
 
