@@ -1,6 +1,6 @@
 baseurl: 'http://llsaboya.com/'
 languageCode: pt-br
-# theme: brevesnotas-theme-stack
+theme: brevesnotas-theme-stack
 paginate: 5
 title: LL Saboya
 
