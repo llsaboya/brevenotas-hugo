@@ -1,7 +1,7 @@
 ---
-title =  Titles
-date = 2019-03-10
-description = "A brief description of Hugo Shortcodes"
+title:  Titles
+date: 2019-03-10
+description: A brief description of Hugo Shortcodes
 categories:
     - notas
 draft: true
