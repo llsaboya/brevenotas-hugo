@@ -4,7 +4,7 @@ description: As pessoas ficam perturbadas, não pelas coisas, mas pela imagem qu
 slug: video
 image: 1-video.jpg
 style:
-  background: "#ea6876"
+  background: "#7d5f9b"
   color: "#fff"
 type: default
 ---
