@@ -7,7 +7,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
+license: 2022 - LEFEBVRE SABOYA - ALL RIGHTS RESERVED
 lastmod: '2020-10-09'
 menu:
     main: 

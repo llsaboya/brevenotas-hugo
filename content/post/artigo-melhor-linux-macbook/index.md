@@ -12,7 +12,10 @@ tags:
   - MacBook Air
   - Pop!_OS
   - Manjaro
+aliases:
+  - /blog/qual-melhor-linux-para-macbook-air-antigo/
 date: '2022-01-18T17:20:24.000Z'
+image: macbook-manjaro-854-480.jpg
 ---
 
 Durante toda a  primeira década de 2000 eu usei Macintosh. Eles eram claramente melhores do que o Windows (e nessa época Linux nunca fora uma opção). Não foi resenhas de revistas especializadas ou comparativos que me fizeram mudar de computador. O que me convenceu foi o **barulho do disco rígido**. 
@@ -35,7 +38,7 @@ Ele nunca foi um exemplo de desempenho, mas depois do OS X Yosemite o MacBook Ai
 
 E sem querer entrei na moda do *distro hopping* e conheci o mundo Linux melhor.
 
-![bateria-macbook-air-inchada](/images/bateria-macbook-air-inchada.webp "Bateria MacBook com risco de segurança")
+![Bateria MacBook inchada é um risco de segurança](bateria-macbook-air-inchada.webp "Bateria MacBook com risco de segurança")
 *Engenharia perfeita da Apple In California*
 
 ## As melhores distribuições para um MacBook antigo
@@ -50,8 +53,7 @@ Entre todas, três se destacam - e por motivos diferentes. Cada um tem pontos fo
 
 ### [elementary OS](https://en.wikipedia.org/wiki/Elementary_OS) - o Linux mais bonito e ordinário
 
-![elementaryos-6-odin-768-480](/images/elementaryos-6-odin-768-480-16425266527781.webp "Elementary OS")
-*Um sistema operacional lindo*
+![Elementary OS é um Macos](elementaryos-6-odin-768-480-16425266527781.webp "Elementary OS")
 
 O **Linux elementay OS** é uma distro (abreviatura carinhosa de *distribuição*) visualmente igual ao macOS. Entre todas é a que enche mais os olhos. Pensada nos detalhes, o apelo visual do elementary OS é inigualável. Se você adora um Macintosh e quer dar vida nova a qualquer computador antigo da Apple, essa é a sua distro. Ou não.
 
@@ -65,8 +67,7 @@ Além disso, o **elementary OS** não se importa muito com computadores mais ant
 
 ### [Pop!_OS](https://en.wikipedia.org/wiki/Pop!_OS) - o Linux mais amigável
 
-![pop_os-853-480](/images/pop_os-853-480-16425266668332.webp "Uma distro perfeita para quase todo mundo")
-*Uma distro perfeita para quase todo mundo*
+![PopOS é a distro perfeita para quase todo mundo](pop_os-853-480-16425266668332.webp "Uma distro perfeita para quase todo mundo")
 
 O Pop!_OS é uma distro criada pela empresa de computadores Linux **system76**. É a distribuição que vem instalada de fábrica nos computadores da empresa e uma das melhores *distros* por aí. É facil de instalar, fácil de usar, vem com uma loja de aplicativo, com drivers para sua placa NVIDIA e também tem um visual bem moderno. E é amigável para *gamers* também.
 
@@ -76,8 +77,7 @@ Entretanto, é uma distribuição voltada para computadores novos, portanto máq
 
 ### [Solus](https://pt.wikipedia.org/wiki/Solus_(sistema_operacional)) - a melhor alternativa
 
-![solus-767-480](/images/solus-767-480-16425266724553.webp "Solus é perfeito para Macs antigos")
-*Solus é perfeito para Macs antigos*
+![Solus é perfeito para Macs antigos](solus-767-480-16425266724553.webp "Solus é perfeito para Macs antigos")
 
 Solus é uma distro baseada no modelo rolling release, ou seja, ela não tem atualizações grandes (como Windows 95, XP, VISTA, 10 e depois 11 - é Solus e pronto). Também deu origem a um novo ambiente gráfico, o Budgie Desktop. Essas duas características me chamaram a atenção e resolvi instalar no MacBook Air.
 
@@ -89,8 +89,7 @@ Entretanto, ela era muito diferente da distro que eu escolhi como principal, o M
 
 ### [Manjaro Budgie](https://en.wikipedia.org/wiki/Manjaro) - a melhor distro para o MacBook Air
 
-![budgie-full-850-480](/images/budgie-full-850-480-16425266858944.webp "Manjaro Budgie é leve e bonito")
-*Minha escolha pessoal para um MacBook Air*
+![Manjaro Budgie é leve e bonito, a minha escolha pessoal para um MacBook Air](budgie-full-850-480-16425266858944.webp "Manjaro Budgie é leve e bonito")
 
 No mundo Linux existe uma distribuição chamada Arch, usada por 9,5 de 10 usuários avançados. Manjaro é uma distro Arch voltada para usuários relativamente normais, como eu. Uso ela como minha distro principal no meu computador principal.
 
@@ -118,4 +117,4 @@ Portanto, se quiser usar seu MacBook Air antigo, a melhor coisa que você faz é
 
 Vai ser feliz e esqueça a Macintosh. Por mais fantástico que seja a Apple e o novíssimo chip M1, Tim Cook fará seu MacBook ficar obsoleto em cinco anos. Disso eu não tenho dúvidas.
 
-PS: Como algumas pessoas se irritaram com o texto, segue um [follow-up](/post/um-follow-sobre-linux-macos-windows/)
+PS: Como algumas pessoas se irritaram com o texto, segue um [follow-up](/p/um-follow-sobre-linux-macos-windows/)
