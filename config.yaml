@@ -1,4 +1,4 @@
-baseurl: 'http://llsaboya.com/'
+baseurl: 'https://llsaboya.com/'
 languageCode: pt-br
 theme: brevesnotas-theme-stack
 paginate: 5
