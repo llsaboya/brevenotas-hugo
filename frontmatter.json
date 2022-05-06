@@ -59,11 +59,11 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "images",
-      "path": "[[workspace]]/assets/images"
+      "path": "[[workspace]]/static"
     },
     {
       "title": "content",
-      "path": "[[workspace]]/content/"
+      "path": "[[workspace]]/content"
     }
   ]
 }

@@ -1,10 +1,10 @@
 ---
-title =  Titles
-date = {{date}}
-description = description
+title: {{title}}
+date: {{date}}
+description: description
 categories:
-    - notas
-draft: true
+    - Notas
 tags:
-    - Tags
+	- Notas
+draft: true
 ---

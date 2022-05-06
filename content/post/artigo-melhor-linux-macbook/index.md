@@ -39,7 +39,6 @@ Ele nunca foi um exemplo de desempenho, mas depois do OS X Yosemite o MacBook Ai
 E sem querer entrei na moda do *distro hopping* e conheci o mundo Linux melhor.
 
 ![Bateria MacBook inchada é um risco de segurança](bateria-macbook-air-inchada.webp "Bateria MacBook com risco de segurança")
-*Engenharia perfeita da Apple In California*
 
 ## As melhores distribuições para um MacBook antigo
 
