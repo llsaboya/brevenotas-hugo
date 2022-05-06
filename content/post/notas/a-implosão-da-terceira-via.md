@@ -5,7 +5,7 @@ description: description
 categories:
     - Notas
 tags:
-	- Terceira Via
+  - Terceira Via
 draft: true
 ---
 Eu nunca gostei do termo "terceira via". Usar termos da construção civil em um mundo controlado por petistas, peessedebistas, pedetistas, emedebistas e similares - e agora unionistas e podemistas - só resultaria em catástrofe. Como eu já disse antes, o Brasil não precisa de mais vias na mesma estrada política. Se não resolvermos criar uma nova *freeway*, melhor nem tentar.
