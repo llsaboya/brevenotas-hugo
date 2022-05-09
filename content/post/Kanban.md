@@ -10,7 +10,8 @@ kanban-plugin: basic
 
 ## Escrevendo
 
-- [ ] [A implosao da Terceira Via](A%20implosao%20da%20Terceira%20Via.md)
+- [ ] [a-implosão-da-terceira-via](a-implosão-da-terceira-via.md)
+- [ ] [batman-2022](batman-2022.md)
 
 
 ## Publicado
