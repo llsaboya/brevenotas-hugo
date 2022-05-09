@@ -1,9 +1,10 @@
 ---
 title: A implosão da Terceira Via
 date: 2022-05-06
-description: O resultado de criar a tal alternativa viável é que teremos uma eleição decidida entre um espertalhão maluco e um maluco espertalhão. 
+description: O resultado de criar a tal alternativa viável é que teremos uma eleição
+  decidida entre um espertalhão maluco e um maluco espertalhão.
 categories:
-    - Notas
+  - Política
 tags:
   - Terceira Via
   - MBL
@@ -19,15 +20,15 @@ Muitos jornalistas torceram para que uma alternativa aparecesse na política. Ne
 
 O importante para qualquer candidato é obter votos, e apenas obter votos: pouco importa quem o candidato seja desde que tenha votos. Melhor ainda se for um picareta.
 
-O resultado dessa estratégia será sempre o mesmo: seus candidatos alternativos ou são cooptados pelo sistema, ou serão destruídos pelo sistema. A máxima independência deles é qualquer coisa parecida com um PSOL, e isso nunca é bom. Mas, por outro lado, sempre será um ótimo fundo de investimento (assim como sempre foi o PMDB e também o PSOL).
+O resultado dessa estratégia será sempre o mesmo: seus candidatos alternativos ou são cooptados pelo sistema, ou serão destruídos pelo sistema. A máxima independência deles é qualquer coisa parecida com um PSOL, e isso nunca é bom. Mas, por outro lado, sempre será um ótimo fundo de investimento (assim como sempre foi o PMDB e o PSOL).
 
-"Bem feito! Bem feito a todos vocês, sonhadores!," eu digo. Quem mandou trafegar por essa estrada.
+"Bem-feito! Bem feito a todos vocês, sonhadores!" - eu digo. Quem mandou trafegar por essa estrada.
 
 O resultado da tentativa de criar a tal "alternativa viável" aos políticos atuais é que teremos uma eleição decidida entre um **espertalhão maluco** e um **maluco espertalhão**. Ambos bons picaretas. Nada novo também. Brasileiro gosta é do espetáculo, não de bom futebol. Brasileiro também não quer pensar grande, fazer algo para as futuras gerações, realmente investir no desenvolvimento de algo que dê orgulho.
 
 Brasileiro se contenta com muito pouco. Basta melhorar um pouquinho e já está bom. A política sabe disso: fazer um pouco mais do que o necessário te faz o craque do time. Do futebol até a política, todos seguem o velho ditado, "prego que se destaca toma martelada *se não garantir a governabilidade*". Entenda isso como bem entender, porque, seja qual for sua conclusão, você estará certo também.
 
-Os interesses políticos nacionais já tem raízes profundas. É impossível querer mudar o resultado desses sistema de dentro. Também não surgirá ninguém no sistema que ajude a mudar a situação para a melhor (um melhor de verdade, não apenas melhor um pouquinho). Ainda que exista uma solução, ela não é fácil.
+Os interesses políticos nacionais já têm raízes profundas. É impossível querer mudar o resultado desse sistema de dentro. Também não surgirá ninguém no sistema que ajude a mudar a situação para a melhor (um melhor de verdade, não apenas melhor um pouquinho). Ainda que exista uma solução, ela não é fácil.
 
 ## O que política à brasileira?
 A verdade, a coerência e a resolução são os únicos antídotos para a política brasileira. É  uma *empreitada homérica* e um *trabalho hercúleo*. Isso custa dinheiro, tempo e reputação - e não conheço ninguém com sobra para investir nisso. Aliás, já seria difícil demais achar pessoas que saibam o significado de *hercúleo* ou *homérico*.
@@ -62,9 +63,9 @@ Quem tem dinheiro e não depende da máquina não tem tempo para tratar de polí
 
 A paixão da juventude até consegue que certos grupos consigam algum sucesso momentâneo, mas basta entrar no circuito para mudar a sua visão. Contexto é tudo. 
 
-Até o movimento *anarco-capitalista* precisa de candidatos com notória capacidade comprovada de mobilização. Nem a UNE e nem o MBL investem em pessoas sem um número considerado de seguidores. Na política brasileira engajamento é tudo. Uma celebridade é suficiente para vender uma mudança enquanto também elege junto toda  a velha política que você conhece.
+Até o movimento *anarco-capitalista* precisa de candidatos com notória capacidade comprovada de mobilização. Nem a UNE e nem o MBL investem em pessoas sem um número considerado de seguidores. Na política brasileira engajamento é tudo. Uma celebridade é suficiente para vender uma mudança enquanto também elege junto toda a velha política que você conhece.
 
-Estimular uma outra cultura ao mesmo tempo que desenvolve um sistema paralelo à política tradicional é uma *empreitada homérica* e um *trabalho hercúleo*. Eu já disse isso. Eu repito isso. Toda belíssima idéia ou boa intençao dos seus tios no Whatsapp e do seu candidato de estimação são mentiras quando não discutem a *empreitada homérica* e o *trabalho hercúleo* concretizar isso na política nacional.
+Estimular uma outra cultura ao mesmo tempo que desenvolve um sistema paralelo à política tradicional é uma *empreitada homérica* e um *trabalho hercúleo*. Eu já disse isso. Eu repito isso. Toda belíssima idéia ou boa intenção dos seus tios no WhatsApp e do seu candidato de estimação são mentiras quando não discutem a *empreitada homérica* e o *trabalho hercúleo* concretizar isso na política nacional.
 
 O Brasil é uma experiência única no mundo, e isso não é bom. Para arrumar o Brasil é preciso muita experimentação. Brasileiro não gosta de *pesquisa & desenvolvimento*. Quem tenta mudar isso acaba desistindo sem olhar para trás. Dom Pedro II apenas foi embora. Santos Dummont deixou descendência e nem nota de suicídio. Nossa Academia de Letras só aceita políticos e atores. Acreditar em políticos é um erro.
 
