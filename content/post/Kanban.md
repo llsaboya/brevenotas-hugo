@@ -10,13 +10,13 @@ kanban-plugin: basic
 
 ## Escrevendo
 
-- [ ] [a-implosão-da-terceira-via](a-implosão-da-terceira-via.md)
 - [ ] [batman-2022](batman-2022.md)
 
 
 ## Publicado
 
 **Complete**
+- [x] [a-implosão-da-terceira-via](a-implosão-da-terceira-via.md)
 
 
 

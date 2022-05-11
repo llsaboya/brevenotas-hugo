@@ -12,7 +12,7 @@ tags:
 ---
 Eu nunca gostei do termo "terceira via". Usar termos da construção civil em um mundo controlado por petistas, peessedebistas, pedetistas, emedebistas e similares - e agora unionistas e podemistas - só resultaria em catástrofe. Como eu já disse antes, o Brasil não precisa de [mais vias na mesma estrada política](https://llsaboya.com/p/terceira-precisamos-e-de-estradas/). Se não resolvermos criar uma nova *freeway*, melhor nem tentar.
 
-É o erro que comete o MBL e os movimentos pela democracia (incluindo também os movimentos liberais e anarco-capitalistas, junto com o "O Antagonista"), todos acreditam que poderiam usar o sistema partidário para avançar dentro da política brasileira. No fim das contas, estes funcionam da [mesmíssima forma](https://llsaboya.com/p/formacao-de-uma-terceira-via-para-2022/)_ que os partidos nanicos sempre operaram. Eu sei que a intenção deveria fazer a diferença, mas ela não importa.
+É o erro que comete o MBL e os movimentos pela democracia (incluindo também os movimentos liberais e anarco-capitalistas, junto com o "O Antagonista"), todos acreditam que poderiam usar o sistema partidário para avançar dentro da política brasileira. No fim das contas, estes funcionam da [mesmíssima forma](https://llsaboya.com/p/formacao-de-uma-terceira-via-para-2022/) que os partidos nanicos sempre operaram. Eu sei que a intenção deveria fazer a diferença, mas ela não importa.
 
 ## A terceira via chegou a seu destino
 

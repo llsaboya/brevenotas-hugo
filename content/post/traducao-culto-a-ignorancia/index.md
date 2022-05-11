@@ -7,6 +7,7 @@ tags:
 permalink: /um-culto-a-ignorancia-isaac-asimov/
 aliases:
     - /post/2021_12_11_um-culto-a-ignorancia/
+    - /blog/traducao-de-um-culto-da-ignorancia-por-isaac-asimov/
 image: isaac-asimov.jpg
 timeToRead: 8
 authors:
