@@ -1,7 +1,5 @@
 {
-    "frontMatter.dashboard.openOnStart": true,
     "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": "active",
-    "frontMatter.framework.startCommand": "hugo server"
+    "editor.guides.bracketPairs": "active"
 
 }

@@ -43,6 +43,23 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": [
+            "Lefebvre Saboya"
+          ]
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "Tag",
+            "Tags"
+          ]
         }
       ]
     }
@@ -65,5 +82,7 @@
       "title": "content",
       "path": "[[workspace]]/content"
     }
-  ]
+  ],
+  "frontMatter.dashboard.openOnStart": true,
+  "frontMatter.framework.startCommand": "hugo server"
 }
