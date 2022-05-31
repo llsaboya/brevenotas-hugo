@@ -1,5 +1,5 @@
 ---
-title: Vale a pena ver Batman 2022
+title: Batman 2022 - Um Vigilante Startup
 date: 2022-05-20T18:40:27.298Z
 description: O novo filme enganou os melhores fãs com uma estética dark e um roteiro
   pavoroso

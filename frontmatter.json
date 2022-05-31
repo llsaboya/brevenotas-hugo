@@ -84,5 +84,6 @@
     }
   ],
   "frontMatter.dashboard.openOnStart": true,
-  "frontMatter.framework.startCommand": "hugo server"
+  "frontMatter.framework.startCommand": "hugo server",
+  "frontMatter.templates.enabled": true
 }
