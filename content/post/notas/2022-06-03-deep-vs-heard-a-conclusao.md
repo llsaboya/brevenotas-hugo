@@ -16,7 +16,9 @@ tags:
   - Johnny Depp
   - Julgamento
   - Violência
+image: /../img-posts/johnny-depp-e-amber-heard-juntos.jpg
 ---
+
 Quando eu crescer quero ser a Helen Beltrame-Linné, [não ver o rosto de Johnny Depp por anos e não saber quem é Amber Heard](https://www1.folha.uol.com.br/ilustrada/2022/05/johnny-depp-fez-de-amber-heard-uma-vila-megera-em-juri-circense.shtml) - e que as pessoas achem isso maneiro. Embora viver de assistir Ingmar Bergman não seja a melhor forma de abordar o cinema é o que paga as contas dos jornais (mas não da sétima). Só assistir aos clássicos não combina com penteados moderninhos. É *jeu de scène*. Pensando bem, não vou crescer nem tentar ser maneiro.
 
 Gente como a Helen é chata.
