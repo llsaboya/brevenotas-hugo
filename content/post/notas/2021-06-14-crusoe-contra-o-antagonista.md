@@ -1,19 +1,20 @@
 ---
-
 title: A revista Crusoé contra o site O Antagonista
-description: Se a Crusoé brigasse com o O Antagonista seria uma situação freudiana interessante.
+description: Se a Crusoé brigasse com o O Antagonista seria uma situação freudiana
+  interessante.
 categories:
-    - Política
-    - Cultura
+  - Política
+  - Cultura
 tags:
-    - Claudio Dantas
-    - Cultura
-    - Diogo Mainardi
-    - Mario Sabino
-    - O Antagonista
-    - Revista Crusoé
-    - Alexandre Soares Silva
+  - Claudio Dantas
+  - Cultura
+  - Diogo Mainardi
+  - Mario Sabino
+  - O Antagonista
+  - Revista Crusoé
+  - Alexandre Soares Silva
 slug: revista-crusoe-contra-site-antagonista
+date: 2021-06-14T16:44:32.116Z
 ---
 
 Eu fiquei muito animado assim que Diogo Mainardi anunciou o lançamento da revista Crusoé e do site Antagonista. Bom jornalismo no Brasil é escasso, não por falta de jornalistas (nossa reserva estratégica é suficiente) - o problema é não ter veículos de notícias em quantidade suficiente. Quanto mais melhor. Entretanto, essa não é a lacuna mais importante no jornalismo brasileiro. O que falta no Brasil é **boa fofoca**.

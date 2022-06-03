@@ -49,7 +49,7 @@ A dinâmica dos abusos domésticos são complicadas e podem ter resultados grave
 
 Entretanto, o certo nunca é a moda do momento.
 
-Já notaram que apesar de toda essa confusão um personagem ainda segue com sua vida como se nada tivesse acontecido? Sim, o agressor é a única pessoa nessa história que continua com sua vida. Não importa o quão violento ele foi, não importa o quão denunciado ele foi, o agressor sempre achará um novo amor na sua vida.
+Já notaram que apesar de toda essa confusão um personagem ainda segue com sua vida como se nada tivesse acontecido? Sim, o agressor é a única pessoa nessa história que continua apesar de tudo. Não importa o quão violento ele foi, não importa o quão denunciado ele foi, o agressor sempre achará um novo amor para chamar de seu.
 
 E esse novo amor, ao menos da forma que percebo, tem grandes chances de se tornar uma vítima fresquinha para os velhos discursos da mídia - isso se tiver sorte, porque é mais provável que seja uma daquelas anônimas que não servem para uma chamada de jornal.
 

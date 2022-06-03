@@ -1,6 +1,7 @@
 ---
 
 kanban-plugin: basic
+draft: true
 
 ---
 
@@ -8,7 +9,6 @@ kanban-plugin: basic
 
 - [ ] Por que a liberdade de expressão
 - [ ] [uma-politica-de-oportunidades-perdidas](uma-politica-de-oportunidades-perdidas.md)
-- [ ] [deep-vs-heard-a-conclusao](deep-vs-heard-a-conclusao.md)
 
 
 ## Escrevendo
