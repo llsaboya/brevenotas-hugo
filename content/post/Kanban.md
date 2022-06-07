@@ -7,7 +7,6 @@ draft: true
 
 ## Idéias
 
-- [ ] Por que a liberdade de expressão
 - [ ] [uma-politica-de-oportunidades-perdidas](uma-politica-de-oportunidades-perdidas.md)
 
 
@@ -20,6 +19,7 @@ draft: true
 **Complete**
 - [x] [a-implosão-da-terceira-via](a-implosão-da-terceira-via.md)
 - [x] [index](review-batman-2022/index.md)
+- [x] [index](artigo-porque-liberdade-imprensa/index.md)
 
 
 

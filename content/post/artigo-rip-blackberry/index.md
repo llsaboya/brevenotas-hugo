@@ -24,7 +24,7 @@ A partir da virada do século a tecnologia transformou a vida de muita gente. Es
 
 E digo mais, o mundo do BlackBerry, além de mais produtivo, era bem mais civilizado. Precisamos entender como um teclado físico revolucionou a comunicação corporativa e transformou as relações de trabalho.
 
-![Meu BlackBerry plugado na tomada depois de décadas, funcinou imediatamente](/images/8570ef2604f0992522b89fd8f0148202f4837f15.jpg)
+![Meu BlackBerry plugado na tomada depois de décadas, funcinou imediatamente](8570ef2604f0992522b89fd8f0148202f4837f15.jpg)
 
 ## O BlackBerry tornou o iPhone obsoleto antes dele nascer
 
@@ -36,7 +36,7 @@ E por isso que meu ex-chefe sentiu-se no direito de ficar muito brabo comigo por
 
 Meu ex-chefe é usuário de iPhone, caso você esteja curioso.
 
-![BlackBerry-850](/images/2706e4881c655057bda56d135945883f0a542849.webp)
+![BlackBerry-850](2706e4881c655057bda56d135945883f0a542849.webp)
 
 ## Um mundo de celebridades e novidades
 
@@ -52,7 +52,7 @@ Com um BlackBerry você poderia trocar mensagens instantâneas, entrar na intern
 
 O teclado mecânico também era muito mais funcional do que a tela do smartphone (desde que você soubesse escrever e não dependesse de autocorreção). Eu respondia e-mails muito mais rápido no meu antigo BlackBerry do que no meu antigo iPhone 4. 
 
-![Meu BlackBerry e seu fiel estagiário, o iPhone 4](/images/18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg)
+![Meu BlackBerry e seu fiel estagiário, o iPhone 4](18d8b5e1474e7638836f02e4edb53cce12ea2522.jpg)
 
 ## Um mundo que não volta mais
 
