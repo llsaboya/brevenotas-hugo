@@ -1,9 +1,8 @@
 ---
 title: Aquela turma do teatro
-date: 2022-06-27
+date: 2022-06-27T15:55:43.361Z
 description: Todos os atores bem-sucedidos têm essa vergonha porque seu trabalho é fácil
   demais.
-draft: true
 slug: aquela-turma-teatro
 tags:
   - Artista
