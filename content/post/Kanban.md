@@ -8,6 +8,7 @@ draft: true
 ## Idéias
 
 - [ ] [uma-politica-de-oportunidades-perdidas](uma-politica-de-oportunidades-perdidas.md)
+- [ ] [index](artigo-aquela-turma-teatro/index.md)
 
 
 ## Escrevendo
