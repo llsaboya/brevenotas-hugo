@@ -1,6 +1,10 @@
 ---
 title: Links
 links:
+  - title: Design 4 Thinking 
+    description: A D4T usa o Design Instrucional para desenvolver suas equipes com o conhecimento e o know-how da sua empresa através da inovação e tecnologia.
+    website: https://d4t.dev
+    image: d4t.png
   - title: Atendimento Bancário - Como atender e vender em qualquer Instituição Financeira
     description: O livro apresentando o atendimento e venda em bancos e instituições financeiras com uma abordagem diferente, através dos desafios de quem trabalha de verdade em uma agência bancária.
     website: https://www.amazon.com.br/gp/product/B07ZTTKXW9/
@@ -22,8 +26,8 @@ menu:
         weight: -50
         params:
             icon: link
-image: links.jpg
+# image: links.jpg
 comments: false
 ---
 
-Aqui há algumas trabalhos profissionais, meu livros, traduções e outros trecos para download e coisinhas mais.
+Conheça meus trabalhos profissionais, livros, traduções e outros trecos para download e coisinhas mais.
