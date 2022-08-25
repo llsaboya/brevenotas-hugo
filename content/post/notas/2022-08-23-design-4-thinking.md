@@ -1,6 +1,6 @@
 ---
 title: Quem sabe, faz. Quem entende, ensina - Design Instrucional
-description: Quem não sabe ensina, diz o ditado. Porém, 
+description: Quem não sabe, ensina, diz o ditado. Porém, o ditado não é esse.
 draft: false
 categories:
   - Cultura
@@ -40,6 +40,8 @@ Nesse momento sempre aparece aquele engraçadinho para dizer que "**quem sabe fa
 "Não...", ele responde, de novo.
 
 Há uma aversão geral contra quem ensina. Aposto que você já fez um ou dois cursos dentro da sua empresa. Talvez os melhores cursos não usam as palavras *professor, aluno, aprender ou ensinar*. Termos como *liderança, desenvolvimento, aprimoramento e conhecimento são mais apreciados* no mundo corporativo. E preciso concordar contigo que "aprender" começa na escola e as aulas da escola não são as melhores lembranças daquela época.
+
+{{< youtube VJDskZ2LXEE >}}
 
 O designer instrucional consegue criar boas experiências de aprendizagem porque ele, antes de pensar no ensino, ele precisa **entender**. O DI não é especialista no assunto a ser ensinado, ele é especialista em entender e descobrir a melhor forma de ensinar. Aristóteles já sabia disso:
 

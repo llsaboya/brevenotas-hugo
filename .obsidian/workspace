@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1076007e95ec00dc",
+        "id": "3da58edd8f6eb619",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -136,11 +136,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1076007e95ec00dc",
+  "active": "3da58edd8f6eb619",
   "lastOpenFiles": [
-    "content/post/Kanban.md",
     "content/post/rich-content/index.md",
     "content/post/notas/2022-08-23-design-4-thinking.md",
+    "content/post/Kanban.md",
     "Home.md",
     "content/post/notas/Kanban.md",
     "content/post/notas/2022-06-03-deep-vs-heard-a-conclusao.md",

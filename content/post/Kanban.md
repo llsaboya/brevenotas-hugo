@@ -11,12 +11,12 @@ draft: true
 
 ## Escrevendo
 
-- [ ] [2022-08-23-design-4-thinking](2022-08-23-design-4-thinking.md)
 
 
 ## Publicado
 
 **Complete**
+- [x] [2022-08-23-design-4-thinking](2022-08-23-design-4-thinking.md)
 
 
 
