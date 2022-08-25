@@ -1,20 +1,28 @@
 ---
 
 kanban-plugin: basic
-draft: true
 
 ---
 
 ## Idéias
 
+- [ ] O caos da criatividade
 
 
-## Escrevendo
+## Rascunho
 
 - [ ] [2022-08-23-design-4-thinking](2022-08-23-design-4-thinking.md)
 
 
-## Publicado
+## Escrevendo
+
+
+
+## Revisando
+
+
+
+## Done
 
 **Complete**
 
