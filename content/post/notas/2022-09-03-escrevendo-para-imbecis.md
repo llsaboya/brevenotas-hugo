@@ -12,7 +12,7 @@ tags:
   - Escrita
 slug: templateslug
 image: /images/1-cultura.jpg
-date: 2022-00-04
+date: 2022-09-04
 ---
 
 Eu escrevo para imbecis. Não sei como e nem quando comecei a escrever para imbecis. Em algum momento nos últimos anos minha *musa* transformou-se em um ser de inteligência curta e com pouco juízo. Uma idiota, uma tola. Eu escrevia para pessoas inteligentes. Como permiti isso?

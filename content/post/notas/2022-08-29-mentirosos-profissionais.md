@@ -12,7 +12,7 @@ tags:
   - Mentirosos Profissionais
 slug: templateslug
 image: /images/1-politica.jpg
-date: 2022-08-30T22:57:03.150Z
+date: 2022-08-30T22:57:03.000Z
 ---
 
 Ian Fraser Kilmister, no final dos anos 90, concedeu uma entrevista a uma tv polonesa. Nela, ele afirmou: "**todos os políticos mentem, ...., essa é a profissão deles, serem mentirosos**". David Livingstone Smith, Ph.D. em filosofia pela Universidade de Londres também [compartilha essa opinião](https://www.otempo.com.br/interessa/e-impossivel-ser-um-politico-de-sucesso-sem-ser-mentiroso-1.1485238?utm_source=pocket_mylist):
@@ -60,11 +60,3 @@ Entretanto, os políticos não precisam mais mentir graciosamente. A revolução
 [^3]: O amor é eterno enquanto dura.
 
 
-
-## YouTube Privacy Enhanced Shortcode
-
-{{< youtube ZJthWmvUzzc >}}
-
-## Twitter Simple Shortcode
-
-{{< tweet user="SanDiegoZoo" id="1453110110599868418" >}}
