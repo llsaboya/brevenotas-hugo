@@ -1,3 +1,4 @@
 {
-  "folder": "content/post/notas"
+  "folder": "content/post/notas",
+  "template": "archetypes/BN"
 }

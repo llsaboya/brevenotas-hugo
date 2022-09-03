@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3da58edd8f6eb619",
+        "id": "a4ea83bdd5f1c205",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/notas/2022-08-23-design-4-thinking.md",
+            "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/notas/2022-08-23-design-4-thinking.md",
+                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/notas/2022-08-23-design-4-thinking.md",
+                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/notas/2022-08-23-design-4-thinking.md"
+                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md"
               }
             }
           },
           {
-            "id": "0bc90c877eb3c89d",
+            "id": "8543890e58abfc2a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3da58edd8f6eb619",
+  "active": "faf60d17de2f0fda",
   "lastOpenFiles": [
-    "content/post/rich-content/index.md",
-    "content/post/notas/2022-08-23-design-4-thinking.md",
+    "content/post/notas/2022-08-29-mentirosos-profissionais.md",
+    "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
     "content/post/Kanban.md",
+    "Mentirosos Profissionais.md",
     "Home.md",
-    "content/post/notas/Kanban.md",
-    "content/post/notas/2022-06-03-deep-vs-heard-a-conclusao.md",
-    "content/post/notas/2022-08-23-design_for_thinking.md",
-    "content/post/notas/2006-07-16-o-que-e-um-blog.md",
-    "content/post/notas/uma-politica-de-oportunidades-perdidas.md",
-    "content/post/review-agente-114/index.md"
+    "README.md",
+    "content/categories/Video/_index.md",
+    "archetypes/BN.md",
+    "archetypes/tags.md",
+    "archetypes/categories.md"
   ]
 }

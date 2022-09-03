@@ -7,6 +7,7 @@ draft: true
 
 ## Idéias
 
+- [ ] [2022-08-29-mentirosos-profissionais](2022-08-29-mentirosos-profissionais.md)
 
 
 ## Escrevendo
