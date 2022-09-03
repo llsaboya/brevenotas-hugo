@@ -1,6 +1,7 @@
 ---
 title: Eu escrevo mais para os imbecis
-description: Eu tentei ser uma pessoa normal nos últimos anos, cujo comportamento é considerado aceitável e comum. Falhei miseravelmente nessa tarefa.
+description: Eu tentei ser uma pessoa normal nos últimos anos, cujo comportamento é
+  considerado aceitável e comum. Falhei miseravelmente nessa tarefa.
 draft: false
 categories:
   - Cultura
@@ -12,7 +13,7 @@ tags:
   - Escrita
 slug: templateslug
 image: /images/1-cultura.jpg
-date: 2022-09-04
+date: 2022-09-03T23:34:45.593Z
 ---
 
 Eu escrevo para imbecis. Não sei como e nem quando comecei a escrever para imbecis. Em algum momento nos últimos anos minha *musa* transformou-se em um ser de inteligência curta e com pouco juízo. Uma idiota, uma tola. Eu escrevia para pessoas inteligentes. Como permiti isso?

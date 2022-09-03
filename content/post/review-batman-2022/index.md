@@ -1,6 +1,6 @@
 ---
 title: Batman 2022 - Um Vigilante Startup
-date: 2022-05-20T18:40:27.298Z
+date: 2022-05-20
 description: O novo filme enganou os melhores fãs com uma estética dark e um roteiro
   pavoroso
 draft: false
@@ -14,11 +14,12 @@ categories:
 image: batman_banner2.jpg
 slug: vale-pena-ver-batman-2022
 ---
+
 Imagine que você é uma criança que testemunhou seu pai e sua mãe serem mortos por absolutamente nada, vítimas de um criminoso qualquer na saída do cinema. Imagine a desolação, o medo e a dor de não ter mais seus pais, ter pesadelos com o assassinato, se culpar por ter escolhido ver esse filme, não ter mais parentes próximos e não saber como será a sua vida daqui para frente.
 
- Apensar de você possuir todo o dinheiro do mundo, dentro desse sofrimento, conforme você cresce, vê a raiva, o desespero e a culpa te consumir por dentro enquanto você se esforça manter as boas memórias e lições que seus pais passaram nesse curto tempo de vida - ainda que nada disso fez a diferença.
+Apensar de você possuir todo o dinheiro do mundo, dentro desse sofrimento, conforme você cresce, vê a raiva, o desespero e a culpa te consumir por dentro enquanto você se esforça manter as boas memórias e lições que seus pais passaram nesse curto tempo de vida - ainda que nada disso fez a diferença.
 
- Apensar de você possuir todo o dinheiro do mundo, a realidade é: ambos estão mortos e ninguém no mundo se preocupa com caráter, honestidade ou bondade, apenas com dinheiro, lucro e poder. Nada pode trazer seus pais de volta.
+Apensar de você possuir todo o dinheiro do mundo, a realidade é: ambos estão mortos e ninguém no mundo se preocupa com caráter, honestidade ou bondade, apenas com dinheiro, lucro e poder. Nada pode trazer seus pais de volta.
 
 O que você faria?
 
