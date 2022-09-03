@@ -1,13 +1,15 @@
 ---
 title: Eu escrevo mais para os imbecis
-description: Description
-draft: true
+description: Eu tentei ser uma pessoa normal nos últimos anos, cujo comportamento é considerado aceitável e comum. Falhei miseravelmente nessa tarefa.
+draft: false
 categories:
   - Cultura
 keywords:
-  - Keyword
+  - Musa
+  - Escrita
 tags:
-  - Tag
+  - Musa
+  - Escrita
 slug: templateslug
 image: /images/1-cultura.jpg
 date: 2022-00-04
