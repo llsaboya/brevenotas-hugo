@@ -11,7 +11,7 @@ tags:
   - Rob Pattinson
 categories:
   - Cultura
-image: batman_banner2.jpg
+
 slug: vale-pena-ver-batman-2022
 ---
 
