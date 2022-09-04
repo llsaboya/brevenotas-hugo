@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "static/img-posts",
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "pt-BR",
+    "en-US"
+  ]
+}

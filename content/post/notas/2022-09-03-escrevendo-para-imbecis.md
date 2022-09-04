@@ -1,5 +1,5 @@
 ---
-title: Eu escrevo mais para os imbecis
+title: Eu não escrevo mais para os imbecis
 description: Eu tentei ser uma pessoa normal nos últimos anos, cujo comportamento é
   considerado aceitável e comum. Falhei miseravelmente nessa tarefa.
 draft: false
@@ -11,7 +11,7 @@ keywords:
 tags:
   - Musa
   - Escrita
-slug: templateslug
+slug: eu-nao-escrevo-mais-para-os-imbecis
 image: /images/1-cultura.jpg
 date: 2022-09-03T23:34:45.593Z
 ---

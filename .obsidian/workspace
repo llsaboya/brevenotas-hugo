@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "f67a2c521acde8ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4ea83bdd5f1c205",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8522570a9f7a8ec4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ff1962e2a96a42d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf60d17de2f0fda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad1c1453a95c4da2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce113a13ca4aeefa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 466.5
+  },
+  "right": {
+    "id": "59a55579d061d64b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd48fd3811cdc4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "938b6101f395382e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d63e8326e0b0752c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0ac86fbba2c9e73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "818d04ca264da43c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md"
+              }
+            }
+          },
+          {
+            "id": "8543890e58abfc2a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "faf60d17de2f0fda",
+  "lastOpenFiles": [
+    "content/post/notas/2022-08-29-mentirosos-profissionais.md",
+    "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+    "content/post/Kanban.md",
+    "Mentirosos Profissionais.md",
+    "Home.md",
+    "README.md",
+    "content/categories/Video/_index.md",
+    "archetypes/BN.md",
+    "archetypes/tags.md",
+    "archetypes/categories.md"
+  ]
+}
