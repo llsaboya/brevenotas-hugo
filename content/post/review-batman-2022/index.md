@@ -1,6 +1,7 @@
 ---
+
 title: Batman 2022 - Um Vigilante Startup
-date: 2022-05-20
+date: 2022-05-20T05:00:00.000Z
 description: O novo filme enganou os melhores fãs com uma estética dark e um roteiro
   pavoroso
 draft: false
@@ -11,8 +12,9 @@ tags:
   - Rob Pattinson
 categories:
   - Cultura
-
+image: batman_banner2.jpg
 slug: vale-pena-ver-batman-2022
+
 ---
 
 Imagine que você é uma criança que testemunhou seu pai e sua mãe serem mortos por absolutamente nada, vítimas de um criminoso qualquer na saída do cinema. Imagine a desolação, o medo e a dor de não ter mais seus pais, ter pesadelos com o assassinato, se culpar por ter escolhido ver esse filme, não ter mais parentes próximos e não saber como será a sua vida daqui para frente.
