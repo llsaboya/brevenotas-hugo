@@ -1,7 +1,7 @@
 ---
 title: Os Anéis do poder - Amazon
 slug: resenha-os-aneis-do-poder-amazon
-description: "Os fãs de Tolkietalvez a assistam, porém não de novo, e de novo, e mais uma vez, antes de decidir ver a versão estendida novamente."
+description: "Os fãs de Tolkien talvez a assistam, porém não de novo, e de novo, e mais uma vez, antes de decidir ver a versão estendida novamente."
 date: 2022-09-04T20:08:47.612Z
 draft: false
 tags:
