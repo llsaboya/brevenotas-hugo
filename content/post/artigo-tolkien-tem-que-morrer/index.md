@@ -12,7 +12,7 @@ tags:
   - O senhor dos anéis
   - Os anéis do poder
   - Rings of power
-  - woke
+  - Woke
 categories:
   - Cultura
 image: rings-of-power.jpg
@@ -20,7 +20,7 @@ aliases:
   - /blog/porque-tolkien-tem-morrer/
 ---
 
-A produção da Amazon "Os anéis do poder" desencadeou a mais [nova polêmica cultural](https://www.youtube.com/watch?v=D9rJHb-rvYo&t=13s). De um lado temos um doutor em linguística, professor, filósofo, que durante mais de uma década inventou, estruturou, detalhou e escreveu uma história mitológica da cultura anglo-saxã lida no mundo inteiro desde o final da década de cinquenta. Junto com ele uma obra lida e estudada nos últimos 70 anos. 
+A produção da Amazon "[Os anéis do poder](https://llsaboya.com/p/resenha-os-aneis-do-poder-amazon/)" desencadeou a mais [nova polêmica cultural](https://www.youtube.com/watch?v=D9rJHb-rvYo&t=13s). De um lado temos um doutor em linguística, professor, filósofo, que durante mais de uma década inventou, estruturou, detalhou e escreveu uma história mitológica da cultura anglo-saxã lida no mundo inteiro desde o final da década de cinquenta. Junto com ele uma obra lida e estudada nos últimos 70 anos. 
 
 Já do outro lado, dois moleques de Hollywood que "adaptaram" os *apêndices* desse livro (e apenas os apêndices, sem poder citar nada além disso) e seus [extremistas seguidores](https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look) que acreditam serem os depositários da esperança de um novo mundo melhor, mais digno e justo.
 

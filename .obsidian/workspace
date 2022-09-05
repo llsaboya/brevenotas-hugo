@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a4ea83bdd5f1c205",
+        "id": "8ab7e57486248db9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+            "file": "content/post/review-os-aneis-do-poder/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+                "file": "content/post/review-os-aneis-do-poder/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
+                "file": "content/post/review-os-aneis-do-poder/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/notas/2022-09-03-escrevendo-para-imbecis.md"
+                "file": "content/post/review-os-aneis-do-poder/index.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "faf60d17de2f0fda",
+  "active": "8ab7e57486248db9",
   "lastOpenFiles": [
+    "content/post/review-os-aneis-do-poder/rings-of-power.jpg",
+    "content/post/artigo-tolkien-tem-que-morrer/index.md",
+    "content/post/review-os-aneis-do-poder/index.md",
+    "content/post/Kanban.md",
+    "content/post/review-os-aneis-do-poder/aneis-do-poder-orcs.jpg",
     "content/post/notas/2022-08-29-mentirosos-profissionais.md",
     "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
-    "content/post/Kanban.md",
     "Mentirosos Profissionais.md",
     "Home.md",
-    "README.md",
-    "content/categories/Video/_index.md",
-    "archetypes/BN.md",
-    "archetypes/tags.md",
-    "archetypes/categories.md"
+    "README.md"
   ]
 }
