@@ -1,6 +1,6 @@
 ---
 title: Políticos são mentirosos profissionais
-description: Description
+description: No Brasil a política é capaz de tudo, e o povo do que lhe resta.
 draft: true
 categories:
   - Cultura
@@ -57,6 +57,21 @@ Portanto, todo político precisa ser um mentiroso profissional. O que eles dizem
 
 Entretanto, os políticos não precisam mais mentir graciosamente. A revolução da informação iniciada por Gutemberg propagou as verdades pelo mundo. A sociedade não gosta muito de verdades - só aquelas que se alinham seus desejos[^3].
 
-[^3]: O amor é eterno enquanto dura.
+[^3]: O amor é eterno enquanto dura, que é de Henri de Régnier, e não do Vinícius de Morais.
 
+Líderes autoritários manipulam nossos medos. Roger Money-Kyrle compreendeu a forma desses discursos na Alemanha (adivinhe em que época). Já deveríamos ter aprendido nossa lição como sociedade. Não aprendemos. Hoje o *marketing político* usa e abusa dessa fórmula em praticamente todas as *campanhas políticas*:
+
+1. Faça as pessoas ficarem **deprimidas**
+2. Depois as faça ficarem **paranóicas**.
+3. Enfim ofereça **salvação**.
+
+Os políticos discursam sobre a desesperadora situação em que nos encontramos. Pode ser nossos valores, a moral, a democracia em si, os avanços sociais ou o poder de compra. Tudo isso, a todo o momento, está seriamente em risco e a beira do colapso. **É fácil ficar deprimido** ao ouvir tanta desgraça.
+
+Então os políticos asseguram que **o problema não é você, e sim os outros**! Que outros? Ora, os outros políticos e seus eleitores. É possível que você pense que eles acusam "todos os outros políticos" de maldade. Não todos, é claro! Afinal é preciso construir alianças para garantir a *governabilidade* e conseguir transformar os desejos do povo em realidade. Mesmo nas horas mais escuras sempre existe esperança!
+
+Quando você está mais aterrorizado e paranóico, enfim a política te oferece a **salvação**: a esperança é **o seu político de estimação**. 
+
+Como as outras pessoas não vêem isso? É simplesmente óbvio que ele está do lado certo, com as respostas certas, com a determinação de ser o **salvador** dos nossos valores, da moral, da democracia em si, dos avanços sociais e do poder de compra.
+
+A política é capaz de tudo, e o povo do que lhe resta - ou seja, decidir entre o bem e o mal, entre o futuro ou o retrocesso, em a luz ou a escuridão.
 

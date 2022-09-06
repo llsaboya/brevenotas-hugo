@@ -1,5 +1,5 @@
 ---
-title: Os Anéis do poder - Amazon
+title: Os Anéis do Poder - Amazon
 slug: resenha-os-aneis-do-poder-amazon
 description: "Os fãs de Tolkien talvez a assistam, porém não de novo, e de novo, e mais uma vez, antes de decidir ver a versão estendida novamente."
 date: 2022-09-04T20:08:47.612Z
@@ -18,29 +18,31 @@ categories:
 image: aneis-do-poder-orcs.jpg
 ---
 
-Sempre achei impossível opinar sobre um filme sem tê-lo visto. O mundo mudou, as certezas do passado não existem mais, uma revolução cultural aconteceu. Devemos aceitar e estar em conformidade com o novo normal. Portanto, hoje, é totalmente possível escrever sobre **Os Anéis do Poder** sem assistir a coisa em si já que também é possível fazer uma série sobre **O Senhor dos Anéis** sem ler uma única página de [J. R. R. Tolkien](https://llsaboya.com/p/porque-tolkien-tem-morrer/). 
+Sempre achei impossível opinar sobre um filme sem tê-lo visto. O mundo mudou, as certezas do passado não existem mais, a revolução cultural aconteceu. Devemos aceitar a conformidade com o novo normal. Portanto, agora é totalmente possível escrever sobre **Os Anéis do Poder** sem assistir a coisa em si. Também é possível fazer uma série sobre **O Senhor dos Anéis** sem ler uma única página de [J. R. R. Tolkien](https://llsaboya.com/p/porque-tolkien-tem-morrer/). 
 
-No fim da década de 90 eu estava em um dilema: veria ou não os tais anunciados filmes do "O Senhor dos Anéis"? Peter Jackson era um desconhecido, embora já tivesse no currículo [um filme que gosto muito](https://www.imdb.com/title/tt0116365/?ref_=nm_flmg_dr_22). Trazer Tolkien para as telas de cinema seria um desafio homérico, já que cada fã tinha a sua própria idealização da Terre Média - inclusive eu.
+No fim da década de 90 eu enfrentava um dilema: veria ou não os tais anunciados filmes do "O Senhor dos Anéis"? Peter Jackson era desconhecido, embora já tivesse no currículo [um filme que gosto muito](https://www.imdb.com/title/tt0116365/?ref_=nm_flmg_dr_22). Trazer Tolkien para as telas seria um desafio homérico, já que cada fã tinha a sua própria idealização da Terre Média - inclusive eu.
 
-Eu sabia que se assistisse aos filmes eu perderia todo o mundo que imaginei sozinho quando li aquelas milhares de páginas. Ninguém se importa nem um pouco com isso hoje em dia, mas duas décadas atrás "ver ou não o filme" era uma discussão legítima. Hoje mal lembro como era Gandalf na minha imaginação. Preciso até ser lembrado das diferenças da história entre os livros e a película.
+Eu sabia que se assistisse aos filmes eu perderia todo o mundo que imaginei sozinho quando li aquelas milhares de páginas. Ninguém se importa nem um pouco com isso hoje, mas duas décadas atrás "ver ou não o filme" era uma discussão legítima. Vi os filmes diversas vezes, não recordo como era Gandalf na minha imaginação. Preciso até ser lembrado das diferenças da história entre os livros e a película.
 
-Quando Jeff Bezos (2017) decidiu criar uma série sobre LOTR fiquei empolgado. **O Silmarillion** e **Contos Inacabados** eram a matéria-prima perfeita para uma obra-prima. Entretanto, qual foi minha surpresa quando soube que a Amazon tinha adquirido apenas os direitos *dos apêndices do livro*! Ninguém conseguiria filmar a história judaico-cristã usando apenas as notas de rodapé do novo testamento! Não é assim que obras literárias funcionam!
+Quando Jeff Bezos (em 2017) decidiu criar uma série sobre LOTR fiquei animado. **O Silmarillion** e **Contos Inacabados** eram a matéria-prima perfeita para uma obra-prima. Entretanto, qual não foi minha surpresa quando soube que a Amazon tinha adquirido apenas os direitos *dos apêndices do livro*! Ninguém conseguiria filmar a história judaico-cristã usando apenas as notas de rodapé do novo testamento! Não é assim que obras literárias funcionam!
 
-A receita para o desastre estava pronta. A história do desastre tornou-se mais interessante do que a série em si.
+A receita para o desastre estava pronta. Essa história tornou-se mais interessante do que a série em si.
 
-No começo, a Amazon trabalhou junto com o Tolkien Estate and Trust (o filho de Tolkien, quem controlava a obra do pai), a HarperCollins (que publicava os livros) e New Line Cinema (a divisão da Warner Bros. que produziu os filmes). A New Line talvez até permitisse que a série usasse material dos filmes, já que o incrível acordo do Bezos não permitia nem usar a palavra "hobbit". 
+No começo, a Amazon trabalhou junto com o Tolkien Estate and Trust (o filho de Tolkien, quem controlava a obra do pai), a HarperCollins (que publicava os livros) e New Line Cinema (a divisão da Warner que produziu os filmes). A New Line talvez até permitisse que a série usasse material dos filmes, já que o incrível acordo do Bezos não permitia nem usar a palavra "hobbit". 
 
-O Tolkien Estate (ou seja, Christopher Tolkien, já com seus 90 e tantos anos) também impôs algumas restrições criativas à série. Bezos tinha dois anos para começar a filmar. Christopher Tolkien também tinha poder de veto a qualquer hora. Tom Shippey, professor de literatura inglesa e o maior especialista nas obras de Tolkien, estava no projeto. Somente eles dois foram suficientes para bancar as expectativas dos fãs e evitar que as desastrosas contratações para a produção e escrita da série
+O Tolkien Estate (ou seja, Christopher Tolkien, já com seus 90 e tantos anos) também impôs algumas restrições criativas à série. Bezos tinha dois anos para começar a filmar. Christopher Tolkien também tinha poder de veto a qualquer hora. 
 
-Quer dizer, até Christopher morrer em janeiro de 2020. Em abril de 2020 a Amazon demitiu Tom Shippey. A partir de daí, a Amazon resolveu lançar um trailer depois do outro descontruindo toda e qualquer tradição da literatura de Tolkien e defendendo com unhas e dentes as decisões criativas (ou nem tão criativas assim) da sua equipe. O resultado foi a guerra.
+Tom Shippey, professor de literatura inglesa e o maior especialista nas obras de Tolkien, estava no projeto. Somente eles dois foram suficientes para bancar as expectativas dos fãs e evitar que as desastrosas contratações para a produção e roteiro da série
 
-De um lado, Jeff Bezos, um dos homens mais ricos e poderosos do mundo, com centenas de profissionais e especialistas em todas as áreas de conhecimento, decidido em mostrar ao mundo sua maravilha criativa que reescreveu a maior obra literária mitológica do século XX. 
+Quer dizer, até Christopher morrer em janeiro de 2020. Em abril de 2020 a Amazon demitiu Tom Shippey. Então a Amazon resolveu lançar um trailer depois do outro desconstruindo toda e qualquer tradição da literatura de Tolkien, defendendo com unhas e dentes as decisões criativas (ou nem tão criativas assim) da sua equipe. O resultado foi a guerra.
 
-Do outro, milhões de anônimos pelo mundo com uma única coisa em comum: eles leram os livros de J. R. R. Tolkien. O resultado desse conflito era previsível.
+De um lado Jeff Bezos, um dos homens mais ricos e poderosos do mundo, com centenas de profissionais e especialistas em todas as áreas do entretenimento, decidido a mostrar ao mundo sua maravilha criativa que reescreveu a maior obra literária mitológica do século XX. 
 
-**Os Anéis do Poder** não é uma adaptação de Tolkien. Ela é uma obra original da Amazon e uma série de televisão chata.
+Do outro, milhões de anônimos pelo mundo com uma única coisa em comum: eles leram os livros de J. R. R. Tolkien. O resultado desse conflito era previsível: o mal não é capaz de criar algo novo, só pode distorcer e destruir o que foi inventado ou feito pelas forças do bem.
 
-Se a sigla LOTR não estivesse grudada no título ninguém daria a menor bola para ela. As decisões criativas da Time Amazon seriam apenas um trabalho mal feito com uma agenda moderninha e moralizante, tão comum nos dias de hoje. Mas essas crianças mimadas não querem apenas um bilhão de dólares para seus surtos literários. Eles querem também o aplauso da platéia, de toda os membros do público, sem exceção alguma.
+**Os Anéis do Poder** não é uma adaptação de Tolkien. Ela é uma obra original da Amazon e uma série de televisão burra.
+
+Se a sigla LOTR não estivesse grudada no título ninguém daria a menor bola. As decisões criativas da Time Amazon é apenas um trabalho mal feito com uma agenda moderninha e moralizante, tão comum nos dias de hoje. Mas essas crianças mimadas não querem apenas um bilhão de dólares para seus surtos literários. Eles querem também o aplauso da platéia, de toda os membros do público, sem exceção alguma.
 
 Os fãs de Tolkien simplesmente ignoram essa série. Talvez a assistam por curiosidade, porém não vou assistir de novo, e de novo, e mais uma vez, antes de decidir ver a versão estendida dos filmes novamente.
 
