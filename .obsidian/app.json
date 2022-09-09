@@ -5,6 +5,15 @@
   "spellcheck": true,
   "spellcheckLanguages": [
     "pt-BR",
-    "en-US"
-  ]
+    "en-US",
+    "pt"
+  ],
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
