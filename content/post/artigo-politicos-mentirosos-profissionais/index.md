@@ -1,7 +1,6 @@
 ---
 title: Políticos são mentirosos profissionais
 description: No Brasil a política é capaz de tudo, e o povo do que lhe resta.
-draft: true
 categories:
   - Política
 keywords:
