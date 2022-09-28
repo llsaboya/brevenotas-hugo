@@ -3,11 +3,11 @@ title: O que é Fan-baiting
 description: Os fanáticos sempre atacaram a diversidade na tela, mas em um clima político
   altamente polarizado, casos de assédio em ganharam cobertura
   desproporcionalmente massiva da mídia.
-draft: true
+draft: false
 categories:
   - Cultura
 keywords:
-  - Fanbating
+  - Fan-bating
   - Cinema
   - Woke
 tags:

@@ -1,9 +1,8 @@
 ---
 title: What is Fan-baiting
 description: Bigots have always attacked diversity on screen, but in a highly polarized
-  political climate, instances of harassment on garnered disproportionately
-  massive media coverage.
-draft: true
+  political climate, instances of harassment garnered disproportionately massive
+  media coverage.
 categories:
   - English
 tags:
@@ -13,6 +12,7 @@ tags:
 slug: what-is-fan-baiting
 image: vadim-bogulov-9kbNYzo1XtQ-unsplash.jpg
 date: 2022-09-26T18:32:57.034Z
+draft: false
 ---
 
 {{< youtube KKv6P5Ec3hg >}}
