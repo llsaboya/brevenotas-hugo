@@ -1,8 +1,8 @@
 ---
-title: Sobre
-description: Sobre Lefebvre de Saboya
+title: Lefebvre de Saboya
+description: O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia.
 date: '2019-02-28'
-image: "vader.jpg"
+image: "pointing.jpg"
 aliases:
   - about-us
   - about-hugo
@@ -16,7 +16,6 @@ menu:
             icon: user
 ---
 
-O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia.
 
 Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
 

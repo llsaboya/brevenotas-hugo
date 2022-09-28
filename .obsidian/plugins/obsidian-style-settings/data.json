@@ -1,7 +1,7 @@
 {
   "obsidian-california-coast-theme@@font-interface-theme": "\"Arimo\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif",
-  "obsidian-california-coast-theme@@default-font-smoothing": "antialiased",
-  "obsidian-california-coast-theme@@font-text-theme": "\"Miller Display\",-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif",
+  "obsidian-california-coast-theme@@default-font-smoothing": "auto",
+  "obsidian-california-coast-theme@@font-text-theme": "\"Arimo\",-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif",
   "perso@@wys-mode": true,
   "perso@@text": "\"Arimo\"",
   "perso@@text-editor": "\"Miller Display\"",
@@ -9,7 +9,9 @@
   "perso@@text-spacing": "2em",
   "title@@branding": true,
   "things-style@@macOS-translucent": false,
-  "things-style@@text": "Arimo, -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
-  "things-style@@text-editor": "Arimo, -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
-  "things-style@@font-ui": "Arimo, -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
+  "things-style@@text": "\"SF Pro Display\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+  "things-style@@font-ui": "\"SF Pro Display\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+  "obsidian-california-coast-theme@@editor-font-smoothing": "auto",
+  "things-style@@minimal-icons-off": false,
+  "things-style@@text-editor": "\"SF Pro Display\", -apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
 }

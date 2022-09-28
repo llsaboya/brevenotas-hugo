@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d4dc1af9d794b8e",
+        "id": "504b61d0c0e3f7a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/artigo-politicos-mentirosos-profissionais/index.md",
+            "file": "content/post/artigo-fanbating/index.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5,
-    "collapsed": true
+    "width": 261
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/artigo-politicos-mentirosos-profissionais/index.md",
+                "file": "content/post/artigo-fanbating/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/artigo-politicos-mentirosos-profissionais/index.md",
+                "file": "content/post/artigo-fanbating/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/artigo-politicos-mentirosos-profissionais/index.md"
+                "file": "content/post/artigo-fanbating/index.md"
               }
             }
           }
@@ -130,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d4dc1af9d794b8e",
+  "active": "504b61d0c0e3f7a5",
   "lastOpenFiles": [
+    "content/post/artigo-fanbating/index.en.md",
+    "content/post/artigo-fanbating/index.md",
     "content/post/Kanban.md",
-    "content/post/review-os-aneis-do-poder/index.md",
-    "content/post/rich-content/index.md",
-    "content/post/artigo-tolkien-tem-que-morrer/index.md",
-    "content/post/review-os-aneis-do-poder/rings-of-power.jpg",
-    "content/post/review-os-aneis-do-poder/aneis-do-poder-orcs.jpg",
+    "content/post/notas/2020-02-18-oque-e-titulo-capitalizacao.md",
+    "content/post/notas/2020-07-10-devo-pagar-curso-de-soft-skills.md",
+    "content/post/notas/2022-09-11-ate-onde-a-violencia-da-politica-chegara.md",
     "content/post/artigo-politicos-mentirosos-profissionais/index.md",
-    "content/post/notas/2022-09-03-escrevendo-para-imbecis.md",
-    "Mentirosos Profissionais.md",
-    "Home.md"
+    "content/post/review-os-aneis-do-poder/index.md",
+    "content/post/notas/2022-01-31-terceira-via-precisamos-de-estradas.md",
+    "content/post/rich-content/index.md"
   ]
 }

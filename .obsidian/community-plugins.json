@@ -1,6 +1,7 @@
 [
-  "obsidian-style-settings",
   "obsidian-kanban",
   "homepage",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-languagetool-plugin"
 ]
