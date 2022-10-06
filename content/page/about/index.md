@@ -17,8 +17,6 @@ menu:
 ---
 
 
-Eu tenho um talento para identificar e implementar novos processos e sistemas em cenários complexos e variados - ou seja, os problemas me encontram e eu consigo resolve-los (quase todos).
-
-Quando não estou resolvendo os tais "problemas", eu escrevo.
+Meu nome é Lefebvre Saboya. Sou formado em Processos Gerenciais e pós-graduando em Design Instrucional.
 
 Não tem nenhum segredo para falar comigo. Só mandar um e-mail: [hello@llsaboya.com](mailto:hello@llsaboya.com) e conversamos sobre qualquer assunto.

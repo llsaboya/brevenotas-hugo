@@ -3,10 +3,7 @@ title: Quem sabe, faz. Quem entende, ensina - Design Instrucional
 description: Quem não sabe, ensina, diz o ditado. Porém, o ditado não é esse.
 draft: false
 categories:
-  - Cultura
-keywords:
-  - Johnny Depp
-  - Amber Heard
+  - Instructional Design
 slug: design-4-thinking-design-instrucional
 tags:
   - Design 4 Thinking
