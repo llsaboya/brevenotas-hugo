@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ed85c2f79e9d48a2",
+        "id": "45cc082745eeb74a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/post/notas/2022-10-01-o-que-e-design-instrucional.md",
+            "file": "content/post/artigo-dale-carnegie/index.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/notas/2022-10-01-o-que-e-design-instrucional.md",
+                "file": "content/post/artigo-dale-carnegie/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/notas/2022-10-01-o-que-e-design-instrucional.md",
+                "file": "content/post/artigo-dale-carnegie/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/notas/2022-10-01-o-que-e-design-instrucional.md"
+                "file": "content/post/artigo-dale-carnegie/index.md"
               }
             }
           }
@@ -129,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed85c2f79e9d48a2",
+  "active": "45cc082745eeb74a",
   "lastOpenFiles": [
     "content/post/Kanban.md",
     "content/post/notas/uma-politica-de-oportunidades-perdidas.md",
