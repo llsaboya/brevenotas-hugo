@@ -13,6 +13,8 @@ tags:
   - Hard skills
   - Auto-ajuda
   - Warren Buffett
+  - Desenvolvimento Pessoal
+  - Habilidades Interpessoais
 image: Dale-Carnegie-1920x1080.jpg
 slug: dale-carnegie-vale-pena
 keywords:
@@ -21,6 +23,8 @@ keywords:
   - Hard skills
   - Auto-ajuda
   - Warren Buffett
+  - Desenvolvimento Pessoal
+  - Habilidades Interpessoais
 date: 2020-11-23T12:00:00.000Z
 aliases:
   - /dale-carnegie-vale-a-pena/
@@ -28,6 +32,9 @@ aliases:
   - /blog/dale-carnegie-vale-pena/
 lastmod: 2022-10-10T17:27:40.547Z
 ---
+
+{{< youtube MLC_m4WJogs >}}
+
 
 Se você não sabe quem foi Dale Carnegie, provavelmente já ouviu falar do livro "Como fazer amigos e influenciar pessoas". Publicado em 1936, é a obra de referência em desenvolvimento pessoal (e autoajuda) no século XX.
 
@@ -250,10 +257,8 @@ O valor dos cursos e treinamentos é alto, mas os resultados são equivalentes, 
 
 A metodologia é forte e consistente. A qualidade do material dos cursos é igual aqui ou no Japão (não esqueça que Drucker trabalhou com a Dale Carnegie).
 
-Mas o reconhecimento da Dale Carnegie no Brasil é baixo, exceto se você esteja tratando com um *carnegiano*.
+Mas o reconhecimento da Dale Carnegie no Brasil é baixo, exceto se você está conversando com outro *carnegiano*.
 
 Quando dois graduados da Dale Carnegie se encontram é como se ambos já fossem velhos amigos sem nem mesmo se conhecerem.  
-
-A conversa é sempre divertida, sem medo de compartilhar novos pensamentos, novas visões e novas ambições. E isso faz a diferença em diversos momentos da vida de todos eles.
 
 Não importa qual é a sua geração, há sempre um *carnegiano* perto de você, às vezes muito mais perto do que você imagina.

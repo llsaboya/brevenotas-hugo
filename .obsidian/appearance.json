@@ -1,7 +1,8 @@
 {
   "theme": "moonstone",
   "cssTheme": "Things",
-  "interfaceFontFamily": "Arimo",
-  "textFontFamily": "",
-  "baseFontSize": 16
+  "interfaceFontFamily": "SF Pro Display",
+  "textFontFamily": "SF Pro Display",
+  "baseFontSize": 16,
+  "accentColor": ""
 }
