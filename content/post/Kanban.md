@@ -12,6 +12,7 @@ draft: true
 
 ## Escrevendo
 
+- [ ] [2022-12-04-voltei-pro-twitter](content/post/notas/2022-12-04-voltei-pro-twitter.md)
 
 
 ## Publicado

@@ -1,8 +1,9 @@
 {
   "theme": "moonstone",
   "cssTheme": "Things",
-  "interfaceFontFamily": "SF Pro Display",
-  "textFontFamily": "SF Pro Display",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
   "baseFontSize": 16,
-  "accentColor": ""
+  "accentColor": "#25b1d4",
+  "showViewHeader": false
 }

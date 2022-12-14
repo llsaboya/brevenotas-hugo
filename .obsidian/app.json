@@ -19,5 +19,7 @@
   "spellcheckDictionary": [
     "canceladores",
     "Training"
-  ]
+  ],
+  "showInlineTitle": true,
+  "newFileLocation": "current"
 }

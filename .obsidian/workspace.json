@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f7c2c08807207eb6",
+        "id": "cda51c6133e2a8e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a79f4fef357f60a8",
+            "id": "a60737c1794a8ed7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "content/post/Kanban.md"
+                "file": "content/post/traducao-culto-a-ignorancia/index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Kanban.md",
+                "file": "content/post/traducao-culto-a-ignorancia/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Kanban.md",
+                "file": "content/post/traducao-culto-a-ignorancia/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/Kanban.md"
+                "file": "content/post/traducao-culto-a-ignorancia/index.md"
               }
             }
           }
@@ -133,23 +135,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "a79f4fef357f60a8",
+  "active": "a60737c1794a8ed7",
   "lastOpenFiles": [
-    "content/post/Kanban.md",
+    "content/post/traducao-culto-a-ignorancia/isaac-asimov.jpg",
     "content/post/artigo-dale-carnegie/index.md",
-    "content/post/artigo-dale-carnegie/Dale-Carnegie-1920x1080.jpg",
-    "content/post/notas/uma-politica-de-oportunidades-perdidas.md",
-    "content/post/notas/2007-02-28-o-que-sao-tags.md",
+    "content/post/Kanban.md",
+    "content/post/notas/di-o-que-e-addie.md",
+    "content/post/notas/2022-12-04-voltei-pro-twitter.md",
+    "content/post/notas/di-o-que-e-design-instrucional.md",
     "content/post/notas/escrever-eh-dificil.md",
+    "content/post/notas/di-o-que-e-sam.md",
     "content/post/notas/a-implosão-da-terceira-via.md",
-    "content/post/notas/2022-09-11-ate-onde-a-violencia-da-politica-chegara.md",
-    "content/categories/Instructional-design/_index.en.md",
-    "content/categories/Instructional-design/_index.md"
+    "content/post/notas/2022-09-11-ate-onde-a-violencia-da-politica-chegara.md"
   ]
 }
