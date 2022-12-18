@@ -1,0 +1,32 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Works"
+hasChildren = true
+
+[[main]]
+parent = "Works"
+name = "Portfolio"
+url = "/categories/portfolio/"
+
+[[main]]
+parent = "Works"
+name = "What I Dot"
+url = "i-do-that/"

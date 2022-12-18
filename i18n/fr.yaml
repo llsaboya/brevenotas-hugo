@@ -1,69 +1,26 @@
-toggleMenu:
-    other: Afficher le menu
+- id: read_more
+  translation: Lire la suite
 
-darkMode:
-    other: Mode sombre
+- id: min_read
+  translation: minutes de lecture
 
-list:
-    page:
-        one: "{{ .Count }} page"
-        other: "{{ .Count }} pages"
+- id: instagram
+  translation: Instagram
+  
+- id: follow_me
+  translation: Suivez-moi
 
-    section:
-        other: Section
+- id: first_name
+  translation: Prénom
+  
+- id: last_name
+  translation: nom de famille
+  
+- id: email
+  translation: un message 
 
-    subsection:
-        one: Sous-section
-        other: Sous-sections
+- id: message
+  translation: Tapez votre message... 
 
-article:
-    back:
-        other: Retour
-
-    tableOfContents:
-        other: Table des matières
-
-    relatedContents:
-        other: Contenus liés
-
-    lastUpdatedOn:
-        other: Dernière mise à jour le
-
-    readingTime:
-        one: "{{ .Count }} minute de lecture"
-        other: "{{ .Count }} minutes de lecture"
-
-notFound:
-    title:
-        other: Page non trouvée
-    subtitle:
-        other: Cette page n'existe pas.
-
-widget:
-    archives:
-        title:
-            other: Archives
-
-        more:
-            other: Autres
-
-    tagCloud:
-        title:
-            other: Mots clés
-
-search:
-    title:
-        other: Rechercher
-
-    placeholder:
-        other: Cherchez un article, une publication, etc.
-
-    resultTitle:
-        other: "#PAGES_COUNT pages (#TIME_SECONDS secondes)"
-
-footer:
-    builtWith:
-        other: Généré avec {{ .Generator }}
-
-    designedBy:
-        other: Thème {{ .Theme }} conçu par {{ .DesignedBy }}
+- id: submit
+  translation: soumettre un message

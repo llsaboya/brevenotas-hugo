@@ -1,0 +1,32 @@
+############# Portuguese navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "Sobre"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Contato"
+url = "contato/"
+weight = 3
+
+[[main]]
+weight = 4
+name = "Trabalhos"
+hasChildren = true
+
+[[main]]
+parent = "Trabalhos"
+name = "Meu Portfolio"
+url = "/pt-br/categories/portfolio/"
+
+[[main]]
+parent = "Trabalhos"
+name = "O que eu faço"
+url = "/pt-br/eu-faco/"

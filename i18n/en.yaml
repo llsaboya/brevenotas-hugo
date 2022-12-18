@@ -1,73 +1,35 @@
-toggleMenu:
-    other: Toggle Menu
+- id: read_more
+  translation: Read More
 
-darkMode:
-    other: Dark Mode
+- id: min_read
+  translation: minutes read
 
-list:
-    page:
-        one: "{{ .Count }} page"
-        other: "{{ .Count }} pages"
+- id: instagram
+  translation: Instagram
 
-    section:
-        other: Section
+- id: contact_me
+  translation: Contact me
+  
+- id: follow_me
+  translation: Follow me
 
-    subsection:
-        one: Subsection
-        other: Subsections
+- id: first_name
+  translation: First Name
+  
+- id: last_name
+  translation: Last Name
+  
+- id: email
+  translation: Email 
 
-article:
-    back:
-        other: Back
+- id: message
+  translation: Type your message... 
 
-    tableOfContents:
-        other: Table of contents
+- id: submit
+  translation: submit message
 
-    relatedContents:
-        other: Related contents
+- id: search
+  translation: Search here
 
-    lastUpdatedOn:
-        other: Last updated on
-
-    readingTime:
-        one: "{{ .Count }} minute read"
-        other: "{{ .Count }} minute read"
-
-notFound:
-    title:
-        other: Not Found
-
-    subtitle:
-        other: This page does not exist
-
-widget:
-    archives:
-        title:
-            other: Archives
-
-        more:
-            other: More
-
-    tagCloud:
-        title:
-            other: Tags
-    categoriesCloud:
-        title:
-            other: Categories
-
-search:
-    title:
-        other: Search
-
-    placeholder:
-        other: Type something...
-
-    resultTitle:
-        other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
-
-footer:
-    builtWith:
-        other: Built with {{ .Generator }}
-
-    designedBy:
-        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}
+- id: search_for
+  translation: Search results for
