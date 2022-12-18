@@ -28,5 +28,5 @@ url = "/categories/portfolio/"
 
 [[main]]
 parent = "Works"
-name = "What I Dot"
+name = "What I Do"
 url = "i-do-that/"
