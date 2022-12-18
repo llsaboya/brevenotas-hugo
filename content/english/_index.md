@@ -6,7 +6,7 @@ banner:
     time.
   image: images/perfil-bw.jpg
   button:
-    enable: true
+    enable: false
     label: See my work
     link: https://llsaboya.com/categories/portfolio/
 ---
