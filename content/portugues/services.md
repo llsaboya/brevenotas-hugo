@@ -57,22 +57,22 @@ Então, minha maneira de conduzir a análise de necessidades é coletando o máx
 #### Instructional Design
 ##### Design 4 Thinking
 Jan 2021
-Análise de necessidades, diagnóstico, criação e desenvolvimento de projetos educacionais e comunicação corporativa em conjunto com especialistas no assunto. Desenvolvimento em Articulate Rise e Articulate Storyline para eLearning. Gerenciamento de projetos e treinamentos.
+- Análise de necessidades, diagnóstico, criação e desenvolvimento de projetos educacionais e comunicação corporativa em conjunto com especialistas no assunto. Desenvolvimento em Articulate Rise e Articulate Storyline para eLearning. Gerenciamento de projetos e treinamentos.
 
 #### Trainer 
 ##### Dale Carnegie Training
 Nov 2018 - Jul 2019
-Treinamento & Desenvolvimento de pessoas em atitude, comunicação, liderança, soft skills e gerenciamento. O objetivo é colocar o aluno em um cenário seguro, mas desafiador, para criar uma série de tentativas bem-sucedidas com reforço positivo dentro da sala. O participante desenvolve confiança em si mesmo, os hábitos são alterados e novas habilidades são desenvolvidas e enraizadas.
+- Treinamento & Desenvolvimento de pessoas em atitude, comunicação, liderança, soft skills e gerenciamento. O objetivo é colocar o aluno em um cenário seguro, mas desafiador, para criar uma série de tentativas bem-sucedidas com reforço positivo dentro da sala. O participante desenvolve confiança em si mesmo, os hábitos são alterados e novas habilidades são desenvolvidas e enraizadas.
 
 #### Líder de projetos
 ##### Banrisul
 Dez 2012 - Abr 2018
-Análise 360, planejamento estratégico e gerenciamento de projeto para a rede de agência. Desenvolvimento de processos operacionais, processos gerenciais, atendimento ao cliente. Aplicação de treinamento em vendas, negociação, gerenciamento.
+- Análise 360, planejamento estratégico e gerenciamento de projeto para a rede de agência. Desenvolvimento de processos operacionais, processos gerenciais, atendimento ao cliente. Aplicação de treinamento em vendas, negociação, gerenciamento.
 
 #### Sócio proprietário
 ##### RWL Car Boutique
 Jan 2010 - Nov 2012
-Oficina especializada em reparos automotivos para concessionárias e veículos blindados.
+- Oficina especializada em reparos automotivos para concessionárias e veículos blindados.
 {{< /collapse >}}
 
 {{< collapse "Diplomas" >}}
