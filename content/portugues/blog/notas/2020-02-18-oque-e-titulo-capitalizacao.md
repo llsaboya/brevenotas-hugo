@@ -15,6 +15,9 @@ toc: true
 date: 2020-02-18T18:19:25+06:00
 lastmod: 2022-12-17T13:23:38.309Z
 image: /images/1-empresas.jpg
+aliases:
+  - /blog/porque-tolkien-tem-morrer/
+  - /p/titulo-de-capitalizacao-e-como-se-vende/
 ---
 
 **Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira**. Se tal afirmação parece loucura, é porque durante noventa décadas os TCs só foram usados para ganhar dinheiro.

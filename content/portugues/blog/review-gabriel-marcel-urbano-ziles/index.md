@@ -10,6 +10,8 @@ image: images/post/gabriel-marcel-5.jpg
 date: 2020-11-09T18:19:25+06:00
 toc: "true"
 lastmod: 2022-12-16T17:59:31.215Z
+aliases:
+  - /p/gabriel-marcel-e-o-existencialismo-por-urbano-zilles/
 ---
 
 Os seres vivos nascem, crescem e morrem. A existência é prática. Já os seres humanos são especialistas em enriquecer a experiência de viver. As pessoas conseguem isso através do pensamento. Somente a reflexão consegue valorizar atos banais como nascer, crescer e morrer: atividades realizadas por qualquer ser vivo nesse planeta. Todo avanço da humanidade se deve à nossa capacidade de pensar e buscar o reconhecimento por fazê-lo.

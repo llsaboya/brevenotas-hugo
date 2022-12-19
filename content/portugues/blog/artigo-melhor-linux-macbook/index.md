@@ -14,6 +14,7 @@ tags:
   - Manjaro
 aliases:
   - /blog/qual-melhor-linux-para-macbook-air-antigo/
+  - /p/qual-melhor-linux-para-macbook-air-antigo/
 date: 2022-01-18T17:20:24.000Z
 image: images/post/macbook-manjaro-854-480.jpg
 lastmod: 2022-12-16T17:53:39.163Z

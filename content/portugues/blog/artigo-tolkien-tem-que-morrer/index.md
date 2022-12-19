@@ -20,6 +20,7 @@ categories:
 image: images/post/rings-of-power.jpg
 aliases:
   - /blog/porque-tolkien-tem-morrer/
+  - /p/porque-tolkien-tem-morrer/
 ---
 
 A produção da Amazon "[Os anéis do poder](https://llsaboya.com/p/resenha-os-aneis-do-poder-amazon/)" desencadeou a mais [nova polêmica cultural](https://www.youtube.com/watch?v=D9rJHb-rvYo&t=13s). De um lado temos um doutor em linguística, professor, filósofo, que durante mais de uma década inventou, estruturou, detalhou e escreveu uma história mitológica da cultura anglo-saxã lida no mundo inteiro desde o final da década de cinquenta. Junto com ele uma obra lida e estudada nos últimos 70 anos. 
