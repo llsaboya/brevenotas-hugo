@@ -6,7 +6,7 @@ banner:
     organizador achou ser uma boa idéia.
   image: images/perfil-bw.jpg
   button:
-    enable: false
+    enable: true
     label: Meus trabalhos
     link: https://llsaboya.com/pt-br/categories/portfolio/
 ---
