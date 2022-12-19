@@ -18,6 +18,8 @@ categories:
   - Cultura
   - Artigos
 image: images/post/aneis-do-poder-orcs.jpg
+aliases:
+  - /p/resenha-os-aneis-do-poder-amazon/
 lastmod: 2022-12-16T17:59:52.737Z
 ---
 

@@ -90,4 +90,4 @@ Oficina especializada em reparos automotivos para concessionárias e veículos b
 O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia.
 {{< /notice >}}
 
-{{< image c="img-fluid" title="image" src="images/about.png" alt="Lefebvre Saboya">}}
+{{< image c="img-fluid" title="image" src="images/about.png" alt="Lefebvre de Saboya">}}
