@@ -1,9 +1,9 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Big Sur Aesthetic",
+  "cssTheme": "Things",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 16,
-  "accentColor": "#25b1d4",
+  "accentColor": "",
   "showViewHeader": false
 }

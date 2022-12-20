@@ -1,12 +1,11 @@
 {
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "static/img-posts",
+  "attachmentFolderPath": "assets/images/post",
   "promptDelete": false,
   "spellcheck": true,
   "spellcheckLanguages": [
     "pt-BR",
-    "en-US",
-    "pt"
+    "en-US"
   ],
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
@@ -21,5 +20,6 @@
     "Training"
   ],
   "showInlineTitle": true,
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/portugues/blog/notas"
 }

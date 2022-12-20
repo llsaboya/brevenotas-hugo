@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "df43558f7b23a084",
+        "id": "8539061182d9f000",
         "type": "tabs",
         "children": [
           {
-            "id": "24cb2d57ed944d11",
+            "id": "453ff9e0234426ed",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "content/portugues/blog/notas/2021-05-15-scrum-manifesto.md",
-                "staged": true
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 369.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md"
+              }
             }
           },
           {
@@ -138,19 +143,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
-  "active": "243b896b58169d38",
+  "active": "453ff9e0234426ed",
   "lastOpenFiles": [
-    "content/post/Kanban.md",
-    "content/portugues/blog/notas/2021-05-15-scrum-manifesto.md",
-    "content/portugues/blog/notas/2021-09-05-manifesto-liberdade-expressao.md",
-    "content/portugues/blog/notas/2007-02-28-o-que-sao-tags.md",
-    "content/portugues/about.md",
-    "content/post/traducao-culto-a-ignorancia/isaac-asimov.jpg",
-    "content/post/artigo-dale-carnegie/index.md",
-    "content/post/notas/di-o-que-e-addie.md",
+    "Kanban.md",
     "content/post/notas/2022-12-04-voltei-pro-twitter.md",
-    "content/post/notas/di-o-que-e-design-instrucional.md"
+    "content/post/Kanban.md",
+    "archetypes/hugo-post-header.md",
+    "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+    "content/portugues/blog/notas/2022-09-03-escrevendo-para-imbecis.md",
+    "assets/images/post/twitter-elon-musk.png",
+    "content/portugues/blog/artigo-aquela-turma-teatro/index.md",
+    "archetypes/default.md",
+    "content/portugues/blog/notas/a-implosão-da-terceira-via.md"
   ]
 }
