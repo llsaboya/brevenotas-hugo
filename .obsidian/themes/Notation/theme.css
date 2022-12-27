@@ -727,9 +727,9 @@ ol>li {
   z-index: 2;
 }
 
-/* .workspace-leaf-content[data-type=markdown] .view-content {
+.workspace-leaf-content[data-type=markdown] .view-content {
   height: auto;
-} */
+}
 
 .workspace-leaf-content[data-type=markdown] .markdown-source-view {
   z-index: 0;

@@ -1,6 +1,6 @@
 ---
 title: Sobre
-# image: images/about.png
+image: images/about.png
 description: this is meta description
 layout: about
 button: read more
