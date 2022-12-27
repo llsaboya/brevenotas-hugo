@@ -1,8 +1,7 @@
 ---
 title: Qual a importância do Twitter Files
 date: 2022-12-27T15:43:53.091Z
-description: A única certeza que conseguimos extrair dos *arquivos do Twitter* é que, hoje,
-  os piores de nós controlam a comunicação de massa.
+description: A única certeza que conseguimos extrair dos Arquivos do Twitter é que, hoje, os piores de nós controlam a comunicação de massa.
 slug: qual-importancia-twitter-files
 tags:
   - Covid

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27c81ba6cff22e9d",
+        "id": "0c475902b7c64553",
         "type": "tabs",
         "children": [
           {
-            "id": "7915c5a5e2b7fe65",
+            "id": "6d1e9a69c3e3724f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+                "file": "content/portugues/about.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+                "file": "content/portugues/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+                "file": "content/portugues/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md"
+                "file": "content/portugues/about.md"
               }
             }
           },
@@ -157,17 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7915c5a5e2b7fe65",
+  "active": "6d1e9a69c3e3724f",
   "lastOpenFiles": [
     "Kanban.md",
+    "content/portugues/about.md",
+    "content/portugues/_index.md",
     "content/portugues/blog/artigo-fanbating/index.md",
     "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
     "archetypes/hugo-post-header.md",
     "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
     "content/portugues/blog/review-os-aneis-do-poder/index.md",
     "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
-    "content/post/notas/2022-12-04-voltei-pro-twitter.md",
-    "content/post/Kanban.md",
-    "content/portugues/blog/notas/2022-09-03-escrevendo-para-imbecis.md"
+    "content/post/notas/2022-12-04-voltei-pro-twitter.md"
   ]
 }
