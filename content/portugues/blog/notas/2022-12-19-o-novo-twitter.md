@@ -1,20 +1,21 @@
 ---
 title: Qual a importância do Twitter Files
-date: 2022-12-24T21:17:27.194Z
-description: A única certeza que conseguimos extrair dos *arquivos do Twitter* é que, hoje, os piores de nós controlam a comunicação de massa.
+date: 2022-12-27T15:43:53.091Z
+description: A única certeza que conseguimos extrair dos *arquivos do Twitter* é que, hoje,
+  os piores de nós controlam a comunicação de massa.
 slug: qual-importancia-twitter-files
 tags:
-  - Twitter Files
-  - Teorias de conspiração
-  - Elon Musk
-  - FBI
   - Covid
+  - Elon Musk
   - Fahrenheit 451
-  - 1984
+  - FBI
+  - Teorias de conspiração
+  - Twitter Files
+  - "1984"
 categories:
   - Notas
 image: /images/post/twitter-elon-musk.png
-draft: true
+draft: false
 ---
 
 Elon Musk permitiu que jornalistas independentes acessassem documentos internos do Twitter. A investigação deles, publicadas nas últimas semanas, revelou um relacionamento estreito entre altos executivos do Twitter e funcionários do governo americano para a supressão de pessoas, informações relevantes à sociedade, reportagens e apurações jornalísticas.
