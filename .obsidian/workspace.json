@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c475902b7c64553",
+        "id": "da70cfd6ad828fbe",
         "type": "tabs",
         "children": [
           {
-            "id": "6d1e9a69c3e3724f",
+            "id": "dc63afc4ec392b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/portugues/about.md",
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portugues/about.md",
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portugues/about.md",
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portugues/about.md"
+                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +155,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d1e9a69c3e3724f",
+  "active": "dc63afc4ec392b67",
   "lastOpenFiles": [
     "Kanban.md",
     "content/portugues/about.md",

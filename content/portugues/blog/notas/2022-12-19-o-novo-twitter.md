@@ -11,6 +11,7 @@ tags:
   - Teorias de conspiração
   - Twitter Files
   - "1984"
+  - Arquivos do Twitter
 categories:
   - Notas
 image: /images/post/twitter-elon-musk.png
@@ -19,7 +20,7 @@ draft: false
 
 Elon Musk permitiu que jornalistas independentes acessassem documentos internos do Twitter. A investigação deles, publicadas nas últimas semanas, revelou um relacionamento estreito entre altos executivos do Twitter e funcionários do governo americano para a supressão de pessoas, informações relevantes à sociedade, reportagens e apurações jornalísticas.
 
-O volume de informações é grande. Diante disso, precisamos organizar os **arquivos do twitter** para entender a gravidade da situação. Em primeiro lugar, é preciso lembrar porque o governo se intrometer no discurso público é uma questão importante para os americanos[^1].
+O volume de informações é imenso. Diante disso, precisamos organizar os **arquivos do twitter** para entender a gravidade da situação. Em primeiro lugar, é preciso lembrar porque o governo se intrometer no discurso público é uma questão importante para os americanos[^1].
 
 [^1]: No resto do mundo, governos se intrometerem no discurso público com a intenção de limitá-lo, ao contrário dos Estados Unidos.
 

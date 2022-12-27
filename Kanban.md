@@ -11,12 +11,12 @@ draft: true
 
 ## Escrevendo
 
-- [ ] [2022-12-19-o-novo-twitter](content/portugues/blog/notas/2022-12-19-o-novo-twitter.md)
 
 
 ## Publicado
 
 **Complete**
+- [x] [2022-12-19-o-novo-twitter](content/portugues/blog/notas/2022-12-19-o-novo-twitter.md)
 
 
 
