@@ -14,7 +14,7 @@ navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "Lefebvre Saboya"
 author = "Lefebvre Saboya"
-image = "images/d4t-perfil.png"                # this image will be used as fallback if a page has no image of its own
+image = "images/perfil-bw_hu02c43ed83ffe09b0cc4ba2528b44ca57_511723_1110x0_resize_q90_h2_box.webp"                # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "https://formspree.io/f/xayvgndj" # contact form works with https://formspree.io
 # search
@@ -97,8 +97,8 @@ icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icon
 link = "https://www.instagram.com/llsaboya/"
 
 #[[social]]
-#title = "github"
-#icon = "fab fa-pinterest" # fontawesome icon pack : https://fontawesome.com/icons/
+#title = "substack"
+#icon = "fab fa-substack" # fontawesome icon pack : https://fontawesome.com/icons/
 #link = "#"
 
 [[social]]

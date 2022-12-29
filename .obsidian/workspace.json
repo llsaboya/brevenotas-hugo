@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da70cfd6ad828fbe",
+        "id": "98a630a4753b1699",
         "type": "tabs",
         "children": [
           {
-            "id": "dc63afc4ec392b67",
+            "id": "9dcaee2bbb56b3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -155,7 +155,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc63afc4ec392b67",
+  "active": "9dcaee2bbb56b3f5",
   "lastOpenFiles": [
     "Kanban.md",
     "content/portugues/about.md",
