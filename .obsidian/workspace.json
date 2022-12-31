@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98a630a4753b1699",
+        "id": "842adcb2210499fe",
         "type": "tabs",
         "children": [
           {
-            "id": "9dcaee2bbb56b3f5",
+            "id": "9f4afb30e5c1cedc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
-                "mode": "preview",
-                "source": true
+                "file": "Kanban.md"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 429.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -142,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,17 +154,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9dcaee2bbb56b3f5",
+  "active": "9f4afb30e5c1cedc",
   "lastOpenFiles": [
-    "Kanban.md",
-    "content/portugues/about.md",
-    "content/portugues/_index.md",
-    "content/portugues/blog/artigo-fanbating/index.md",
+    "content/portugues/blog/notas/escrever-eh-dificil.md",
+    "content/portugues/blog/notas/a-implosão-da-terceira-via.md",
     "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
-    "archetypes/hugo-post-header.md",
-    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
-    "content/portugues/blog/review-os-aneis-do-poder/index.md",
-    "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
-    "content/post/notas/2022-12-04-voltei-pro-twitter.md"
+    "content/portugues/blog/notas/2022-09-03-escrevendo-para-imbecis.md",
+    "content/portugues/blog/notas/2022-08-23-design-4-thinking.md",
+    "content/portugues/blog/notas/2022-06-03-deep-vs-heard-a-conclusao.md",
+    "content/portugues/blog/notas/2022-02-20-brevesnotas-v3.md",
+    "content/portugues/blog/notas/2022-01-31-terceira-via-precisamos-de-estradas.md",
+    "content/portugues/blog/notas/2022-01-23-um-follow-up-sobre-linux.md",
+    "content/portugues/blog/notas/2021-10-08-e-leitor-.md"
   ]
 }
