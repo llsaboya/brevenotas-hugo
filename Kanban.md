@@ -16,7 +16,6 @@ draft: true
 ## Publicado
 
 **Complete**
-- [x] [2022-12-19-o-novo-twitter](content/portugues/blog/notas/2022-12-19-o-novo-twitter.md)
 
 
 

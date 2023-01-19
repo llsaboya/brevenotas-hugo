@@ -1,6 +1,6 @@
 ---
 title: About
-# image: images/pointing.jpg
+image: images/about-full.jpg
 description: this is meta description
 layout: about
 button: read more
@@ -21,5 +21,3 @@ When starting a project, I develop the task of identifying these needs and figur
 I started teaching in the monitoring of my pre-vestibular course to pay for my studies. I worked with advertising and marketing doing critical evaluation for campaigns. For 5 years I worked in banking performing “360-degree analysis” of bank branches ad developing traininf, learning experiences and job-aids.
 
 As the business world continues to change, organizations and their learning choices change as well.
-
-{{< image c="img-fluid" title="image" src="images/about.png" alt="element">}}

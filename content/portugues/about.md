@@ -1,6 +1,6 @@
 ---
 title: Sobre
-# image: images/about.png
+image: images/about-full.jpg
 description: O Breves Notas é uma obra organizada de um modo um tanto caótico e
     contém diversos trechos que foram incluídos simplesmente porque na hora o
     organizador achou ser uma boa idéia.
@@ -91,5 +91,3 @@ Oficina especializada em reparos automotivos para concessionárias e veículos b
 {{< notice "warning" >}}
 O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia.
 {{< /notice >}}
-
-{{< image c="img-fluid" title="image" src="images/about.png" alt="Lefebvre de Saboya">}}
