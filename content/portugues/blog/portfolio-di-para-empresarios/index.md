@@ -12,8 +12,6 @@ tags:
 categories:
   - Portfolio
 slug: di-para-empreendedores-empresarios
-type: featured
-layout: portifolio
 
 # education
 education:

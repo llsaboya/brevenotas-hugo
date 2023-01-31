@@ -1,9 +1,7 @@
 ---
 banner:
   title: Oi, eu sou <br/> Lefebvre.
-  description: O Breves Notas é uma obra organizada de um modo um tanto caótico e
-    contém diversos trechos que foram incluídos simplesmente porque na hora o
-    organizador achou ser uma boa idéia.
+  description: Pensar é uma forma de aprender, de investigar fatos. Quando pensamos para algum objetivo, conseguimos um aprendizado intencional e consistente, resultando em crescimento pessoal e profissional.
   image: images/perfil-bw.jpg
   button:
     enable: true

@@ -11,9 +11,11 @@
             "id": "fb991919fc48e505",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 343.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md"
               }
             }
           },
@@ -156,15 +158,15 @@
   },
   "active": "fb991919fc48e505",
   "lastOpenFiles": [
-    "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md",
+    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
+    "content/portugues/blog/notas/di-o-que-e-addie.md",
+    "assets/images/post/sam2.png",
+    "assets/images/post/sam1.png",
+    "assets/images/post/SAM.png",
+    "content/portugues/blog/notas/di-o-que-e-sam.md",
+    "content/portugues/blog/notas/di-o-que-e-design-instrucional.md",
+    "content/portugues/blog/artigo-o-que-e-di/index.md",
     "Kanban.md",
-    "content/portugues/blog/notas/escrever-eh-dificil.md",
-    "content/portugues/blog/notas/a-implosão-da-terceira-via.md",
-    "content/portugues/blog/notas/2022-09-03-escrevendo-para-imbecis.md",
-    "content/portugues/blog/notas/2022-08-23-design-4-thinking.md",
-    "content/portugues/blog/notas/2022-06-03-deep-vs-heard-a-conclusao.md",
-    "content/portugues/blog/notas/2022-02-20-brevesnotas-v3.md",
-    "content/portugues/blog/notas/2022-01-31-terceira-via-precisamos-de-estradas.md",
-    "content/portugues/blog/notas/2022-01-23-um-follow-up-sobre-linux.md"
+    "content/portugues/blog/notas/2022-12-19-o-novo-twitter.md"
   ]
 }
