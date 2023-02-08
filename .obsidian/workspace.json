@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/portugues/element.md",
+                "file": "content/english/about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portugues/element.md",
+                "file": "content/english/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portugues/element.md",
+                "file": "content/english/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portugues/element.md"
+                "file": "content/english/about.md"
               }
             }
           },
@@ -159,14 +159,14 @@
   "active": "cec6afe6fccd0328",
   "lastOpenFiles": [
     "content/portugues/services.md",
+    "content/english/services.md",
+    "content/portugues/element.md",
     "Kanban.md",
     "content/english/about.md",
     "content/portugues/about.md",
     "content/portugues/search.md",
-    "content/portugues/element.md",
     "content/portugues/contact.md",
     "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
-    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
-    "content/portugues/blog/notas/di-o-que-e-addie.md"
+    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md"
   ]
 }

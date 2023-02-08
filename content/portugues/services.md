@@ -29,7 +29,7 @@ Nós, da equipe de análise de negócios, contamos com ampla experiência e comp
 
 O mundo dos negócios é dinâmico e em constante evolução. As organizações e suas escolhas de aprendizagem precisam estar preparadas para se adaptarem a essas mudanças. Nós, da equipe de análise de negócios, estamos prontos para ajudar a sua empresa a se desenvolver e a superar os desafios do mercado.
 
-{Diagnóstico de Organizações}
+## Diagnóstico de Organizações
 
 Oferecemos soluções personalizadas para cada empresa, realizando um diagnóstico preciso das suas necessidades e desafios. Trabalhamos com metodologias eficazes para compreender as necessidades e desafios de uma organização. É por meio dessa análise que é possível identificar as lacunas de conhecimento e habilidades de um determinado grupo, bem como desenvolver um plano que atenda às necessidades da organização.
 

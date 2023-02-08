@@ -1,9 +1,7 @@
 ---
 banner:
   title: Hey, I’m <br/> Lefebvre.
-  description: This site is a chaotically organized work and contains several
-    excerpts that were included because I thought it was a good idea at the
-    time.
+  description: Harnessing the Power of Instructional Design to Drive Business Success
   image: images/perfil-bw.jpg
   button:
     enable: true
