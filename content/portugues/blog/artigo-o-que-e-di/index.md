@@ -17,6 +17,8 @@ keywords:
 lastmod: 2022-12-16T17:46:28.068Z
 ---
 
+{{< youtube VJDskZ2LXEE >}}
+
 **Design Instrucional** (Instructional Design) combina a *arte* de criar experiências de aprendizagem envolventes com a *ciência* de como o cérebro funciona. É a criação de experiências e materiais de aprendizagem para garantir de forma eficaz a aquisição e a aplicação de conhecimentos e habilidades. E não é uma *novidade*.
 
 A prática formal do *design instrucional* surgiu da necessidade de treinar melhor os soldados após a Segunda Guerra Mundial: acharam melhor criar uma forma de aprendizagem para evitar que as pessoas explodissem os porta-aviões por "descuido".
@@ -78,3 +80,39 @@ O *design instrucional* usa utiliza a *visão sistêmica* para desenvolver e imp
 Desenvolvimento da equipe é essencial para a competividade de qualquer negócio. E quanto mais assertivo o processo de aprendizagem for, mais resultados a empresa terá em relação ao investimento. 
 
 Se você está interessado em implementar uma transformação em sua empresa, ou apenas resolver lacunas de desempenho dentro de um grupo-alvo, considere aproveitar seus colaboradores especialistas e utilizar o *design instrucional* nesse processo.
+
+<div itemscope itemtype="https://schema.org/FAQPage">
+  <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+    <h3 itemprop="name">O que é design instrucional?</h3>
+    <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        Design instrucional é o processo de criar, desenvolver e implementar soluções educacionais eficazes e memoráveis. Ele envolve a aplicação de princípios pedagógicos, tecnologia e estratégias de ensino para tornar o aprendizado mais eficaz.
+      </div>
+    </div>
+  </div>
+  <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+    <h3 itemprop="name">Qual é o objetivo do design instrucional?</h3>
+    <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        O objetivo do design instrucional é ajudar os alunos a aprender de forma eficaz e memorável, a fim de desenvolver habilidades e conhecimentos que possam ser aplicados na vida real.
+      </div>
+    </div>
+  </div>
+  <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+    <h3 itemprop="name">Quais são as técnicas utilizadas no design instrucional?</h3>
+    <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        Algumas das técnicas utilizadas no design instrucional incluem gamificação, personalização, aprendizagem baseada em projetos e aprendizagem baseada em problemas.
+      </div>
+    </div>
+  </div>
+  <div itemprop="mainEntity" itemscope itemtype="https://schema.org/Question">
+    <h3 itemprop="name">Como o design instrucional é diferente de outras abordagens educacionais?</h3>
+    <div itemprop="acceptedAnswer" itemscope itemtype="https://schema.org/Answer">
+      <div itemprop="text">
+        O design instrucional é diferente de outras abordagens educacionais porque se concentra em tornar o ensino eficaz e memorável, ao invés de simplesmente transmitir informações. Ele usa tecnologia e estratégias inovadoras para tornar o aprendizado mais envolvente e relevante para os alunos.
+      </div>
+    </div>
+  </div>
+
+  ...

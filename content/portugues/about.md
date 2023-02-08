@@ -11,17 +11,18 @@ lastmod: 2022-12-18T21:14:46.083Z
 ---
 ## Sobre mim
 
-Meu nome é Lefebvre Saboya. Sou formado em Processos Gerenciais e pós-graduando em Design Instrucional. 
+Meu nome é Lefebvre Saboya. É sério.
 
-Usando o processo ADDIE e Values Clarification, busco analisar as lacunas de conhecimentos e habilidades dentro de um grupo específico. Com a ajuda de Especialistas em Assuntos (SMEs), desenvolvo um plano que atenda às necessidades da organização, criando experiências que desenvolvam a atitudes reflexivas e prática diante de situações problemáticas.
+Como especialista em Processos Gerenciais e pós-graduando em Design Instrucional, meu objetivo é ajudar as organizações a identificar as suas lacunas de conhecimento e habilidades. Para isso, utilizo o processo ADDIE e a clarificação de valores para realizar uma análise completa e apontar soluções eficazes.
 
-O principal desafio de qualquer projeto de Design Instrucional é desenvolver uma equipe profissional que entregue o processo de aprendizagem certo. É por isso que trabalhamos com Especialistas no Assunto (SMEs) para criar fundações sólidas para o projeto, desde design gráfico, passando pela experiência de usuário (UX) e qualquer objetivo específico que seja particular na área de atuação da sua organização.
+O primeiro passo para a realização de um projeto de Design Instrucional é a identificação das necessidades da organização. Nesse sentido, trabalho em conjunto com os especialistas no assunto (SMEs) para identificar os pontos fracos e desenvolver um plano de ação personalizado.
 
-Ao iniciar um projeto, eu desenvolvo a tarefa de identificar essas necessidades e descobrir a melhor forma de desafiar a capacidade dos profissionais em estabelecer relações e se tornarem capazes de ver mais de uma maneira de atingir os resultados.
+O principal desafio na realização de um projeto de Design Instrucional é contar com uma equipe de profissionais qualificados. Por isso, trabalho em estreita colaboração com os SMEs para garantir que todos os aspectos do projeto estejam alinhados, desde o design gráfico até a experiência do usuário (UX) e outras questões específicas relacionadas à área de atuação da organização.
 
-Comecei a ensinar na monitoria do meu curso pré-vestibular para pagar meus estudos. Trabalhei com publicidade e marketing fazendo avaliação crítica para campanhas. Durante 5 anos trabalhei no Banco do Estado do Rio Grande do Sul (Banrisul) realizando “Análise 360” das agências da rede de atendimento.
+Ao desenvolver um projeto de Design Instrucional, busco desafiar os profissionais a estabelecer relações e identificar mais de uma maneira de atingir os resultados. Isso é fundamental para a formação de uma equipe mais capacitada e habilidosa em situações problemáticas.
 
-Enquanto o mundo dos negócios continua a mudar, as organizações e suas escolhas de aprendizagem mudam também.
+Tenho uma extensa experiência na área de negócios, tendo iniciado sua carreira ensinando como monitor no curso pré-vestibular. Também trabalhei com publicidade e marketing, realizando avaliações críticas de campanhas. Durante 5 anos, trabalhei no Banco do Estado do Rio Grande do Sul (Banrisul), onde realizei análises 360 nas agências de atendimento da instituição financeira.
+
 
 ### Currículo
 
@@ -29,23 +30,25 @@ Enquanto o mundo dos negócios continua a mudar, as organizações e suas escolh
 #### Instructional Design
 ##### Design 4 Thinking
 Jan 2021
-Análise de necessidades, diagnóstico, criação e desenvolvimento de projetos educacionais e comunicação corporativa em conjunto com especialistas no assunto. Desenvolvimento em Articulate Rise e Articulate Storyline para eLearning. Gerenciamento de projetos e treinamentos.
+O profissional de Design Instrucional é um especialista em desenvolvimento de projetos educacionais e de comunicação corporativa. Além disso, eu desenvolvi habilidades na análise de necessidades, diagnóstico, criação e desenvolvimento de projetos, trabalhando em conjunto com outros especialistas na área. Eu também conhecimentos sólidos na utilização de ferramentas como Articulate Rise e Articulate Storyline, fundamentais para criação de eLearning e treinamentos.
 
 #### Trainer 
 ##### Dale Carnegie Training
 Nov 2018 - Jul 2019
-Treinamento & Desenvolvimento de pessoas em atitude, comunicação, liderança, soft skills e gerenciamento. O objetivo é colocar o aluno em um cenário seguro, mas desafiador, para criar uma série de tentativas bem-sucedidas com reforço positivo dentro da sala. O participante desenvolve confiança em si mesmo, os hábitos são alterados e novas habilidades são desenvolvidas e enraizadas.
+Possuo ampla experiência como trainer, trabalhando na Dale Carnegie Training, onde desenvolvi atividades de treinamento e desenvolvimento de pessoas em diversas áreas, como atitude, comunicação, liderança, soft skills e gerenciamento. O objetivo desses treinamentos era colocar o participante em um ambiente seguro e desafiador, a fim de que ele pudesse desenvolver novas habilidades e enraizá-las, criando assim uma série de tentativas bem-sucedidas e recebendo reforço positivo.
 
 #### Líder de projetos
 ##### Banrisul
 Dez 2012 - Abr 2018
-Análise 360, planejamento estratégico e gerenciamento de projeto para a rede de agência. Desenvolvimento de processos operacionais, processos gerenciais, atendimento ao cliente. Aplicação de treinamento em vendas, negociação, gerenciamento.
+Com vasta experiência em gerenciamento de projetos, eu atuei como líder de projetos na Banrisul, onde desempenhei importantes funções, como a análise 360, o planejamento estratégico e o gerenciamento de projetos para a rede de agências da instituição. Além disso, também fui responsável pelo desenvolvimento de processos operacionais e gerenciais, bem como pelo atendimento ao cliente e pela aplicação de treinamentos em vendas, negociação e gerenciamento.
 
 #### Sócio proprietário
 ##### RWL Car Boutique
 Jan 2010 - Nov 2012
-Oficina especializada em reparos automotivos para concessionárias e veículos blindados.
+Antes de se dedicar integralmente à área de Design Instrucional, eu fui sócio proprietário da RWL Car Boutique, uma oficina especializada em reparos automotivos para concessionárias e veículos blindados. Essa experiência me permitiu desenvolver habilidades em gestão empresarial e na resolução de problemas técnicos.
 {{< /collapse >}}
+
+## 
 
 {{< collapse "Diplomas" >}}
 #### Senac Brasil
@@ -55,6 +58,8 @@ Oficina especializada em reparos automotivos para concessionárias e veículos b
 ##### Processos Gerenciais, Economia e Gestão Empresarial
 2016 - 2017
 {{< /collapse >}}
+
+##
 
 {{< collapse "Licen&ccedil;as e Certificados" >}}
 
@@ -88,6 +93,3 @@ Oficina especializada em reparos automotivos para concessionárias e veículos b
 - **Instructional Design Principles for Course Creation** - Eduflow
 {{< /collapse >}}
 
-{{< notice "warning" >}}
-O Breves Notas é uma obra organizada de um modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora o organizador achou que era uma boa idéia.
-{{< /notice >}}

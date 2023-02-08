@@ -9,37 +9,56 @@ lastmod: 2022-12-18T21:22:00.446Z
 slug: eu-faco
 ---
 
-O design instrucional é a prática de criar experiências e materiais de aprendizagem que resultem na real aquisição e aplicabilidade de conhecimentos e habilidades. O DI (design instrucional) segue um sistema de avaliação das necessidades reais, elaboração de um processo objetivo, desenvolvimento de materiais instrucionais de acordo com especialistas no assunto - além da avaliação de sua eficácia.
+## Design Instrucional & Análise de Negócios
 
-Eu apoio empresas, empreendedores, estudantes, professores, designers instrucionais e qualquer pessoa interessada em criar experiências de aprendizado mais eficazes, combinando a arte de criar experiências de aprendizado envolventes com a ciência de como o aprendizado funciona.
+A análise de negócios é uma ferramenta valiosa para entender as necessidades e desafios de uma organização. Ao utilizar o processo ADDIE e a clarificação de valores, é possível identificar as lacunas de conhecimento e habilidades de um determinado grupo. A partir daí, é possível desenvolver um plano de ação que atenda às demandas da empresa, criando experiências que promovam o desenvolvimento de atitudes reflexivas e práticas eficazes em situações problemáticas.
 
-{{< youtube tVHG6iKbmoY >}}
+## Desenvolvimento de Equipe
+
+Um dos maiores desafios na criação de projetos instrucionais é formar uma equipe altamente capacitada e profissional. Por isso, trabalhamos com especialistas no assunto (SMEs) para criarmos uma base sólida para o projeto, abrangendo desde o design gráfico até a experiência do usuário (UX) e qualquer objetivo específico relacionado à área de atuação da empresa.
+
+## Identificação de Necessidades
+
+No início de cada projeto, nossa função é identificar as necessidades e descobrir como desafiar a capacidade dos profissionais, fazendo com que eles estabeleçam relações e vejam mais de uma maneira de alcançar resultados.
+
+## Experiência e Competência
+
+Nós, da equipe de análise de negócios, contamos com ampla experiência e competência para atender às demandas das organizações. Temos histórico de atuação em diferentes áreas, desde a monitoria de curso pré-vestibular até avaliações críticas em campanhas publicitárias e análises 360 em uma instituição financeira.
+
+## Adaptação às Mudanças
+
+O mundo dos negócios é dinâmico e em constante evolução. As organizações e suas escolhas de aprendizagem precisam estar preparadas para se adaptarem a essas mudanças. Nós, da equipe de análise de negócios, estamos prontos para ajudar a sua empresa a se desenvolver e a superar os desafios do mercado.
+
+{Diagnóstico de Organizações}
+
+Oferecemos soluções personalizadas para cada empresa, realizando um diagnóstico preciso das suas necessidades e desafios. Trabalhamos com metodologias eficazes para compreender as necessidades e desafios de uma organização. É por meio dessa análise que é possível identificar as lacunas de conhecimento e habilidades de um determinado grupo, bem como desenvolver um plano que atenda às necessidades da organização.
+
 
 ### Perguntas Frequentes :
 {{< collapse "Qual &eacute; o seu processo de design?" >}}
-Considero o modelo ADDIE como um framework para todo o projeto. O modelo é uma diretriz para criar uma solução de aprendizado decente que atenda ao seu objetivo de negócios.
+Considero o modelo ADDIE como um framework inicial para todo o projeto. O modelo é uma diretriz para criar uma solução de aprendizado decente que atenda ao seu objetivo de negócios.
 
-Em alguns casos, para fazer uma experiência de aprendizado,prefiro usar o design reverso. Essa é uma excelente abordagem de definir objetivos antes de desenvolver o curso.
+Em alguns casos, para fazer uma experiência de aprendizado, prefiro usar o design reverso. Essa é uma excelente abordagem de definir objetivos antes de desenvolver o curso.
 
 Se você utilizar alguns outros modelos, tudo bem. Eu acho que todos eles têm pontos positivos. O importante é escolher o que é melhor para o seu projeto específico.
 {{< /collapse >}}
 
 {{< collapse "Qual &eacute; sua abordagem para trabalhar com Especialistas nos Assuntos - SME?" >}}
-Acho que o designer instrucional (DI) pode apoiar a opinião dos especialistas com dados ou pesquisas, quando necessário. Alguns especialistas precisam de tempo e informações para confiar nos designer instrucionais.
+Acho que o designer instrucional (DI) pode apoiar a opinião dos especialistas com dados ou pesquisas, quando necessário. Alguns especialistas precisam de tempo e informações para confiar nos designers instrucionais.
 
-Além disso, gosto de explicar meu papel e esclarecer minhas resposabilidades como DI no início do projeto. Em um mundo perfeito, eu chamaria isso de cooperação. No mundo real, os DIs e especialistas precisam negociar e priorizar suas decisões sempre com foco no aluno.
+Além disso, gosto de explicar meu papel e esclarecer minhas responsabilidades como DI no início do projeto. Em um mundo perfeito, eu chamaria isso de cooperação. No mundo real, os DIs e especialistas precisam negociar e priorizar suas decisões sempre com foco no aluno.
 
-Além disso, acho que às vezes os especialitas podem ter esse sexto sentido sobre seu curso, mesmo que não sejam especialistas em andragogia. O principal objetivo é estabelecer uma boa relação de confiança.
+Além disso, acho que às vezes os especialistas podem ter esse sexto sentido sobre seu curso, mesmo que não sejam especialistas em andragogia. O principal objetivo é estabelecer uma boa relação de confiança.
 {{< /collapse >}}
 
 {{< collapse "Voc&ecirc; prefere trabalhar sozinho ou em uma equipe?" >}}
-O designer instrucional não é um generalista, mas ele é especilista em aprender (quase qualquer coisa). Eu acredito profundamente que as melhores ideias podem se tornar um bom produto somente com a contribuição dos membros da equipe.
+O designer instrucional não é um generalista, mas ele é especialista em aprender (quase qualquer coisa). Eu acredito profundamente que as melhores ideias podem se tornar um bom produto somente com a contribuição dos membros da equipe.
 
 No entanto, sou totalmente capaz de trabalhar sozinho e desenvolver iniciativas de aprendizado de ponta a ponta trabalhando com seus especialistas.
 {{< /collapse >}}
 
 {{< collapse "Como voc&ecirc; usa a tecnologia para criar solu&ccedil;&otilde;es de aprendizagem?" >}}
-Normalmente, antes de iniciar o processo de criação, tento descobrir toda a escala das possibilidades tecnológicas da empresa. De acordo com os dados coletados, sugiro as ideias.
+Normalmente, antes de iniciar o processo de criação, tento descobrir toda a escala das possibilidades tecnológicas da empresa. Conforme os dados coletados, sugiro as ideias.
 
 Não acho que exista a melhor ferramenta de aprendizado, mas sei que podemos encontrar a perfeita para o seu projeto.
 {{< /collapse >}}
@@ -51,70 +70,3 @@ Então, minha maneira de conduzir a análise de necessidades é coletando o máx
 {{< /collapse >}}
 <hr>
 
-### Currículo
-
-{{< collapse "Experi&ecirc;ncia" >}}
-#### Instructional Design
-##### Design 4 Thinking
-Jan 2021
-- Análise de necessidades, diagnóstico, criação e desenvolvimento de projetos educacionais e comunicação corporativa em conjunto com especialistas no assunto. Desenvolvimento em Articulate Rise e Articulate Storyline para eLearning. Gerenciamento de projetos e treinamentos.
-
-#### Trainer 
-##### Dale Carnegie Training
-Nov 2018 - Jul 2019
-- Treinamento & Desenvolvimento de pessoas em atitude, comunicação, liderança, soft skills e gerenciamento. O objetivo é colocar o aluno em um cenário seguro, mas desafiador, para criar uma série de tentativas bem-sucedidas com reforço positivo dentro da sala. O participante desenvolve confiança em si mesmo, os hábitos são alterados e novas habilidades são desenvolvidas e enraizadas.
-
-#### Líder de projetos
-##### Banrisul
-Dez 2012 - Abr 2018
-- Análise 360, planejamento estratégico e gerenciamento de projeto para a rede de agência. Desenvolvimento de processos operacionais, processos gerenciais, atendimento ao cliente. Aplicação de treinamento em vendas, negociação, gerenciamento.
-
-#### Sócio proprietário
-##### RWL Car Boutique
-Jan 2010 - Nov 2012
-- Oficina especializada em reparos automotivos para concessionárias e veículos blindados.
-{{< /collapse >}}
-
-{{< collapse "Diplomas" >}}
-#### Senac Brasil
-##### Pós-graduação Lato Sensu - Especialização, Design Instrucional
-2022 - 2023
-#### ULBRA
-##### Processos Gerenciais, Economia e Gestão Empresarial
-2016 - 2017
-{{< /collapse >}}
-
-{{< collapse "Licen&ccedil;as e Certificados" >}}
-
-- **CPA 10** - ANBIMA
-- **CPA 20** - ANBIMA
-- **Guy Kawasaki on Entrepreneurship** - Guy Kawasaki
-- **Creating an Editorial Calendar** - Brian Honigman
-- **Entrepreneurship Foundations** -  Whitney Johnson
-- **Dale Carnegie Course** - Dale Carnegie Training
-- **Advanced Dale Carnegie Course** - Dale Carnegie Training
-- **LTM - Leadership Training for Managers** - Dale Carnegie Training
-- **HIP - High Impact Presentations** - Dale Carnegie Training
-- **NT - Dale Carnegie Negotiation Training** - Dale Carnegie Training
-- **Scrum: The Basics** - Kelley O'Connell
-- **Agile Product Owner Role: Foundations** - Angela Wick
-- **PMRank® Workshop** - Ricardo Vargas
-- **Creating a Business Plan** - Mike Figliuolo
-- **Agilidade na Análise de Negócios** - W4BusinessAnalysis
-- **Fundamentos de Solução de Problemas** - Curso Completo - Falconi
-- **Estratégias Comerciais Avançadas** - IDAti Consultoria e Treinamento
-- **Instructional Design Essentials: Models of ID** - Joe Pulichino
-- **Instructional Design: Needs Analysis** - Jeff Toister
-- **Instructional Design: Adult Learners** - Jeff Toister
-- **Instructional Design: Creating Video Training** - Garrick Chow
-- **Instructional Design: Working with SMEs** - Jolie Miller
-- **Measuring Learning Effectiveness** - Jeff Toister
-- **Elearning Essentials: Storyboarding** - Brett Kirkpatrick
-- **Agile Instructional Design** - Richard Sites
-- **Design Thinking** - Escola Conquer
-- **Gamification of Learning** - Karl Kapp
-- **Instructional Design Principles for Course Creation** - Eduflow
-
-{{< /collapse >}}
-
-{{< button "Meus Trabalhos" "https://llsaboya.com/pt-br/categories/portfolio/" >}} 

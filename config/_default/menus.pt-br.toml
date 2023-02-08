@@ -12,21 +12,16 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Contato"
-url = "contato/"
+name = "O que eu faço"
+url = "/pt-br/eu-faco/"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Trabalhos"
-hasChildren = true
-
-[[main]]
-parent = "Trabalhos"
 name = "Meu Portfolio"
 url = "/pt-br/categories/portfolio/"
+weight = 4
 
 [[main]]
-parent = "Trabalhos"
-name = "O que eu faço"
-url = "/pt-br/eu-faco/"
+name = "Contato"
+url = "contato/"
+weight = 5

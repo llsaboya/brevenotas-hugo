@@ -8,16 +8,35 @@ draft: false
 lastmod: 2022-12-18T21:22:11.496Z
 ---
 
-## Who am I
+# Harnessing the Power of Instructional Design to Drive Business Success
 
-My name is Lefebvre Saboya. I have a degree in Management Processes and postgraduate in Instructional Design.
+Instructional design is a crucial aspect of business success, as it helps organizations identify the knowledge and skill gaps within their workforce, and develop effective learning experiences that challenge and engage employees. At the heart of this discipline is the ADDIE process and Values Clarification, which are used to analyze business needs and develop comprehensive instructional design plans that meet the unique requirements of an organization.
 
-Using the ADDIE and Values Clarification process, I seek to analyze knowledge and skills gaps within a specific group. With the help of Specialists in Subjects (SMEs), I develop a plan that meets the needs of the organization, creating experiences that develop reflexive and practical attitudes in the face of problematic situations.
+As an instructional designer with a background in business management and a post-graduate degree in Instructional Design, I understand the challenges and complexities of this field. With a deep understanding of instructional design best practices, I work with subject matter experts (SMEs) to create learning experiences that drive positive change and help organizations achieve their goals.
 
-The main challenge of any Instructional Design project is to develop a professional team that delivers the right learning process. That's why we work with Subject Matter Specialists (SMEs) to create solid foundations for the project, from graphic design, through user experience (UX) and any specific objective that is particular in the area of your organization's expertise.
+One of the biggest challenges in instructional design is developing a professional team that can deliver the right learning process. That's why I work closely with SMEs to create strong foundations for the project, starting with graphic design and user experience (UX) and continuing through to any specific goals that are specific to your organization's area of expertise.
 
-When starting a project, I develop the task of identifying these needs and figuring out how best to challenge the ability of professionals to establish relationships and become able to see more than one way to achieve the results.
+At the beginning of any project, I start by identifying the needs and goals of your organization and finding the best ways to challenge the capabilities of your professionals to help them establish better relationships and become more capable of seeing multiple ways to achieve results.
 
-I started teaching in the monitoring of my pre-vestibular course to pay for my studies. I worked with advertising and marketing doing critical evaluation for campaigns. For 5 years I worked in banking performing “360-degree analysis” of bank branches ad developing traininf, learning experiences and job-aids.
+My passion for instructional design started during my undergraduate years, where I taught as a tutor to pay for my studies. I then worked in advertising and marketing, critically evaluating campaigns. For five years, I worked at the State Bank of Rio Grande do Sul (Banrisul), conducting "360 Analysis" of its network of customer service branches.
 
-As the business world continues to change, organizations and their learning choices change as well.
+As the business world continues to evolve, so do organizations and their learning choices. With a proven track record in the field, I have the skills and experience necessary to drive successful instructional design projects and help your organization thrive.
+
+## Professional Experience
+
+### Instructional Designer, Design 4 Thinking
+#### Jan 2021 - Present 
+I'm a professional with a background in Instructional Design and a wealth of experience in analyzing business needs and developing educational and communication projects. In my most recent role, I work in partnership with subject matter experts to conduct a thorough needs analysis, diagnose any issues or challenges, and create and develop educational projects. I also utilize Articulate Rise and Articulate Storyline for eLearning development and manage projects and training initiatives.
+
+### Trainer, Dale Carnegie Training
+#### Nov 2018 - Jul 2019 
+As a trainer for Dale Carnegie Training, I was responsible for delivering training and development programs focused on attitude, communication, leadership, soft skills, and project management. The aim was to place the participants in a safe but challenging environment that would encourage them to succeed and receive positive reinforcement. As a result, the participants developed increased confidence, changed habits, and learned new skills that became deeply ingrained.
+
+### Corporate Management Analyst, Banrisul
+#### Dez 2012 - Apr 2018
+In addition to my expertise in Instructional Design and People Development, Il also has a background in project management and strategic planning, having served as a Project Leader for Banrisul. During my time there, I performed 360-degree analysis, strategic planning, and project management for the bank's network of branches. I was also responsible for developing operational processes, managerial processes, and customer service, as well as delivering sales, negotiation, and management training.
+
+### Owner, RWL Car Boutique
+
+#### Jan 2010 - Nov 2012
+Before fully committing to the Instructional Design field, I was a co-owner of RWL Car Boutique, a workshop specializing in automotive repairs for dealerships and armored vehicles. This experience allowed me to develop skills in business management and technical problem-solving.
