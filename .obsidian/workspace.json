@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55981a03e24695ae",
+        "id": "091525221efb9386",
         "type": "tabs",
         "children": [
           {
-            "id": "fb991919fc48e505",
+            "id": "cec6afe6fccd0328",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/_index.md",
+                "file": "content/portugues/element.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/english/_index.md",
+                "file": "content/portugues/element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/english/_index.md",
+                "file": "content/portugues/element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/english/_index.md"
+                "file": "content/portugues/element.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb991919fc48e505",
+  "active": "cec6afe6fccd0328",
   "lastOpenFiles": [
+    "content/portugues/services.md",
+    "Kanban.md",
     "content/english/about.md",
     "content/portugues/about.md",
-    "content/portugues/services.md",
     "content/portugues/search.md",
     "content/portugues/element.md",
     "content/portugues/contact.md",
     "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
     "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
-    "content/portugues/blog/notas/di-o-que-e-addie.md",
-    "assets/images/post/sam2.png"
+    "content/portugues/blog/notas/di-o-que-e-addie.md"
   ]
 }
