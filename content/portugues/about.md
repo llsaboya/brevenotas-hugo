@@ -45,7 +45,7 @@ Com vasta experiência em gerenciamento de projetos, eu atuei como líder de pro
 #### Sócio proprietário
 ##### RWL Car Boutique
 Jan 2010 - Nov 2012
-Antes de se dedicar integralmente à área de Design Instrucional, eu fui sócio proprietário da RWL Car Boutique, uma oficina especializada em reparos automotivos para concessionárias e veículos blindados. Essa experiência me permitiu desenvolver habilidades em gestão empresarial e na resolução de problemas técnicos.
+Antes de me dedicar integralmente à área de Design Instrucional, eu fui sócio proprietário da RWL Car Boutique, uma oficina especializada em reparos automotivos para concessionárias e veículos blindados. Essa experiência me permitiu desenvolver habilidades em gestão empresarial e na resolução de problemas técnicos.
 {{< /collapse >}}
 
 ## 
