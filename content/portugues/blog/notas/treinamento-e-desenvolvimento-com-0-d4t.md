@@ -1,5 +1,5 @@
 ---
-title: A Performance e Processos no Treinamento e Desenvolvimento**
+title: A Performance e Processos no Treinamento e Desenvolvimento
 description: A implementação de um programa de T&D envolve várias etapas, incluindo diagnóstico, planejamento, execução e avaliação. No diagnóstico, o RH deve identificar as necessidades de capacitação dos colaboradores e as competências que precisam ser desenvolvidas.
 draft: false
 categories:
@@ -22,7 +22,6 @@ keywords:
 toc: true
 lastmod: 2022-12-16T18:04:51.369Z
 ---
-# **A Importância de Pensar em Performance e Processos no Treinamento e Desenvolvimento**
 
 O **treinamento e desenvolvimento** é uma estratégia indispensável para o sucesso das organizações. É por meio dessa prática que as empresas conseguem desenvolver as competências dos colaboradores, alinhando-os com a cultura organizacional e a estratégia de negócios. Nesse contexto, é fundamental entender a importância de se pensar em performance e processos durante o planejamento e execução do programa de T&D.
 
