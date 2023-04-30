@@ -5,7 +5,7 @@ draft: false
 categories:
   - Design Instrucional
 image: /images/1-comunicacao.jpg
-slug: modelo-de-aproximacao-sucessiva-sam
+slug: performance-treinamento-desenvolvimento
 tags:
   - Design Instrucional
   - Treinamento e Desenvolvimento
