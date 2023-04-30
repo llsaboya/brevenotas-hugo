@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "091525221efb9386",
+        "id": "4a3db14a18262e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "cec6afe6fccd0328",
+            "id": "1543b8c711640ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/english/about.md",
+                "file": "content/portugues/blog/notas/di-o-que-e-sam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab47b957e68ff842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/portugues/blog/notas/treinamento-e-desenvolvimento-com-0-d4t.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 251.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/english/about.md",
+                "file": "content/portugues/blog/notas/treinamento-e-desenvolvimento-com-0-d4t.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/english/about.md",
+                "file": "content/portugues/blog/notas/treinamento-e-desenvolvimento-com-0-d4t.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/english/about.md"
+                "file": "content/portugues/blog/notas/treinamento-e-desenvolvimento-com-0-d4t.md"
               }
             }
           },
@@ -156,17 +169,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cec6afe6fccd0328",
+  "active": "ab47b957e68ff842",
   "lastOpenFiles": [
+    "content/portugues/blog/notas/2021-05-15-scrum-manifesto.md",
+    "content/portugues/blog/notas/2021-07-03-5-canais-youtube-para-acompanhar-e-aprender.md",
+    "content/portugues/blog/notas/2021-09-09-robots.md",
+    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
+    "content/portugues/blog/notas/2022-01-23-um-follow-up-sobre-linux.md",
+    "content/portugues/blog/notas/di-o-que-e-addie.md",
+    "content/portugues/blog/notas/di-o-que-e-sam.md",
+    "content/portugues/blog/notas/treinamento-e-desenvolvimento-com-0-d4t.md",
+    "Kanban.md",
+    "content/portugues/blog/portfolio-di-para-empresarios/index.md",
+    "content/portugues/blog/portfolio-di-para-empresarios/index.en.md",
+    "content/english/_index.md",
     "content/portugues/services.md",
     "content/english/services.md",
     "content/portugues/element.md",
-    "Kanban.md",
     "content/english/about.md",
     "content/portugues/about.md",
     "content/portugues/search.md",
     "content/portugues/contact.md",
-    "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md",
-    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md"
+    "content/portugues/blog/notas/2021-03-30-como-usar-5w2h.md"
   ]
 }

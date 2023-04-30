@@ -37,13 +37,13 @@ lastmod: 2022-12-18T20:33:33.991Z
 {{< button "Try the project" "../portfolio/di-para-empreendedores/index.html" >}}
 
 
-## Overview 
+## Overview:
 
-This project showcases the capabilities **of The Articulate Rise 360** for informational materials. The challenge was to create an interaction that would explain what Instructional **Design is for** entrepreneurs who seek to implement this solution in their companies. 
+This project showcases the capabilities of Articulate Rise 360 for informative materials. The challenge was to create an interaction that explained what Instructional Design is to entrepreneurs and business owners who are seeking to implement this solution in their companies.
 
-Interviews with owners and entrepreneurs showed that they found it contradictory that instructional design professionals used traditional approaches when presenting their area - infographics, presentations and text - as they highlight their experience with new methodologies and technologies. 
+Interviews with entrepreneurs and business owners revealed that they found it contradictory that instructional design professionals use traditional approaches when presenting their area - infographics, presentations, and text - since these highlight their experience with new methodologies and technologies.
 
-Instructional design companies use various marketing and sales strategies. One of the main ones is *Lead Nurturing* (make the lead acquire knowledge and interact more with your brand). Even though instructional design has existed since the 1950s, "educating the customer" about the characteristics of instructional design, application scenarios and boundaries of action is still the focus of the Brazilian market. 
+Instructional design companies use various marketing and sales strategies. One of the main strategies is Lead Nurturing (making the lead acquire knowledge and interact more with their brand). Even though instructional design has been around since the 1950s, "educating the client" about the characteristics of instructional design, the scenarios of application, and the boundaries of action is still the focus of the Brazilian market.
 
 ## Process 
 
