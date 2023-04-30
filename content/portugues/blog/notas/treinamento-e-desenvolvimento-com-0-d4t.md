@@ -1,11 +1,11 @@
 ---
 title: A Performance e Processos no Treinamento e Desenvolvimento
-description: A implementação de um programa de T&D envolve várias etapas, incluindo diagnóstico, planejamento, execução e avaliação. No diagnóstico, o RH deve identificar as necessidades de capacitação dos colaboradores e as competências que precisam ser desenvolvidas.
+description: Descubra como integrar operações de pensamento e comportamentos inerciais no treinamento e desenvolvimento para impulsionar a performance organizacional.
 draft: false
 categories:
   - Design Instrucional
 image: /images/1-comunicacao.jpg
-slug: performance-treinamento-desenvolvimento
+slug: performance-processos-treinamento-desenvolvimento
 tags:
   - Design Instrucional
   - Treinamento e Desenvolvimento
