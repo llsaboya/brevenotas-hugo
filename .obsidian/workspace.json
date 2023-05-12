@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23ee6980f7dd4726",
+        "id": "1ac4b27ddbd4df46",
         "type": "tabs",
         "children": [
           {
-            "id": "3825125bd778c337",
+            "id": "657348e5700bff30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,15 +165,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3825125bd778c337",
+  "active": "657348e5700bff30",
   "lastOpenFiles": [
+    "Kanban.md",
     "content/portugues/element.md",
     "content/portugues/blog/artigo-consultoria-interna/index.md",
     "assets/images/post/consultoria-interna.png",
     "content/portugues/blog/artigo-dale-carnegie/Dale-Carnegie-1920x1080.jpg",
     "content/portugues/blog/artigo-consultoria-interna",
     "assets/images/banner.jpg",
-    "Kanban.md",
     "content/portugues/blog/portfolio-lideranca/index.md",
     "content/portugues/blog/portfolio-d4t-site/index.md",
     "content/portugues/blog/portfolio-d4t-site/index.en.md",
