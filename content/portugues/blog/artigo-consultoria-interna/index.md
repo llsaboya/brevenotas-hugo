@@ -13,7 +13,6 @@ tags:
 categories:
   - Artigos
 image: images/post/consultoria-interna.png
-draft: true
 ---
 
 No mundo dinâmico dos negócios, a **transformação organizacional** é uma constante. As empresas precisam se adaptar e evoluir para acompanhar as mudanças na tecnologia, na demanda do mercado e no ambiente regulatório. No entanto, conduzir a mudança não é uma tarefa fácil - requer planejamento estratégico, execução eficiente e, acima de tudo, uma cultura que acolha a mudança.
