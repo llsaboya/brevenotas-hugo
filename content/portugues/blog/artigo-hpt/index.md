@@ -12,6 +12,12 @@ slug: tecnologia-de-desempenho-humano-um-guia-para-melhoria-de-desempenho
 date: 2023-05-22T18:49:44.706Z
 ---
 
+{{< notice "info" >}}
+O artigo explora a Tecnologia de Desempenho Humano (HPT), uma abordagem integrada para melhorar o desempenho humano nas organizações. A HPT é baseada na premissa de que as organizações são sistemas e que o desempenho dentro desses sistemas é influenciado por múltiplos fatores. A HPT pode ajudar as organizações a identificar lacunas de desempenho e desenvolver intervenções direcionadas para alcançar seus objetivos de forma mais eficaz.<br>
+O artigo também discute o papel da HPT nas organizações, a relação entre HPT e Desempenho Humano e Organizacional (HOP), e a conexão entre HPT e Design Thinking. Além disso, o artigo aprofunda as metodologias e ferramentas usadas na HPT e como elas podem ser aplicadas em diferentes contextos organizacionais.<br>
+O artigo conclui destacando a importância de uma abordagem sistemática e baseada em evidências para a melhoria do desempenho, e a necessidade de uma análise profunda para identificar as causas raiz dos problemas e implementar soluções eficazes.
+{{< /notice >}}
+
 ## I. O que é Tecnologia de Desempenho Humano (HPT)? 
 
 A Tecnologia de Desempenho Humano, também conhecida como Melhoria de Desempenho, é uma abordagem integrada de sistemas para melhorar o desempenho humano. É um campo de estudo e prática que se baseia em várias disciplinas, incluindo psicologia, [design instrucional](https://d4t.dev/notes/Design-instrucional/mapeamento-de-licoes-baseado-em-desempenho), desenvolvimento organizacional e recursos humanos, entre outros.
