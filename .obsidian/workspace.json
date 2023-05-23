@@ -11,9 +11,11 @@
             "id": "059b76f93910cc96",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md"
+                "file": "content/portugues/blog/artigo-hpt/index.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban.md",
+                "file": "content/portugues/blog/artigo-hpt/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban.md",
+                "file": "content/portugues/blog/artigo-hpt/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban.md"
+                "file": "content/portugues/blog/artigo-hpt/index.md"
               }
             }
           },
@@ -165,6 +167,8 @@
   },
   "active": "059b76f93910cc96",
   "lastOpenFiles": [
+    "content/portugues/blog/artigo-dale-carnegie/index.md",
+    "content/portugues/blog/artigo-hpt/index.md",
     "Kanban.md",
     "content/portugues/element.md",
     "content/portugues/blog/artigo-consultoria-interna/index.md",
@@ -200,7 +204,6 @@
     "content/english/services.md",
     "content/english/about.md",
     "content/portugues/about.md",
-    "content/portugues/search.md",
-    "content/portugues/contact.md"
+    "content/portugues/search.md"
   ]
 }
