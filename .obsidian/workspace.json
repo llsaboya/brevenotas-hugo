@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ac4b27ddbd4df46",
+        "id": "03fa3020e95d7198",
         "type": "tabs",
         "children": [
           {
-            "id": "657348e5700bff30",
+            "id": "059b76f93910cc96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "content/portugues/blog/artigo-consultoria-interna/index.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban.md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portugues/blog/artigo-consultoria-interna/index.md",
+                "file": "Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portugues/blog/artigo-consultoria-interna/index.md",
+                "file": "Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portugues/blog/artigo-consultoria-interna/index.md"
+                "file": "Kanban.md"
               }
             }
           },
@@ -165,7 +163,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "657348e5700bff30",
+  "active": "059b76f93910cc96",
   "lastOpenFiles": [
     "Kanban.md",
     "content/portugues/element.md",

@@ -74,5 +74,6 @@
   ],
   "frontMatter.taxonomy.tags": [
     "Design Instrucional"
-  ]
+  ],
+  "frontMatter.content.autoUpdateDate": false
 }

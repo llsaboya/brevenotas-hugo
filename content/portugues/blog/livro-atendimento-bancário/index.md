@@ -25,9 +25,7 @@ E do outro lado os espertalhões que vendem aqueles cursos técnicas de venda ou
 Todos falham em três questões:
 
 - Nenhum deles tratam da vida real de quem tem vocação para estar em um banco,
-
 - Nenhum deles compreende a origem, motivo e função dos produtos bancários,
-
 - E nenhum deles usam dados reais de agências bancárias.
 
 Quanto temos material para os bancários, a maioria usa *planejamentos inadequados* e *técnicas de venda ultrapassadas*. Há tempos bancos trabalham em **modelos híbridos** de operação e atendimento, forçando os funcionários a adotarem o modelo multitarefa como padrão. Entretanto, poucas instituições oferecem (além da formação acadêmica) o suporte necessário, seja em educação, treinamento e pessoal para que as agências funcionem de modo eficaz.
@@ -51,11 +49,8 @@ E nenhum acionista quer perder um monte de dinheiro, ainda que seja proporcional
 Portanto, a mudança deve acontecer debaixo para cima. O caminho mais difícil. Ou seja:
 
 - Como melhorar as habilidades de forma individual,
-
 - Como adaptar boas técnicas de atendimento e vendas para a realidade de cada agência bancária,
-
 - Como promover essas mudanças de forma que se alinhem ao compliance, normativos, legislação e cultura corporativa,
-
 - Como convencer e explicar para os superiores imediatos as vantagens obtidas com as mudanças já implementadas.
 
 ## **3. COMO O LIVRO ATENDIMENTO BANCÁRIO ME FARÁ SER MELHOR**
@@ -80,6 +75,40 @@ Se você procura um processo milagroso para bater metas, você não vai encontra
 
 O livro também fornece um link para materiais extras que são produzidos a partir do *feedback* dos leitores. Desafios específicos podem ser tão úteis quanto regras gerais.
 
+>:books: - [Compre na Amazon.com](https://amzn.to/33zy2FZ)
 
-
-:books: - [Compre na Amazon.com](https://amzn.to/33zy2FZ)
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "O que é o livro 'Atendimento Bancário: Como atender e vender em qualquer Instituição Financeira'?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O livro 'Atendimento Bancário: Como atender e vender em qualquer Instituição Financeira' é um guia abrangente para indivíduos que trabalham no setor financeiro, particularmente aqueles que desejam aprimorar suas habilidades em atendimento ao cliente e venda de produtos e serviços bancários."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Quem é o público-alvo do livro?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O público-alvo do livro inclui indivíduos que trabalham no setor financeiro, particularmente aqueles que desejam aprimorar suas habilidades em atendimento ao cliente e venda de produtos e serviços bancários."
+    }
+  }, {
+    "@type": "Question",
+    "name": "O que o livro ensina?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O livro apresenta as principais técnicas e estratégias para um atendimento bancário de qualidade, enfatizando a importância das relações interpessoais e da comunicação clara e objetiva com os clientes. O livro fornece um guia completo para treinamento técnico e aplicação prática de técnicas de atendimento ao cliente e venda de produtos e serviços bancários."
+    }
+  }, {
+    "@type": "Question",
+    "name": "O livro recebeu boas críticas?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sim, o livro recebeu críticas positivas. Os leitores elogiaram o livro por sua praticidade, realismo e dicas valiosas para melhorar a venda de produtos e serviços bancários."
+    }
+  }]
+}
+</script>

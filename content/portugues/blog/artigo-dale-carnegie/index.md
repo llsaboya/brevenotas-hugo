@@ -263,3 +263,46 @@ Mas o reconhecimento da Dale Carnegie no Brasil é baixo, exceto se você está 
 Quando dois graduados da Dale Carnegie se encontram é como se ambos já fossem velhos amigos sem nem mesmo se conhecerem.  
 
 Não importa qual é a sua geração, há sempre um *carnegiano* perto de você, às vezes muito mais perto do que você imagina.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "O que são os cursos de Dale Carnegie?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Os cursos de Dale Carnegie são programas de treinamento que visam melhorar as habilidades pessoais e profissionais dos participantes. Eles abrangem uma variedade de áreas, incluindo liderança, apresentação, habilidades interpessoais, vendas e atendimento ao cliente."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Os cursos de Dale Carnegie valem a pena?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sim, os cursos de Dale Carnegie valem a pena. No entanto, o valor que você obtém desses cursos depende da qualidade do treinador, dos seus objetivos e da sua disposição e oportunidade de aplicar o que aprendeu."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Qual é a metodologia de ensino de Dale Carnegie?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A metodologia de ensino de Dale Carnegie é conhecida como Performance Change Pathway™. Esta metodologia evoluiu ao longo dos anos e é focada em habilidades interpessoais e autoaperfeiçoamento."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Quais são as críticas aos cursos de Dale Carnegie?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "As críticas aos cursos de Dale Carnegie incluem a estratégia de marketing da empresa, que depende muito de referências, e a insistência da empresa em manter uma aura de mistério em torno de seus cursos, o que pode dificultar os esforços de marketing."
+    }
+  }, {
+    "@type": "Question",
+    "name": "O que é o curso Dale Carnegie Course (DCC)?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O curso DCC é o principal curso da empresa. Este curso mundialmente famoso foca no desenvolvimento da confiança do aluno e na melhora das habilidades de comunicação."
+    }
+  }]
+}
+</script>

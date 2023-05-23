@@ -172,3 +172,46 @@ O processo de criação do **Cenário Liderança e Delegação** me proporcionou
 Se gostou desse projeto e acredita que podemos ajudar a sua empresa, ficamos à sua disposição. 
 
 {{< button "Entre em Contato" "/contato/" >}}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "O que é a experiência de eLearning baseada em cenários?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A experiência de eLearning baseada em cenários é um projeto que foi desenvolvido para praticar a habilidade de delegação. O cenário testa a capacidade dos líderes em identificar colegas com potencial para promoção dentro da equipe e a habilidade de delegar responsabilidades."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Quais são as ferramentas utilizadas no projeto?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "As ferramentas utilizadas no projeto incluem Articulate Storyline e Microsoft Powerpoint."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Quem é o público-alvo do projeto?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O público-alvo do projeto inclui líderes com poder decisório, como diretores, gerentes e supervisores."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Qual é a importância da delegação na gestão empresarial?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A delegação é importante para a gestão e crescimento dos negócios. No entanto, muitas vezes é confundida com a distribuição de tarefas. A delegação é a transferência de poder, onde uma pessoa superior na hierarquia confere a alguém poder e representatividade para agir em seu nome."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Quais são os desafios enfrentados na implementação do conhecimento teórico em situações da vida real?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Os desafios incluem a dificuldade de aplicar a teoria na vida real. Muitos líderes acham difícil aplicar o material dos cursos no dia a dia, pois a realidade possui nuances bem diferentes da teoria."
+    }
+  }]
+}
+</script>
