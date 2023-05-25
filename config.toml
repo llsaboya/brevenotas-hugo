@@ -1,4 +1,4 @@
-baseURL                          = "http://llsaboya.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://llsaboya.com/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -116,9 +116,9 @@ googleAnalytics                 = "G-K0RLV4G6MN"                     # https://g
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "LL Saboya"
+        title            = "Lefebvre Saboya"
         [languages.en.params]
-            description  = "Lefebvre Saboya"   # Max 160 characters show in search results
+            description  = "Instructional Design"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     [languages.pt-br]
