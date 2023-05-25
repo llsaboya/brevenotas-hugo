@@ -6894,7 +6894,7 @@ body.dark {
   body.dark .h5,
   body.dark h6,
   body.dark .h6 {
-    color: #ffffff; }
+    color: #fff; }
 
 /* Button style */
 .btn {
@@ -7463,7 +7463,7 @@ body.dark .only-dark {
     background-color: #062132 !important; }
   .dark .footer a,
   .dark .accordion-button {
-    color: #ffffff; }
+    color: #fff; }
     .dark .footer a:hover,
     .dark .accordion-button:hover {
       color: #dc6f6e; }
@@ -7523,9 +7523,9 @@ body.dark .only-dark {
     background-color: #051b29 !important; }
   .dark .widget input {
     background-color: #062132 !important;
-    color: #ffffff; }
+    color: #fff; }
     .dark .widget input::placeholder {
-      color: #ffffff; }
+      color: #fff; }
 
 @media (max-width: 991px) {
   .navigation {
@@ -7690,7 +7690,7 @@ body.dark .only-dark {
 
 .dark .navbar-light .navbar-nav .nav-item.active .nav-link,
 .dark .navbar-light .navbar-nav .nav-item:hover .nav-link {
-  color: #ffffff; }
+  color: #fff; }
 
 .dark .search-box {
   color: #fff; }
@@ -7700,7 +7700,7 @@ body.dark .only-dark {
 
 .dark .search svg,
 .dark .select-language {
-  color: #ffffff; }
+  color: #fff; }
 
 .dark .navbar-light .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); }
@@ -7712,7 +7712,7 @@ body.dark .only-dark {
     .dark .dropdown-menu .dropdown-item.active {
       margin-bottom: 10px; }
     .dark .dropdown-menu .dropdown-item.active, .dark .dropdown-menu .dropdown-item:hover {
-      color: #ffffff; }
+      color: #fff; }
 
 .banner {
   position: relative;
@@ -7857,7 +7857,7 @@ body.dark .only-dark {
 
 .dark .blog-card .post-title,
 .dark .social-links li a {
-  color: #ffffff; }
+  color: #fff; }
 
 .dark .widget a:hover {
   color: #dc6f6e; }
@@ -7871,10 +7871,10 @@ body.dark .only-dark {
   color: #bbbbbb; }
 
 .dark .pagination .page-item .page-link:hover {
-  color: #ffffff; }
+  color: #fff; }
 
 .dark .recent-post a {
-  color: #ffffff; }
+  color: #fff; }
   .dark .recent-post a:hover {
     color: #dc6f6e; }
 

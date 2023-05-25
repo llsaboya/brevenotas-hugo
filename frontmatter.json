@@ -43,6 +43,39 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "authors",
+          "name": "authors",
+          "type": "choice",
+          "choices": [
+            "Lefebvre Saboya"
+          ]
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": [
+            "Dale Carnegie",
+            "Soft skills",
+            "Hard skills",
+            "Auto-ajuda",
+            "Warren Buffett",
+            "Desenvolvimento Pessoal",
+            "Habilidades Interpessoais"
+          ]
+        },
+        {
+          "title": "aliases",
+          "name": "aliases",
+          "type": "choice",
+          "choices": [
+            "/dale-carnegie-vale-a-pena/",
+            "/post/dale-carnegie-vale-a-pena/",
+            "/blog/dale-carnegie-vale-pena/",
+            "/p/dale-carnegie-vale-pena/"
+          ]
         }
       ]
     }
@@ -75,5 +108,5 @@
   "frontMatter.taxonomy.tags": [
     "Design Instrucional"
   ],
-  "frontMatter.content.autoUpdateDate": false
+  "frontMatter.content.autoUpdateDate": true
 }
