@@ -20,3 +20,5 @@
   NODE_VERSION = "19.6.0"
   NPM_VERSION = "9.4.0"
   CI = "false"
+  HUGO_ENABLEGITINFO = "false"
+  GIT_CONFIG_NOSYSTEM = "true"
