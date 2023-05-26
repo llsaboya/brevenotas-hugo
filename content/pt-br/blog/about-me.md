@@ -1,7 +1,7 @@
 ---
 title: "Sobre Lefebvre Saboya"
 date: 2023-03-02T12:04:06-05:00
-tags: ["Lefebvre Saboya", "resume"]
+tags: ["Lefebvre Saboya", "Currículo"]
 ---
 ![](/images/about-full.jpg)
 

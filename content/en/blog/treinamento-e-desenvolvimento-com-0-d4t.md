@@ -3,7 +3,6 @@ title: The Importance of Thinking about Performance and Processes in Training an
 description: When employees can control their impulsivity, enhance their confidence, and embrace a problem-solving mindset, they are more likely to contribute positively to the company's strategic objectives.
 draft: false
 categories:
-  - null
   - Instructional Design
 # image: /images/1-comunicacao.jpg
 slug: importance-thinking-performance-processes-training-development

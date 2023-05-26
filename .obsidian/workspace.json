@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt-br/blog/about-me.md",
+                "file": "content/pt-br/home/contact.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/pt-br/blog/about-me.md",
+                "file": "content/pt-br/home/contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/pt-br/blog/about-me.md",
+                "file": "content/pt-br/home/contact.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/pt-br/blog/about-me.md"
+                "file": "content/pt-br/home/contact.md"
               }
             }
           },
@@ -167,14 +167,27 @@
   },
   "active": "dd732b16d582922d",
   "lastOpenFiles": [
+    "content/pt-br/home/index.md",
+    "content/pt-br/home/perfil-bw-s.png",
+    "content/pt-br/home/what-i-do-hp.md",
+    "content/pt-br/home/about.md",
+    "content/pt-br/home/contact.md",
+    "content/pt-br/blog/_index.md",
+    "content/pt-br/blog/about-me.md",
     "content/pt-br/blog/what-I-do.md",
+    "content/en/projects/rise-di/index.md",
+    "content/en/projects/_index.md",
+    "content/en/blog/what-I-do.md",
+    "content/en/blog/about-me.md",
+    "content/en/blog/long-form-post.md",
+    "content/en/blog/multi-author.md",
+    "content/en/blog/no-date.md",
+    "content/en/blog/treinamento-e-desenvolvimento-com-0-d4t.md",
+    "content/en/home/contact.md",
+    "content/en/home/about.md",
+    "content/en/home/what-i-do-hp.md",
     "content/pt-br/blog/hipser-ipsum.md",
     "content/pt-br/blog/startup-ipsum.md",
-    "content/en/blog/about-me.md",
-    "content/en/blog/what-I-do.md",
-    "content/en/home/what-i-do-hp.md",
-    "content/en/home/about.md",
-    "content/pt-br/home/about.md",
     "content/pt-br/projects/livro-made/index.md",
     "content/pt-br/blog/artigo-hpt/index.md",
     "content/pt-br/projects/livro-atendimento-bancario/index.md",
@@ -187,27 +200,14 @@
     "resources/_gen/images/projects/livro-atendimento-bancario/plant_hu3d03a01dcc18bc5be0e67db3d8d209a6_34602_1000x0_resize_q75_box.jpg",
     "resources/_gen/images/projects/livro-made/MADE-Banner_hu27ee4951b945a72cb02da038874408ca_204068_302x0_resize_box_3.png",
     "resources/_gen/images/projects/livro-atendimento-bancario/atendimento-portifolio_huef33ea49aa32bcea4cac157028c8df24_93120_302x0_resize_box_3.png",
-    "resources/_gen/images/projects/livro-atendimento-bancario/atendimento-portifolio_huef33ea49aa32bcea4cac157028c8df24_93120_1000x0_resize_box_3.png",
     "resources/_gen/images/projects/livro-atendimento-bancario",
     "resources/_gen/images/projects/livro-made",
     "content/pt-br/projects/rise-di/index.md",
     "content/pt-br/projects/d4t-dev/index.md",
     "content/pt-br/projects/Leadership-and-Delegation/index.md",
-    "content/pt-br/_index.md",
     "content/pt-br/projects/livro-made",
-    "content/pt-br/projects/design/index.md",
     "content/pt-br/projects/design",
     "content/pt-br/projects/livro-atendimento-bancario",
-    "content/en/home/index.md",
-    "content/pt-br/blog/portfolio-lideranca/index.md",
-    "content/pt-br/blog/portfolio-di-para-empresarios/index.md",
-    "content/pt-br/blog/portfolio-d4t-site/index.md",
-    "content/en/blog/portfolio-d4t-site/index.en.md",
-    "content/en/blog/portfolio-di-para-empresarios/index.en.md",
-    "content/en/blog/portfolio-lideranca/index.en.md",
-    "content/en/blog/coffee-ipsum/index.md",
-    "content/pt-br/blog/portfolio-lideranca/index.en.md",
-    "content/pt-br/blog/portfolio-di-para-empresarios/index.en.md",
     "content/portugues/blog/artigo-consultoria-interna",
     "content/portugues/blog/portfolio-d4t-site"
   ]
