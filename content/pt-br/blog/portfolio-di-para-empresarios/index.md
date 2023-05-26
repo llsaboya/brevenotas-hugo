@@ -2,7 +2,6 @@
 title: DI para Empreendedores e Empresários
 description: Interação sobre Design Instrucional para empresários e empreendedores que buscam implantar essa solução nas suas empresas.
 date: 2022-08-14T23:50:34.611Z
-# image: images/post/portfolio/rise-1.jpeg
 tags:
   - Curso
   - Design Instrucional
@@ -11,7 +10,7 @@ tags:
 categories:
   - Portfolio
 slug: di-para-empreendedores-empresarios
-lastmod: 2022-12-16T23:58:15.963Z
+lastmod: 2023-05-26T20:57:57.998Z
 ---
 
 ## Visão geral 
@@ -22,7 +21,7 @@ Entrevistas com empresários e empreendedores mostraram que eles achavam contrad
 
 Empresas de design instrucional utilizam várias estratégias de marketing e vendas. Uma das principais é o *Lead Nurturing* (fazer com que a lead adquira conhecimento e interaja mais com sua marca). Mesmo que o design instrucional exista desde os anos 50, "educar o cliente" sobre as características do design instrucional, os cenários de aplicação e fronteiras de atuação ainda é o foco do mercado brasileiro.
 
-[Experimente o projeto completo](portfolio/di-para-empreendedores/index.html)
+[Experimente o projeto completo](../portfolio/di-para-empreendedores/index.html)
 
 ## Processo 
 

@@ -11,7 +11,7 @@ tags:
 categories:
   - Portfolio
 slug: leadership-delegation
-lastmod: 2023-05-26T00:17:48.310Z
+lastmod: 2023-05-26T20:58:21.796Z
 ---
 
 {{< notice "note" >}}
@@ -33,7 +33,7 @@ This scenario tests the ability of leaders to find colleagues with potential for
   - Scrivener
   - Outliner{{< /notice >}}
 
-[Try the project](/portfolio/demo-delegacao/story.html)
+[Try the project](../portfolio/demo-delegacao/story.html)
 
 ## Overview 
 
@@ -76,7 +76,7 @@ However, the three situations above focus on the delegate, not the delegate, the
 
 With the data we were able to conclude that the courses and training delivered theoretical knowledge to the leaders. However, most of them found it difficult to apply the theory in real life. For them, reality has vastly different nuances of theory and applying the course material in daily life would be nearly impossible, as, for example, always have a professional with all the qualities necessary to delegate. 
 
-{{< figure  title="Delegation concepts " class="img-fluid rounded-6" src="images/post/portfolio/slide-conceitos.jpeg" alt="Conceitos de delegação" >}}
+{{< figure  title="Delegation concepts " class="img-fluid rounded-6" src="slide-conceitos.jpeg" alt="Conceitos de delegação" >}}
 
 #### 3 - Can we help people practice what they need? 
 
@@ -96,7 +96,7 @@ The information material needed to summarize the steps for delegation and guidan
 
 On the other hand, the scenario-based eLearning experience had to address the three problematic situations that led to delegation and promotion problems. 
 
-{< image title="Characters with different personalities" class="img-fluid rounded-6" src="images/post/portfolio/slide-equipe.jpg" alt="Characters with different personalities" >}}
+{{< figure title="Characters with different personalities" class="img-fluid rounded-6" src="slide-equipe.jpg" alt="Characters with different personalities" >}}
 
 ### Scenario-based eLearning experience 
 
@@ -112,9 +112,9 @@ The consequences are important objects in the experience. It is through them tha
 
 The 3 personas, in addition to creating veridiction and preparing the person for real situations in the company, also creates engagement, since there are 12 ends to the scenario.
 
-{{< figure  title="Consequences for each decision" class="img-fluid rounded-6" src="images/post/portfolio/slide-demitido.jpg" alt="Consequences for each decision" >}}
+{{< figure  title="Consequences for each decision" class="img-fluid rounded-6" src="slide-demitido.jpg" alt="Consequences for each decision" >}}
 
-{{< figure  title="Consequences for each decision" class="img-fluid rounded-6" src="images/post/portfolio/slide-promovido.jpg" alt="Consequences for each decision" >}}
+{{< figure  title="Consequences for each decision" class="img-fluid rounded-6" src="slide-promovido.jpg" alt="Consequences for each decision" >}}
 
 #### Design features 
 
@@ -124,7 +124,7 @@ The 3 personas, in addition to creating veridiction and preparing the person for
 - Feedback of the choice: As the student navigates through the experience, they will receive feedback for their choices. When they choose the correct answer, they will reinforce why their action would be a desirable choice. If the student chooses an incorrect way, they will supply feedback on its consequences. As in reality, he can't come back, but he can make better decisions in the future 
 - The 3 different finals allow students to retake the course, challenging themselves to "get promoted" or get all the decisions right. 
 
-{{< figure  title="Project overview " class="img-fluid rounded-6" src="images/post/portfolio/slide-full-view.png" alt="Project overview " >}}
+{{< figure  title="Project overview " class="img-fluid rounded-6" src="slide-full-view.png" alt="Project overview " >}}
 
 ## Final reflection 
 

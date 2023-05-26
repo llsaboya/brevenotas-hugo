@@ -1,7 +1,8 @@
 ---
-title: "DI para Empreendedores"
+title: DI para Empreendedores
 weight: 4
 project_timeframe: articulate rise
+lastmod: 2023-05-26T20:55:15.348Z
 ---
 
 O projeto "Design Instrucional para Empreendedores" é uma iniciativa única de design instrucional voltada para educar empreendedores e proprietários de empresas sobre o valor e a implementação do design instrucional em suas empresas. O projeto aproveita as capacidades do Articulate Rise 360 para criar uma experiência interativa e informativa.
@@ -16,4 +17,4 @@ O projeto segue um processo que inclui:
 
 O projeto conclui com uma reflexão sobre a experiência única de criar um projeto que se equilibra na fronteira entre aprendizado e marketing de conteúdo. Ele enfatiza o poder do Articulate Rise 360 como uma ferramenta de desenvolvimento, a importância da pesquisa de conteúdo, o desafio dos prazos de desenvolvimento e a significância da experiência do usuário no design instrucional.
 
-[Saiba mais sobre o projeto completo»](https://llsaboya.com/pt-br/blog/di-para-empreendedores-empresarios/)
+[Saiba mais sobre o projeto completo»](/di-para-empreendedores-empresarios/)

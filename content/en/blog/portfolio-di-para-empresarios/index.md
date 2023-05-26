@@ -8,7 +8,7 @@ tags:
 categories:
   - Portfolio
 slug: instructional-design-entrepreneurs
-lastmod: 2023-05-26T00:17:48.318Z
+lastmod: 2023-05-26T20:58:10.412Z
 ---
 
 {{< notice "info" >}} 
@@ -27,7 +27,7 @@ lastmod: 2023-05-26T00:17:48.318Z
   - Outliner 
 {{< /notice >}}
 
-[Try the project](/portfolio/di-para-empreendedores/index.html)
+[Try the project](../portfolio/di-para-empreendedores/index.html)
 
 
 ## Overview:
@@ -77,7 +77,7 @@ We use **Moore's motivational sequence** to organize the course topics. It was d
 - **Visualization**: Dramatically imagine the benefits to be gained. This will create a desire if you use motivations and emotions from the audience itself. 
 - **Action**: Ask for a final decision or action. 
 
-{{< figure  title="Initial outline of topics"  class="img-fluid rounded-6" src="images/post/portfolio/rise-estrutura.jpeg" alt="Initial outline of topics" >}}
+{{< figure  title="Initial outline of topics"  class="img-fluid rounded-6" src="rise-estrutura.jpeg" alt="Initial outline of topics" >}}
 
 Interactive elements are important in any course and represented a challenge in the project. Focusing on knowledge and understanding the target audience required greater fluidity of content. 
 
@@ -87,7 +87,7 @@ For example, we use *click-to-reveal interactivity*, which used to be considered
 
 **Rise 360** is an agile authoring tool and already brings with it several animation elements, which makes it look more dynamic, as opposed to the monotony of reading a PowerPoint presentation, for example. 
 
-{{< figure  title="Flashcards" class="img-fluid rounded-6" src="images/post/portfolio/rise-flashcard.jpeg" alt="Flashcards" >}}
+{{< figure  title="Flashcards" class="img-fluid rounded-6" src="rise-flashcard.jpeg" alt="Flashcards" >}}
 
 We received feedback in the final phase that part of the written content could be adapted for videos or animations. To validate this change we create **videos using Text-to-Speech.** We were surprised by the positive reaction to the tool. Although it does not replace professional narration in the final versions of the project, it is an important feature when used wisely. 
 
@@ -98,7 +98,7 @@ We received feedback in the final phase that part of the written content could b
 - **Storytelling** : We transform informational content into a journey told with the eyes of entrepreneurs and entrepreneurs. We use Derek Gaunt's [**actionable techniques**](https://www.amazon.com.br/Ego-Authority-Failure-Intelligence-Negotiator-ebook/dp/B09TMVPYSY/) of *trust-based influence that* can motivate and inspire the participant. 
 - **Text-to-Speech:** We use this tool during the video creation phase. While *text-to-speech* does not replace professional narration, it is a great tool for rapid prototyping and validation of concepts. 
 
-{{< figure  title="Initial navigation " class="img-fluid rounded-6" src="images/post/portfolio/rise-3.jpeg" alt="Initial navigation" >}}
+{{< figure  title="Initial navigation " class="img-fluid rounded-6" src="rise-3.jpeg" alt="Initial navigation" >}}
 
 ## Final reflection
 

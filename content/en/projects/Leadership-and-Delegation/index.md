@@ -1,7 +1,8 @@
 ---
-title: "Leadership & Delegation"
+title: Leadership & Delegation
 weight: 2
 project_timeframe: branching scenario
+lastmod: 2023-05-26T20:52:47.059Z
 ---
 
 The "Leadership and Delegation" branching scenario is a strategic instructional design challenge  aimed at improving delegation skills in leadership. The project underscores that delegation is not just task distribution, but a transfer of power from a higher authority to a subordinate.
@@ -17,4 +18,4 @@ The project's instructional design solution was developed to be accessible on bo
 
 The project emphasizes the importance of user experience in instructional design, noting that the platform's usability can significantly impact the learning outcome.
 
-[Learn more about it»](https://llsaboya.com/blog/leadership-delegation/)
+[Learn more about it»](/blog/leadership-delegation/)

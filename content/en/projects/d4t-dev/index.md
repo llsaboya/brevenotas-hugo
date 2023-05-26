@@ -1,7 +1,8 @@
 ---
-title: "Designing for Thinking"
+title: Designing for Thinking
 weight: 1
 project_timeframe: website, content curation
+lastmod: 2023-05-26T20:52:18.612Z
 ---
 
 Imagine having access to the latest trends, research, and best practices in instructional design, all in one place. That's what our project aims to achieve. We're building a digital garden, a website that serves as a repository of information and knowledge about instructional design in Portuguese.
@@ -16,4 +17,4 @@ We use tools like Hugo, Markdown, Git, GitHub/Netlify, Visual Studio Code, Googl
 
 We believe our project will be a valuable resource for the instructional design community in Brazil, allowing professionals to stay up-to-date with the latest trends and research and enhance their practices. Join us in this journey of continuous learning and growth.
 
-[Learn more about it»](https://llsaboya.com/blog/d4t-digital-garden-instructional-design/)
+[Learn more about it»](/blog/d4t-digital-garden-instructional-design/)

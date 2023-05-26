@@ -1,7 +1,8 @@
 ---
-title: "Liderança e Delegação"
+title: Liderança e Delegação
 weight: 2
 project_timeframe: cenários ramificados
+lastmod: 2023-05-26T20:54:56.721Z
 ---
 
 O projeto "Liderança e Delegação" de Lefebvre Saboya é uma iniciativa estratégica de design instrucional voltada para a melhoria das habilidades de delegação em liderança. O projeto enfatiza que a delegação não é apenas distribuição de tarefas, mas uma transferência de poder de uma autoridade superior para um subordinado.
@@ -17,4 +18,4 @@ A solução de design instrucional do projeto foi desenvolvida para ser acessív
 
 O projeto enfatiza a importância da experiência do usuário no design instrucional, observando que a usabilidade da plataforma pode impactar significativamente o resultado da aprendizagem.
 
-[Saiba mais sobre o projeto completo»](https://llsaboya.com/pt-br/blog/lideranca-delegacao/)
+[Saiba mais sobre o projeto completo»](/pt-br/blog/lideranca-delegacao/)
