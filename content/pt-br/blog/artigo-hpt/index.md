@@ -10,7 +10,8 @@ tags:
 slug: tecnologia-de-desempenho-humano-um-guia-para-melhoria-de-desempenho
 date: 2023-05-22T18:49:44.706Z
 hasMermaid: true
-lastmod: 2023-05-26T17:18:05.951Z
+mermaid: true
+lastmod: 2023-05-26T17:22:37.432Z
 ---
 
 {{< notice "info" >}} 
