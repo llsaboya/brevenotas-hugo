@@ -13,6 +13,8 @@ googleAnalytics                 = "G-K0RLV4G6MN"                     # https://g
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "hello@llsaboya.com"   # E-mail address for contact section
+    clarity                  = true                    # Use Clarity analytics (requires an account at Plausible.io)
+
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
