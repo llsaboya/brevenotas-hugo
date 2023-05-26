@@ -1,9 +1,7 @@
 ---
 title: Liderança e Delegação
-description: Experiência de eLearning baseada em cenários desenvolvida para praticar a
-  habilidade na delegação.
+description: Experiência de eLearning baseada em cenários desenvolvida para praticar a habilidade na delegação.
 date: 2022-08-15T23:50:15.174Z
-# image: /images/post/portfolio/slide-titulo.png
 tags:
   - Curso
   - Design Instrucional
@@ -12,10 +10,7 @@ tags:
 categories:
   - Portfolio
 slug: lideranca-delegacao
-type: featured
 layout: portifolio
-
-# education
 education:
   enable: true
   title: Informações técnicas
@@ -23,13 +18,9 @@ education:
     - name: Público
       content: Lideranças com poder decisório como diretores, gerentes e supervisores.
     - name: Responsabilidades
-      content: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de
-        conteúdo, desenvolvimento de do curso, desenvolvimento de design.
+      content: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de conteúdo, desenvolvimento de do curso, desenvolvimento de design.
     - name: Níveis de Interatividade
-      content: <b>Nível 3</b> - Inclui síntese e avaliação. Trabalha habilidades de
-        resolução de problemas e tomada de decisão.
-
-# experience
+      content: <b>Nível 3</b> - Inclui síntese e avaliação. Trabalha habilidades de resolução de problemas e tomada de decisão.
 experience:
   enable: true
   title: Ferramentas utilizadas
@@ -38,7 +29,7 @@ experience:
     - Powerpoint
     - Scrivener
     - Outliner
-lastmod: 2022-12-16T23:58:15.971Z
+lastmod: 2023-05-26T00:17:48.325Z
 ---
 {{< notice "note" >}}
 Esse cenário testa a capacidade das lideranças em identificar na equipe colegas com potencial para promoção e a habilidade na delegação de responsabilidades. Esse projeto foi criado com abordagens reais de liderança e delegação para uma empresa fictícia.  
@@ -48,7 +39,7 @@ Esse cenário testa a capacidade das lideranças em identificar na equipe colega
 - <b>Público</b>: Lideranças com poder decisório como diretores, gerentes e supervisores.
 - <b>Responsabilidades</b>: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de conteúdo, desenvolvimento de do curso, desenvolvimento de design.
 - <b>Níveis de Interatividade</b>: <b>Nível 3</b> - Inclui síntese e avaliação. Trabalha habilidades de resolução de problemas e tomada de decisão.
-- Ferramentas
+#### Ferramentas
   - Articulate Storyline
   - Powerpoint
   - Scrivener

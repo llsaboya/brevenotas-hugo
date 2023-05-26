@@ -1,9 +1,7 @@
 ---
 title: Leadership and Delegation
-description: This scenario tests the ability of leaders to find colleagues with potential
-  for promotion and the ability to delegation responsibilities in the team.
+description: This scenario tests the ability of leaders to find colleagues with potential for promotion and the ability to delegation responsibilities in the team.
 date: 2022-12-15T23:50:15.174Z
-# image: images/post/portfolio/slide-titulo.png
 tags:
   - Scenario based eLearning
   - Instructional Design
@@ -13,33 +11,7 @@ tags:
 categories:
   - Portfolio
 slug: leadership-delegation
-type: featured
-layout: portifolio
-
-# education
-education:
-  enable: true
-  title: Informações técnicas
-  education_list:
-    - name: Público
-      content: Lideranças com poder decisório como diretores, gerentes e supervisores.
-    - name: Responsabilidades
-      content: Análise de necessidades, pesquisa de conteúdo com SMEs, revisão de
-        conteúdo, desenvolvimento de do curso, desenvolvimento de design.
-    - name: Níveis de Interatividade
-      content: <b>Nível 3</b> - Inclui síntese e avaliação. Trabalha habilidades de
-        resolução de problemas e tomada de decisão.
-
-# experience
-experience:
-  enable: true
-  title: Ferramentas utilizadas
-  experience_list:
-    - Articulate Storyline
-    - Powerpoint
-    - Scrivener
-    - Outliner
-lastmod: 2022-12-16T23:58:15.967Z
+lastmod: 2023-05-26T00:17:48.310Z
 ---
 
 {{< notice "note" >}}
@@ -55,12 +27,11 @@ This scenario tests the ability of leaders to find colleagues with potential for
 
 #### Levels of Interactivity
 - **Level 3** - Includes synthesis and evaluation. Works problem-solving and decision-making skills. 
-- Tools"
+# Tools
   - Articulate Storyline
   - Powerpoint
   - Scrivener
-  - Outliner
-{{< /notice >}}
+  - Outliner{{< /notice >}}
 
 [Try the project](/portfolio/demo-delegacao/story.html)
 

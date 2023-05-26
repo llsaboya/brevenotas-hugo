@@ -10,7 +10,7 @@ tags:
 categories:
   - Portfolio
 slug: instructional-design-entrepreneurs
-type: featured
+
 lastmod: 2022-12-18T20:33:33.991Z
 ---
 

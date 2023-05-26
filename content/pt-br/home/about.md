@@ -12,4 +12,6 @@ Meu nome é Lefebvre Saboya. Sou um experiente Especialista em Design Instrucion
 - Compromisso em entregar soluções de treinamento eficientes e inovadoras.
 - Um aprendiz ao longo da vida com estudos de pós-graduação em Design Instrucional e inúmeras certificações.
 
+Obtenha insights sobre minha especialização e experiência explorando [meu perfil e currículo](https://llsaboya.com/pt-br/blog/about-me/).
+
 Procurando por soluções eficazes para desenvolver as habilidades e conhecimentos da sua equipe? [Vamos trabalhar juntos](#contact) para criar um plano de ação personalizado que atenda aos seus objetivos de negócios.

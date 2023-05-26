@@ -2,7 +2,6 @@
 title: D4T - A Digital Garden of Instructional Design
 description: Discover the latest trends, research, and practices in instructional design. Our digital garden provides a curated collection of information and resources for educators and instructional designers.
 date: 2023-05-02T19:02:36.046Z
-# image: /images/post/portfolio/d4t-us.png
 tags:
   - Hugo
   - Digital Garden
@@ -11,13 +10,12 @@ tags:
 categories:
   - Portfolio
 slug: d4t-digital-garden-instructional-design
-type: featured
 layout: portifolio
+lastmod: 2023-05-26T00:17:48.320Z
 ---
 
 {{< notice "note" >}}
-The main goal of the website is to disseminate new ideas and serve as a repository of information about instructional design in Portuguese. The website should allow easy access and navigation of information, as well as present content in an organic and interconnected way.
-{{< /notice >}}
+The main goal of the website is to disseminate new ideas and serve as a repository of information about instructional design in Portuguese. The website should allow easy access and navigation of information, as well as present content in an organic and interconnected way.{{< /notice >}}
 
 {{< notice "info" >}} 
 - **Objective**: To disseminate ideas and information about instructional design.
@@ -26,7 +24,7 @@ The main goal of the website is to disseminate new ideas and serve as a reposito
 - **Format**: Digital Garden, with interconnected content.
 - **Platform**: Website developed with Hugo.
 - **Language**: Portuguese and English.
- - Tools
+#### Tools
   - **Hugo**: To build and manage the website.
   - **Markdown**: To write and format website content.
   - **Git**: For version control and collaboration.
@@ -35,8 +33,7 @@ The main goal of the website is to disseminate new ideas and serve as a reposito
   - **Canva**: To create graphics and images for the website, such as banners, thumbnails, infographics, etc.
   - **Slack**: For real-time communication and collaboration with the team.
   - **Google Docs**: For collaboration on documents and content planning.
-  - **Feedly**: To follow relevant blogs and websites and stay up-to-date with the latest trends and research in instructional design.
-{{< /notice >}}
+  - **Feedly**: To follow relevant blogs and websites and stay up-to-date with the latest trends and research in instructional design.{{< /notice >}}
 
 
 [Visit the site](https://d4t.dev)

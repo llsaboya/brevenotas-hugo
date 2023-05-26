@@ -1,8 +1,6 @@
 ---
 title: Tradução de Guia de escrita, por Jordan Peterson
-# image: /images/post/jordan-peterson-writing-guide.jpeg
-description: Como escrever um ensaio, a menos que você queira continuar sendo um ignorante
-  e sem substância, aprenda a escrever.
+description: Como escrever um ensaio, a menos que você queira continuar sendo um ignorante e sem substância, aprenda a escrever.
 tags:
   - Ensaios
   - Jordan Peterson
@@ -15,11 +13,10 @@ aliases:
   - /p/traducao-guia-de-escrita-por-jordan-peterson/
 slug: traducao-guia-de-escrita-por-jordan-peterson
 date: 2021-12-17T18:19:25+06:00
-type: featured
 categories:
   - Cultura
   - Portfolio
-lastmod: 2022-12-16T21:55:10.549Z
+lastmod: 2023-05-26T00:17:48.330Z
 ---
 
 **Nota do tradutor**: A versão original está no site do [Jordan Peterson](https://www.jordanbpeterson.com/) (clique em *Online Exercises* e depois clique em *Writing Guide*). Essa não é uma tradução juramentada chata e tediosa, portanto há adaptações para a melhor compreensão do leitor (o que ainda deveria ser normal em traduções, mas já não o é). Entretanto, não mudei as referências de formatação (então, se você faz faculdade no Brasil, deve saber ABNT). Se quiser, baixe o [modelo em Word](/goodies/Ensaio-Jordan-Peterson.docx) ou a [versão em PDF](/goodies/Como-Escrever-Ensaios-Jordan-Peterson.pdf). Para saber mais de como isso funciona e o motivo da tradução existir, clique aqui.

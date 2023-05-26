@@ -1,7 +1,6 @@
 ---
 title: DI para Empreendedores e Empresários
-description: Interação sobre Design Instrucional para empresários e empreendedores que
-  buscam implantar essa solução nas suas empresas.
+description: Interação sobre Design Instrucional para empresários e empreendedores que buscam implantar essa solução nas suas empresas.
 date: 2022-08-14T23:50:34.611Z
 # image: images/post/portfolio/rise-1.jpeg
 tags:
@@ -12,30 +11,6 @@ tags:
 categories:
   - Portfolio
 slug: di-para-empreendedores-empresarios
-
-# education
-education:
-  enable: true
-  title: Informações técnicas
-  education_list:
-    - name: Público
-      content: Empreendedores e empresários.
-    - name: Responsabilidades
-      content: Análise de necessidades, revisão de conteúdo, desenvolvimento de do
-        curso, desenvolvimento de design.
-    - name: Níveis de Interatividade
-      content: <b>Nível 1</b> - Cliques em interatividades, que carregam o conteúdo ou
-        navegam através de slides para conhecimento e compreensão.
-
-# experience
-experience:
-  enable: true
-  title: Ferramentas utilizadas
-  experience_list:
-    - Articulate Rise 360
-    - Obsidian
-    - Scrivener
-    - Outliner
 lastmod: 2022-12-16T23:58:15.963Z
 ---
 

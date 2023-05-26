@@ -16,4 +16,4 @@ O projeto segue um processo que inclui:
 
 O projeto conclui com uma reflexão sobre a experiência única de criar um projeto que se equilibra na fronteira entre aprendizado e marketing de conteúdo. Ele enfatiza o poder do Articulate Rise 360 como uma ferramenta de desenvolvimento, a importância da pesquisa de conteúdo, o desafio dos prazos de desenvolvimento e a significância da experiência do usuário no design instrucional.
 
-[Confira o projeto completo aqui ➡️]()
+[Saiba mais sobre o projeto completo»](https://llsaboya.com/pt-br/blog/di-para-empreendedores-empresarios/)

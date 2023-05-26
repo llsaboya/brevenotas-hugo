@@ -11,7 +11,6 @@ tags:
 categories:
   - Portfolio
 slug: d4t-um-jardim-digital-de-design-instrucional
-type: featured
 layout: portifolio
 ---
 
@@ -26,8 +25,8 @@ O objetivo principal do site é disseminar novas ideias e servir como um reposit
 - **Formato**: Digital Garden, com conteúdo interconectado.
 - **Plataforma**: Site desenvolvido com o Hugo.
 - **Idioma**: Português e Inglês.
-- Ferramentas
-  - **Hugo**: Para construir e gerenciar o site.
+#### Ferramentas
+- **Hugo**: Para construir e gerenciar o site.
 - **Markdown** : Para escrever e formatar o conteúdo do site.
 - **Git**: Para controle de versão e colaboração.
 - **GitHub**: Para hospedagem do site.

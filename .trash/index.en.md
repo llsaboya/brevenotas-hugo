@@ -11,7 +11,7 @@ tags:
 categories:
   - Portfolio
 slug: d4t-digital-garden-instructional-design
-type: featured
+
 layout: portifolio
 ---
 

@@ -1,17 +1,14 @@
 ---
 title: Instructional Design for Entrepreneurs
-description: Interaction on Instructional Design for owners and entrepreneurs who seek to
-  implement this solution in their companies.
+description: Interaction on Instructional Design for owners and entrepreneurs who seek to implement this solution in their companies.
 date: 2022-08-14T23:50:34.611Z
-# image: /images/post/portfolio/rise-1.jpeg
 tags:
   - Instructional Design
   - Articulate Rise 360
 categories:
   - Portfolio
 slug: instructional-design-entrepreneurs
-type: featured
-lastmod: 2022-12-18T20:33:33.991Z
+lastmod: 2023-05-26T00:17:48.318Z
 ---
 
 {{< notice "info" >}} 

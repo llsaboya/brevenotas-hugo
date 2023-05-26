@@ -17,4 +17,4 @@ The project's instructional design solution was developed to be accessible on bo
 
 The project emphasizes the importance of user experience in instructional design, noting that the platform's usability can significantly impact the learning outcome.
 
-[➡️ Check out the complete project here]()
+[Learn more about it»](https://llsaboya.com/blog/leadership-delegation/)

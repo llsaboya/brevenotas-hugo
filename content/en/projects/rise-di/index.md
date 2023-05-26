@@ -16,4 +16,4 @@ The project follows a process that includes:
 
 The project concludes with a reflection on the unique experience of creating a project that straddles the boundary between learning and content marketing. It emphasizes the power of Articulate Rise 360 as a development tool, the importance of content research, the challenge of development deadlines, and the significance of user experience in instructional design.
 
-[➡️ Check out the complete project here]()
+[Learn more about it»](https://llsaboya.com/blog/instructional-design-entrepreneurs/)

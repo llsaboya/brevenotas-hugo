@@ -16,4 +16,4 @@ We use tools like Hugo, Markdown, Git, GitHub/Netlify, Visual Studio Code, Googl
 
 We believe our project will be a valuable resource for the instructional design community in Brazil, allowing professionals to stay up-to-date with the latest trends and research and enhance their practices. Join us in this journey of continuous learning and growth.
 
-[➡️ Check out the complete project here]()
+[Learn more about it»](https://llsaboya.com/blog/d4t-digital-garden-instructional-design/)

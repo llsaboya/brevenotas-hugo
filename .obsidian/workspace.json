@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "059b76f93910cc96",
+            "id": "dd732b16d582922d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/portugues/blog/artigo-hpt/index.md",
+                "file": "content/pt-br/blog/artigo-hpt/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/portugues/blog/artigo-hpt/index.md",
+                "file": "content/pt-br/blog/artigo-hpt/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/portugues/blog/artigo-hpt/index.md",
+                "file": "content/pt-br/blog/artigo-hpt/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/portugues/blog/artigo-hpt/index.md"
+                "file": "content/pt-br/blog/artigo-hpt/index.md"
               }
             }
           },
@@ -165,20 +165,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "059b76f93910cc96",
+  "active": "dd732b16d582922d",
   "lastOpenFiles": [
+    "content/pt-br/blog/portfolio-lideranca/index.md",
+    "content/pt-br/blog/portfolio-di-para-empresarios/index.md",
+    "content/pt-br/blog/portfolio-d4t-site/index.md",
+    "content/en/blog/portfolio-d4t-site/index.en.md",
+    "content/en/blog/portfolio-di-para-empresarios/index.en.md",
+    "content/en/blog/portfolio-lideranca/index.en.md",
+    "content/en/blog/coffee-ipsum/index.md",
+    "content/pt-br/blog/portfolio-lideranca/index.en.md",
+    "content/pt-br/blog/portfolio-di-para-empresarios/index.en.md",
+    "content/pt-br/blog/portfolio-d4t-site/index.en.md",
+    "content/pt-br/projects/d4t-dev/index.md",
+    "content/pt-br/projects/Leadership-and-Delegation/index.md",
+    "content/pt-br/projects/rise-di/index.md",
+    "content/pt-br/projects/_index.md",
+    "content/en/projects/d4t-dev/index.md",
+    "content/pt-br/home/about.md",
+    "content/en/home/about.md",
+    "content/en/projects/Leadership-and-Delegation/index.md",
+    "content/en/projects/rise-di/index.md",
+    "content/en/projects/_index.md",
+    "content/en/home/what-i-do-hp.md",
+    "content/en/home/index.md",
+    "content/pt-br/home/what-i-do-hp.md",
     "content/portugues/blog/artigo-dale-carnegie/index.md",
     "content/portugues/blog/artigo-hpt/index.md",
     "Kanban.md",
-    "content/portugues/element.md",
-    "content/portugues/blog/artigo-consultoria-interna/index.md",
     "assets/images/post/consultoria-interna.png",
     "content/portugues/blog/artigo-dale-carnegie/Dale-Carnegie-1920x1080.jpg",
     "content/portugues/blog/artigo-consultoria-interna",
     "assets/images/banner.jpg",
-    "content/portugues/blog/portfolio-lideranca/index.md",
-    "content/portugues/blog/portfolio-d4t-site/index.md",
-    "content/portugues/blog/portfolio-d4t-site/index.en.md",
     "content/portugues/blog/portfolio-d4t-site/903shots_so.png",
     "content/portugues/blog/portfolio-d4t-site/423shots_so.png",
     "content/portugues/blog/portfolio-d4t-site/125shots_so.png",
@@ -186,24 +204,6 @@
     "content/portugues/blog/portfolio-d4t-site/109shots_so.png",
     "content/portugues/blog/portfolio-d4t-site/314shots_so.png",
     "content/portugues/blog/portfolio-d4t-site/921shots_so.png",
-    "content/portugues/blog/review-breaking-bag-habits/index.md",
-    "content/portugues/blog/portfolio-d4t-site",
-    "content/english/blog/Untitled.md",
-    "content/portugues/blog/notas/treinamento-e-desenvolvimento-com-0-d4t.md",
-    "content/portugues/blog/portfolio-di-para-empresarios/index.en.md",
-    "content/portugues/blog/notas/2021-05-15-scrum-manifesto.md",
-    "content/portugues/blog/notas/2021-07-03-5-canais-youtube-para-acompanhar-e-aprender.md",
-    "content/portugues/blog/notas/2021-09-09-robots.md",
-    "content/portugues/blog/notas/di-as-5-areas-do-design-instrucional.md",
-    "content/portugues/blog/notas/2022-01-23-um-follow-up-sobre-linux.md",
-    "content/portugues/blog/notas/di-o-que-e-addie.md",
-    "content/portugues/blog/notas/di-o-que-e-sam.md",
-    "content/portugues/blog/portfolio-di-para-empresarios/index.md",
-    "content/english/_index.md",
-    "content/portugues/services.md",
-    "content/english/services.md",
-    "content/english/about.md",
-    "content/portugues/about.md",
-    "content/portugues/search.md"
+    "content/portugues/blog/portfolio-d4t-site"
   ]
 }

@@ -13,7 +13,7 @@ tags:
 categories:
   - Portfolio
 slug: leadership-delegation
-type: featured
+
 layout: portifolio
 
 # education

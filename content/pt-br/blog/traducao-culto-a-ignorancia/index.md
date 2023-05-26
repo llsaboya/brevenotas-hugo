@@ -1,7 +1,6 @@
 ---
 title: Tradução de Um Culto da Ignorância, por Isaac Asimov
-description: O Direito de Saber da América é um slogan vazio quando dificilmente alguém é
-  capaz ler.
+description: O Direito de Saber da América é um slogan vazio quando dificilmente alguém é capaz ler.
 tags:
   - Isaac Asimov
   - Um culto da ignorância
@@ -10,17 +9,15 @@ aliases:
   - /post/2021_12_11_um-culto-a-ignorancia/
   - /blog/traducao-de-um-culto-da-ignorancia-por-isaac-asimov/
   - /p/traducao-de-um-culto-da-ignorancia-por-isaac-asimov/
-# image: /images/post/isaac-asimov.jpg
 timeToRead: 8
 authors:
   - Lefebvre Saboya
 date: 2020-12-14T18:19:25+06:00
-type: featured
 slug: traducao-de-um-culto-da-ignorancia-por-isaac-asimov
 categories:
   - Cultura
   - Portfolio
-lastmod: 2022-12-16T21:52:39.995Z
+lastmod: 2023-05-26T00:17:48.334Z
 ---
 
 {{< youtube muRAVsJ03XI >}}

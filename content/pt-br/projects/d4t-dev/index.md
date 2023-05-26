@@ -16,4 +16,4 @@ Utilizamos ferramentas como Hugo, Markdown, Git, GitHub/Netlify, Visual Studio C
 
 Acreditamos que nosso projeto será um recurso valioso para a comunidade de design instrucional no Brasil, permitindo que os profissionais se mantenham atualizados com as últimas tendências e pesquisas e aprimorem suas práticas. Junte-se a nós nessa jornada de aprendizado contínuo e crescimento.
 
-[Confira o projeto completo aqui ➡️]()
+[Saiba mais sobre o projeto completo»](https://llsaboya.com/pt-br/blog/d4t-um-jardim-digital-de-design-instrucional/)

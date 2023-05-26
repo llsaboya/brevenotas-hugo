@@ -17,6 +17,4 @@ A solução de design instrucional do projeto foi desenvolvida para ser acessív
 
 O projeto enfatiza a importância da experiência do usuário no design instrucional, observando que a usabilidade da plataforma pode impactar significativamente o resultado da aprendizagem.
 
-➡️ Check out the complete project here
-
-[Confira o projeto completo aqui ➡️]()
+[Saiba mais sobre o projeto completo»](https://llsaboya.com/pt-br/blog/lideranca-delegacao/)
