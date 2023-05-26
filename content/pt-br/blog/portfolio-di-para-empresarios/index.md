@@ -10,7 +10,7 @@ tags:
 categories:
   - Portfolio
 slug: di-para-empreendedores-empresarios
-lastmod: 2023-05-26T20:57:57.998Z
+lastmod: 2023-05-26T21:09:25.572Z
 ---
 
 ## Visão geral 
@@ -21,7 +21,7 @@ Entrevistas com empresários e empreendedores mostraram que eles achavam contrad
 
 Empresas de design instrucional utilizam várias estratégias de marketing e vendas. Uma das principais é o *Lead Nurturing* (fazer com que a lead adquira conhecimento e interaja mais com sua marca). Mesmo que o design instrucional exista desde os anos 50, "educar o cliente" sobre as características do design instrucional, os cenários de aplicação e fronteiras de atuação ainda é o foco do mercado brasileiro.
 
-[Experimente o projeto completo](../portfolio/di-para-empreendedores/index.html)
+[Experimente o projeto completo](https://llsaboya.com/portfolio/di-para-empreendedores/index.html)
 
 ## Processo 
 

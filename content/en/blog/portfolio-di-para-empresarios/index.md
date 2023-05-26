@@ -8,7 +8,7 @@ tags:
 categories:
   - Portfolio
 slug: instructional-design-entrepreneurs
-lastmod: 2023-05-26T20:58:10.412Z
+lastmod: 2023-05-26T21:10:42.535Z
 ---
 
 {{< notice "info" >}} 
@@ -27,8 +27,7 @@ lastmod: 2023-05-26T20:58:10.412Z
   - Outliner 
 {{< /notice >}}
 
-[Try the project](../portfolio/di-para-empreendedores/index.html)
-
+[Try the project](https://llsaboya.com/portfolio/di-para-empreendedores/index.html)
 
 ## Overview:
 
