@@ -17,11 +17,11 @@ Sou especialista em design instrucional, um processo que envolve identificar as 
 
 ## Análise de Tarefas e Aprendizagem Baseada em Desempenho
 
-Utilizo a aprendizagem baseada em desempenho, um conceito defendido por Guy Wallace, que se tornou uma abordagem essencial para alcançar resultados tangíveis em treinamento e desenvolvimento. Essa metodologia concentra-se em alinhar o conteúdo das soluções de aprendizagem com as tarefas realizadas pelos profissionais e os resultados de desempenho desejados pela empresa. Também realizo análise de tarefas, que envolve desmembrar uma tarefa complexa em sub tarefas menores e gerenciáveis que podem ser instruídas e aprendidas separadamente. Isso serve como base para o desenvolvimento de currículos, pois ajuda a definir as tarefas específicas que o aprendiz deve ser capaz de realizar ao concluir o programa de treinamento.
+Utilizo a aprendizagem baseada em desempenho, que se tornou uma abordagem essencial para alcançar resultados tangíveis em treinamento e desenvolvimento. Essa metodologia concentra-se em alinhar o conteúdo das soluções de aprendizagem com as tarefas realizadas pelos profissionais e os resultados de desempenho desejados pela empresa. Também realizo análise de tarefas, que envolve desmembrar uma tarefa complexa em sub tarefas menores e gerenciáveis que podem ser instruídas e aprendidas separadamente. Isso serve como base para o desenvolvimento de currículos, pois ajuda a definir as tarefas específicas que o aprendiz deve ser capaz de realizar ao concluir o programa de treinamento.
 
 ## Mapeamento de Lições Baseado em Desempenho
 
-Utilizo o mapeamento de lições baseado em desempenho, um conceito originalmente formulado por Guy Wallace. Esse conceito se baseia em dois princípios fundamentais: "Informação, demonstração e aplicação" (info-demo-aplicação) e "Aplicação, demonstração e informação" (aplicação-demo-info). Essa abordagem gira em torno da análise e dos dados de design, concentrando-se na determinação das saídas de desempenho, compreensão das tarefas realizadas e identificação dos conhecimentos e habilidades necessários.
+Utilizo o mapeamento de lições baseado em desempenho, um conceito originalmente formulado por Guy Wallace. [Esse conceito se baseia em dois princípios fundamentais](https://d4t.dev/notes/Design-instrucional/mapeamento-de-licoes-baseado-em-desempenho): "Informação, demonstração e aplicação" (info-demo-aplicação) e "Aplicação, demonstração e informação" (aplicação-demo-info). Essa abordagem gira em torno da análise e dos dados de design, concentrando-se na determinação das saídas de desempenho, compreensão das tarefas realizadas e identificação dos conhecimentos e habilidades necessários.
 
 ## Estratégias de Vinculação para Conteúdo Instrucional
 

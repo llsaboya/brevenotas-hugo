@@ -6,7 +6,7 @@ tags: ["markdown", "features"]
 
 ## Transforming Performance Through Learning
 
-I am a professional in the field of Human Performance Technology (HPT), an integrated systems approach to improving human performance. Drawing from various disciplines including psychology, instructional design, organizational development, and human resources, I help organizations optimize their performance by aligning their systems, processes, and culture with the skills and knowledge of their individuals.
+I am a professional in the field of instructional design, an integrated systems approach to improving human performance. Drawing from various disciplines including management, instructional design, organizational development, and human resources, I help organizations optimize their performance by aligning their systems, processes, and culture with the skills and knowledge of their individuals.
 
 ## Instructional Design and Content Analysis
 
@@ -14,7 +14,7 @@ I specialize in instructional design, a process that involves identifying the le
 
 ## Task Analysis and Performance-Based Learning
 
-I employ performance-based learning, a concept advocated by Guy Wallace, which has emerged as an essential approach to achieving tangible results in training and development. This methodology focuses on aligning the content of learning solutions with the tasks performed by professionals and the objective performance outcomes desired by a company. I also conduct task analysis, which involves dissecting a complex task into smaller, manageable sub-tasks that can be instructed and learned separately. This forms the basis of curriculum development, as it helps define the specific tasks that a learner should be able to perform upon completion of the training program.
+I employ performance-based learning,, which has emerged as an essential approach to achieving tangible results in training and development. This methodology focuses on aligning the content of learning solutions with the tasks performed by professionals and the objective performance outcomes desired by a company. I also conduct task analysis, which involves dissecting a complex task into smaller, manageable sub-tasks that can be instructed and learned separately. This forms the basis of curriculum development, as it helps define the specific tasks that a learner should be able to perform upon completion of the training program.
 
 ## Performance-Based Lesson Mapping
 

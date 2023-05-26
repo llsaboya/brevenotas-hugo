@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt-br/projects/livro-made/index.md",
+                "file": "content/pt-br/blog/about-me.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/pt-br/projects/livro-made/index.md",
+                "file": "content/pt-br/blog/about-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/pt-br/projects/livro-made/index.md",
+                "file": "content/pt-br/blog/about-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/pt-br/projects/livro-made/index.md"
+                "file": "content/pt-br/blog/about-me.md"
               }
             }
           },
@@ -167,8 +167,16 @@
   },
   "active": "dd732b16d582922d",
   "lastOpenFiles": [
-    "content/pt-br/blog/artigo-hpt/index.md",
+    "content/pt-br/blog/what-I-do.md",
+    "content/pt-br/blog/hipser-ipsum.md",
+    "content/pt-br/blog/startup-ipsum.md",
+    "content/en/blog/about-me.md",
+    "content/en/blog/what-I-do.md",
+    "content/en/home/what-i-do-hp.md",
+    "content/en/home/about.md",
+    "content/pt-br/home/about.md",
     "content/pt-br/projects/livro-made/index.md",
+    "content/pt-br/blog/artigo-hpt/index.md",
     "content/pt-br/projects/livro-atendimento-bancario/index.md",
     "content/pt-br/projects/livro-atendimento-bancario/atendimento-portifolio.png",
     "content/pt-br/projects/livro-atendimento-bancario/plant.jpg",
@@ -200,13 +208,6 @@
     "content/en/blog/coffee-ipsum/index.md",
     "content/pt-br/blog/portfolio-lideranca/index.en.md",
     "content/pt-br/blog/portfolio-di-para-empresarios/index.en.md",
-    "content/pt-br/blog/portfolio-d4t-site/index.en.md",
-    "content/pt-br/projects/_index.md",
-    "content/en/projects/d4t-dev/index.md",
-    "content/pt-br/home/about.md",
-    "content/en/home/about.md",
-    "content/en/projects/Leadership-and-Delegation/index.md",
-    "content/en/projects/rise-di/index.md",
     "content/portugues/blog/artigo-consultoria-interna",
     "content/portugues/blog/portfolio-d4t-site"
   ]
