@@ -1,12 +1,15 @@
 ---
-title: "O que eu faço"
+title: O que eu faço
 date: 2023-03-03T12:04:06-05:00
-tags: ["markdown", "features"]
+tags:
+  - markdown
+  - features
+lastmod: 2023-05-26T05:45:17.945Z
 ---
 
 ## Transformando o Desempenho por meio do Design Instrucional
 
-Sou um profissional na área de Tecnologia de Desempenho Humano (TDH), uma abordagem de sistemas integrados para melhorar o desempenho humano. Com base em diversas disciplinas, incluindo psicologia, design instrucional, desenvolvimento organizacional e recursos humanos, ajudo as organizações a otimizar seu desempenho alinhando seus sistemas, processos e cultura com as habilidades e conhecimentos de seus colaboradores.
+Sou um designer instrucional que usa uma abordagem de sistemas integrados para melhorar o desempenho humano. Com base em diversas disciplinas, incluindo gestão de processos, design instrucional, desenvolvimento organizacional e recursos humanos, ajudo as organizações a otimizar seu desempenho alinhando seus sistemas, processos e cultura com as habilidades e conhecimentos de seus colaboradores.
 
 ## Design Instrucional e Análise de Conteúdo
 
