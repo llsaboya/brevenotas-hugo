@@ -1,7 +1,6 @@
 ---
 title: Tecnologia de Desempenho Humano - Um Guia para Melhoria de Desempenho
 description: Um guia abrangente que explora os princípios, metodologias e aplicações da Tecnologia de Desempenho Humano (HPT) para melhorar o desempenho nas organizações.
-# image: images/post/rummler.png
 tags:
   - HPT
   - Desempenho Humano
@@ -10,6 +9,8 @@ tags:
   - Geary A. Rummler
 slug: tecnologia-de-desempenho-humano-um-guia-para-melhoria-de-desempenho
 date: 2023-05-22T18:49:44.706Z
+hasMermaid: true
+lastmod: 2023-05-26T17:18:05.951Z
 ---
 
 {{< notice "info" >}} 
