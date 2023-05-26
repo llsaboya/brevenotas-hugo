@@ -1,6 +1,6 @@
 ---
 title: "DI para Empreendedores"
-weight: 3
+weight: 4
 project_timeframe: articulate rise
 ---
 
