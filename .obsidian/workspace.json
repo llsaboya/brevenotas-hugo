@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt-br/home/contact.md",
+                "file": "content/pt-br/blog/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 662.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/pt-br/home/contact.md",
+                "file": "content/pt-br/blog/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/pt-br/home/contact.md",
+                "file": "content/pt-br/blog/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/pt-br/home/contact.md"
+                "file": "content/pt-br/blog/_index.md"
               }
             }
           },
@@ -167,18 +167,19 @@
   },
   "active": "dd732b16d582922d",
   "lastOpenFiles": [
+    "content/en/blog/_index.md",
+    "content/en/blog/about-me.md",
+    "content/pt-br/blog/_index.md",
+    "content/pt-br/home/contact.md",
     "content/pt-br/home/index.md",
     "content/pt-br/home/perfil-bw-s.png",
     "content/pt-br/home/what-i-do-hp.md",
     "content/pt-br/home/about.md",
-    "content/pt-br/home/contact.md",
-    "content/pt-br/blog/_index.md",
     "content/pt-br/blog/about-me.md",
     "content/pt-br/blog/what-I-do.md",
     "content/en/projects/rise-di/index.md",
     "content/en/projects/_index.md",
     "content/en/blog/what-I-do.md",
-    "content/en/blog/about-me.md",
     "content/en/blog/long-form-post.md",
     "content/en/blog/multi-author.md",
     "content/en/blog/no-date.md",
@@ -204,7 +205,6 @@
     "resources/_gen/images/projects/livro-made",
     "content/pt-br/projects/rise-di/index.md",
     "content/pt-br/projects/d4t-dev/index.md",
-    "content/pt-br/projects/Leadership-and-Delegation/index.md",
     "content/pt-br/projects/livro-made",
     "content/pt-br/projects/design",
     "content/pt-br/projects/livro-atendimento-bancario",
