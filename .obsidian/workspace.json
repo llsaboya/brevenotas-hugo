@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt-br/blog/_index.md",
+                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6db7dc346fd0f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/pt-br/blog/artigo-dale-carnegie/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662.5
+    "width": 662.5,
+    "collapsed": true
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/pt-br/blog/_index.md",
+                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/pt-br/blog/_index.md",
+                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/pt-br/blog/_index.md"
+                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md"
               }
             }
           },
@@ -167,9 +180,11 @@
   },
   "active": "dd732b16d582922d",
   "lastOpenFiles": [
+    "content/pt-br/blog/artigo-dale-carnegie/index.md",
+    "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
+    "content/pt-br/blog/_index.md",
     "content/en/blog/_index.md",
     "content/en/blog/about-me.md",
-    "content/pt-br/blog/_index.md",
     "content/pt-br/home/contact.md",
     "content/pt-br/home/index.md",
     "content/pt-br/home/perfil-bw-s.png",
@@ -203,8 +218,6 @@
     "resources/_gen/images/projects/livro-atendimento-bancario/atendimento-portifolio_huef33ea49aa32bcea4cac157028c8df24_93120_302x0_resize_box_3.png",
     "resources/_gen/images/projects/livro-atendimento-bancario",
     "resources/_gen/images/projects/livro-made",
-    "content/pt-br/projects/rise-di/index.md",
-    "content/pt-br/projects/d4t-dev/index.md",
     "content/pt-br/projects/livro-made",
     "content/pt-br/projects/design",
     "content/pt-br/projects/livro-atendimento-bancario",
