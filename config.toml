@@ -2,7 +2,7 @@ baseURL                          = "https://llsaboya.com/"   # Your domain name.
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-googleAnalytics                 = "G-K0RLV4G6MN"                     # https://gohugo.io/templates/internal/#google-analytics
+googleAnalytics                 = "G-QCBBBB24SG"                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
