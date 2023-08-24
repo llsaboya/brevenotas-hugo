@@ -3,10 +3,7 @@
   "attachmentFolderPath": "assets/images/post",
   "promptDelete": false,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "pt-BR",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "pdfExportSettings": {

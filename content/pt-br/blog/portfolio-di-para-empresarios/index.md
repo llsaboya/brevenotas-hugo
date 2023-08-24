@@ -62,7 +62,7 @@ Usamos a **sequência motivacional de Moore** para organizar os tópicos do curs
 - **Visualização**: Imaginar dramaticamente os benefícios a serem obtidos. Isso criará um desejo se você usar motivações e emoções do próprio público.
 - **Ação**: Peça uma decisão ou ação definitiva.
 
-{{< figure  title="Estrutura inicial dos tópicos" class="img-fluid rounded-6" src="images/post/portfolio/rise-estrutura.jpeg" alt="Estrutura inicial dos tópicos" >}}
+{{< figure  title="Estrutura inicial dos tópicos" class="img-fluid rounded-6" src="rise-estrutura.jpeg" alt="Estrutura inicial dos tópicos" >}}
 
 Os elementos interativos são importantes em qualquer curso e representou um desafio no projeto. O foco em conhecimento e compreensão do público-alvo exigia maior fluidez do conteúdo. 
 
@@ -72,7 +72,7 @@ Por exemplo, utilizamos interatividades *clique-a-revelar*, que costumavam ser c
 
 O **Rise 360** é uma ferramenta de autoria ágil e já traz consigo vários elementos de animação, o que deixa o visual mais dinâmico - ao contrário da monotonia de ler uma apresentação em Powerpoint, por exemplo.
 
-{{< figure  title="Flashcards" class="img-fluid rounded-6" src="images/post/portfolio/rise-flashcard.jpeg" alt="Flashcards" >}}
+{{< figure  title="Flashcards" class="img-fluid rounded-6" src="rise-flashcard.jpeg" alt="Flashcards" >}}
 
 Recebemos na fase final o feedback de que parte do conteúdo escrito poderia ser adaptado para vídeos ou animações. Para validar essa mudança criamos vídeos usando o **Text-to-Speech (síntese de fala realista)**. Nos surpreendemos com a reação positiva à ferramenta. Embora não substitua a narração profissional nas versões finais do projeto, é um recurso importante quando usado de forma inteligente.
 
@@ -83,7 +83,7 @@ Recebemos na fase final o feedback de que parte do conteúdo escrito poderia ser
 - **Storytelling:** Transformamos o conteúdo informacional em uma jornada contada com o olhar de empreendedores e empresários. Utilizamos técnicas acionáveis do **[Derek Gaunt](https://www.amazon.com.br/Ego-Authority-Failure-Intelligence-Negotiator-ebook/dp/B09TMVPYSY/)** de *influência baseada em confiança* que poderá motivar e inspirar o participante.
 - **Text-to-Speech: síntese de fala realista**: usamos o recurso durante a fase de criação de vídeos. Embora o *text-to-speech* não substitua a narração profissional, ele é uma ótima ferramenta para a prototipagem rápida e validação de conceitos. 
 
-{{< figure  title="Navegação inicial" class="img-fluid rounded-6" src="images/post/portfolio/rise-3.jpeg" alt="Navegação inicial" >}}
+{{< figure  title="Navegação inicial" class="img-fluid rounded-6" src="rise-3.jpeg" alt="Navegação inicial" >}}
 
 ## **Reflexão final** 
 

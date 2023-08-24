@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "03fa3020e95d7198",
+        "id": "fc56d17587df8d7c",
         "type": "tabs",
         "children": [
           {
-            "id": "dd732b16d582922d",
+            "id": "8e76edbe63b737fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
+                "file": "content/en/blog/portfolio-di-para-empresarios/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58cc2745fec9e73b",
+            "id": "af0147155f1c27da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pt-br/blog/artigo-dale-carnegie/index.md",
+                "file": "content/pt-br/blog/portfolio-d4t-site/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662.5
+    "width": 235.5
   },
   "right": {
     "id": "59a55579d061d64b",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
+                "file": "content/pt-br/blog/portfolio-d4t-site/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
+                "file": "content/pt-br/blog/portfolio-d4t-site/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md"
+                "file": "content/pt-br/blog/portfolio-d4t-site/index.md"
               }
             }
           },
@@ -177,9 +178,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd732b16d582922d",
+  "active": "af0147155f1c27da",
   "lastOpenFiles": [
+    "content/pt-br/blog/portfolio-di-para-empresarios/index.md",
+    "content/en/blog/portfolio-di-para-empresarios/index.md",
     "content/pt-br/blog/artigo-dale-carnegie/index.md",
+    "content/pt-br/blog/artigo-dale-carnegie/Dale-Carnegie-1920x1080.jpg",
     "content/pt-br/blog/notas/2021-03-30-como-usar-5w2h.md",
     "content/pt-br/blog/_index.md",
     "content/en/blog/_index.md",
@@ -204,8 +208,6 @@
     "content/pt-br/blog/hipser-ipsum.md",
     "content/pt-br/blog/startup-ipsum.md",
     "content/pt-br/projects/livro-made/index.md",
-    "content/pt-br/blog/artigo-hpt/index.md",
-    "content/pt-br/projects/livro-atendimento-bancario/index.md",
     "content/pt-br/projects/livro-atendimento-bancario/atendimento-portifolio.png",
     "content/pt-br/projects/livro-atendimento-bancario/plant.jpg",
     "content/pt-br/projects/livro-made/plant.jpg",
@@ -214,7 +216,6 @@
     "resources/_gen/images/projects/livro-atendimento-bancario/atendimento-portifolio_huef33ea49aa32bcea4cac157028c8df24_93120_640x0_resize_box_3.png",
     "resources/_gen/images/projects/livro-atendimento-bancario/plant_hu3d03a01dcc18bc5be0e67db3d8d209a6_34602_1000x0_resize_q75_box.jpg",
     "resources/_gen/images/projects/livro-made/MADE-Banner_hu27ee4951b945a72cb02da038874408ca_204068_302x0_resize_box_3.png",
-    "resources/_gen/images/projects/livro-atendimento-bancario/atendimento-portifolio_huef33ea49aa32bcea4cac157028c8df24_93120_302x0_resize_box_3.png",
     "resources/_gen/images/projects/livro-atendimento-bancario",
     "resources/_gen/images/projects/livro-made",
     "content/pt-br/projects/livro-made",
