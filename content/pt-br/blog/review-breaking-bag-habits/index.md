@@ -1,7 +1,6 @@
 ---
 title: Breaking Bad Habits - Freek Vermeulen
-description: Acabado com os maus-hábitos, desafie as normas da indústria e revigore seu
-  negócio
+description: Acabado com os maus-hábitos, desafie as normas da indústria e revigore seu negócio
 categories:
   - Cultura
   - Artigos
@@ -13,11 +12,10 @@ tags:
   - Freek Vermeulen
   - Gestão
   - Inovação
-# image: images/post/bad-habits_ok.jpg
 rating: 5
 slug: breaking-bad-habits-freek-vermeulen
 date: 2021-10-07T20:37:45
-lastmod: 2022-12-16T17:59:23.152Z
+lastmod: 2023-11-13T01:39:56.973Z
 ---
 # Breaking Bad Habits, por Freek Vermeulen
 
@@ -35,7 +33,7 @@ Claro que toda empresa ou organização tem suas melhores práticas, e se orgulh
 
 Durante o livro, Freek mostra diversos casos onde os maus-hábitos nas organizações prejudicam e destroem empresas e negócios. Também descreve os mecanismos que permitem a criação e a disseminação das piores práticas, e como o próprio sistema ajuda a tornar perene o que devia ser eliminado.
 
-Um grande exemplo é a **gestão da qualidade total** (*Total Quality Management*" ou simplesmente "*TQM*"), matéria obrigatória para os líderes de plantão. Todo mundo sabe como o TQM revolucionou a indústria japonesa, foi amplamente difundida nos Estados Unidos nas décadas de 80 e 90, inspirou a criação do Baldrige Framework (em que eu me inspirei descaradamente e [adaptei para os brasileiros](https://llsaboya.com/diagnostico-analise-empresa-made/)) e, no Brasil, permitiu o surgimento do **Vicente Falconi**. 
+Um grande exemplo é a **gestão da qualidade total** (*Total Quality Management*" ou simplesmente "*TQM*"), matéria obrigatória para os líderes de plantão. Todo mundo sabe como o TQM revolucionou a indústria japonesa, foi amplamente difundida nos Estados Unidos nas décadas de 80 e 90, inspirou a criação do Baldrige Framework (em que eu me inspirei descaradamente e [adaptei para os brasileiros](https://www.llsaboya.com/diagnostico-analise-empresa-made/)) e, no Brasil, permitiu o surgimento do **Vicente Falconi**. 
 
 ![Freek Vermeulen é professor de estratégia e empreendedorismo na London Business School.](freek-v-th.png)
 

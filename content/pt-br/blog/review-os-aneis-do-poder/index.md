@@ -1,8 +1,7 @@
 ---
 title: Os Anéis do Poder - Amazon
 slug: resenha-os-aneis-do-poder-amazon
-description: Os fãs de Tolkien talvez a assistam, porém não de novo, e de novo, e mais uma
-  vez, antes de decidir ver a versão estendida novamente.
+description: Os fãs de Tolkien talvez a assistam, porém não de novo, e de novo, e mais uma vez, antes de decidir ver a versão estendida novamente.
 date: 2022-09-04T20:08:47.612Z
 draft: false
 tags:
@@ -17,13 +16,12 @@ tags:
 categories:
   - Cultura
   - Artigos
-# image: images/post/aneis-do-poder-orcs.jpg
 aliases:
   - /p/resenha-os-aneis-do-poder-amazon/
-lastmod: 2022-12-16T17:59:52.737Z
+lastmod: 2023-11-13T01:39:56.976Z
 ---
 
-Sempre achei impossível opinar sobre um filme sem tê-lo visto. O mundo mudou, as certezas do passado não existem mais, a revolução cultural aconteceu. Devemos aceitar a conformidade com o novo normal. Portanto, agora é totalmente possível escrever sobre **Os Anéis do Poder** sem assistir a coisa em si. Também é possível fazer uma série sobre **O Senhor dos Anéis** sem ler uma única página de [J. R. R. Tolkien](https://llsaboya.com/p/porque-tolkien-tem-morrer/). 
+Sempre achei impossível opinar sobre um filme sem tê-lo visto. O mundo mudou, as certezas do passado não existem mais, a revolução cultural aconteceu. Devemos aceitar a conformidade com o novo normal. Portanto, agora é totalmente possível escrever sobre **Os Anéis do Poder** sem assistir a coisa em si. Também é possível fazer uma série sobre **O Senhor dos Anéis** sem ler uma única página de [J. R. R. Tolkien](https://www.llsaboya.com/p/porque-tolkien-tem-morrer/). 
 
 No fim da década de 90 eu enfrentava um dilema: veria ou não os tais anunciados filmes do "O Senhor dos Anéis"? Peter Jackson era desconhecido, embora já tivesse no currículo [um filme que gosto muito](https://www.imdb.com/title/tt0116365/?ref_=nm_flmg_dr_22). Trazer Tolkien para as telas seria um desafio homérico, já que cada fã tinha a sua própria idealização da Terre Média - inclusive eu.
 

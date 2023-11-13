@@ -1,11 +1,10 @@
 ---
 title: Por que J. R. R. Tolkien tem que morrer
 slug: porque-tolkien-tem-morrer
-description: O fato de Tolkien ter entrado nessas polêmicas criadas pelo wokismo evidencia
-  o quão baixo chegamos no debate cultural.
+description: O fato de Tolkien ter entrado nessas polêmicas criadas pelo wokismo evidencia o quão baixo chegamos no debate cultural.
 author: null
 date: 2022-03-06T20:08:47.612Z
-lastmod: 2022-12-16T17:53:45.785Z
+lastmod: 2023-11-13T01:39:56.978Z
 draft: false
 tags:
   - J. R. R. Tolkien
@@ -17,13 +16,12 @@ tags:
 categories:
   - Cultura
   - Artigos
-# image: images/post/rings-of-power.jpg
 aliases:
   - /blog/porque-tolkien-tem-morrer/
   - /p/porque-tolkien-tem-morrer/
 ---
 
-A produção da Amazon "[Os anéis do poder](https://llsaboya.com/p/resenha-os-aneis-do-poder-amazon/)" desencadeou a mais [nova polêmica cultural](https://www.youtube.com/watch?v=D9rJHb-rvYo&t=13s). De um lado temos um doutor em linguística, professor, filósofo, que durante mais de uma década inventou, estruturou, detalhou e escreveu uma história mitológica da cultura anglo-saxã lida no mundo inteiro desde o final da década de cinquenta. Junto com ele uma obra lida e estudada nos últimos 70 anos. 
+A produção da Amazon "[Os anéis do poder](https://www.llsaboya.com/p/resenha-os-aneis-do-poder-amazon/)" desencadeou a mais [nova polêmica cultural](https://www.youtube.com/watch?v=D9rJHb-rvYo&t=13s). De um lado temos um doutor em linguística, professor, filósofo, que durante mais de uma década inventou, estruturou, detalhou e escreveu uma história mitológica da cultura anglo-saxã lida no mundo inteiro desde o final da década de cinquenta. Junto com ele uma obra lida e estudada nos últimos 70 anos. 
 
 Já do outro lado, dois moleques de Hollywood que "adaptaram" os *apêndices* desse livro (e apenas os apêndices, sem poder citar nada além disso) e seus [extremistas seguidores](https://www.vanityfair.com/hollywood/2022/02/amazon-the-rings-of-power-series-first-look) que acreditam serem os depositários da esperança de um novo mundo melhor, mais digno e justo.
 

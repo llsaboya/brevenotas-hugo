@@ -11,7 +11,7 @@ tags:
 categories:
   - Portfolio
 slug: leadership-delegation
-lastmod: 2023-05-26T21:11:25.888Z
+lastmod: 2023-11-13T01:39:56.962Z
 ---
 
 {{< notice "note" >}}
@@ -33,7 +33,7 @@ This scenario tests the ability of leaders to find colleagues with potential for
   - Scrivener
   - Outliner{{< /notice >}}
 
-[Try the project](https://llsaboya.com/portfolio/demo-delegacao/story.html)
+[Try the project](https://www.llsaboya.com/portfolio/demo-delegacao/story.html)
 
 ## Overview 
 

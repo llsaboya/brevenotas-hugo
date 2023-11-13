@@ -1,10 +1,8 @@
 ---
 title: Em defesa do jornalismo profissional, pra quê?
 date: 2022-06-07T18:49:59.452Z
-description: Eu tenho o direito de saber o quê? Porque com o jornalismo profissional eu só
-  sei de forma vaga o que está acontecendo por aí...
+description: Eu tenho o direito de saber o quê? Porque com o jornalismo profissional eu só sei de forma vaga o que está acontecendo por aí...
 draft: false
-
 slug: em-defesa-jornalismo-profissional-pra-que
 categories:
   - Artigos
@@ -13,11 +11,11 @@ tags:
   - Consórcio de veículos de imprensa
 keywords:
   - Jornalismo Profissional
-lastmod: 2022-12-16T17:51:37.079Z
+lastmod: 2023-11-13T01:39:56.984Z
 ---
 O Brasil comemora, nesta terça-feira (7), o Dia Nacional da Liberdade de Imprensa. E, para reafirmar a importância da data, o consórcio de veículos de imprensa se uniu em uma ação que reforça a importância do acesso à informação de qualidade pela sociedade, já que sem informação não há cidadania plena.
 
-Isaac Asimov já foi cruel ao perguntar "Por favor, o direto de saber o quê?" (no belo artigo *"Um culto da ignorância"*, [que eu traduzi aqui](https://llsaboya.com/p/traducao-de-um-culto-da-ignorancia-por-isaac-asimov/)). A imprensa brasileira já não é reconhecida pela qualidade faz muito tempo.
+Isaac Asimov já foi cruel ao perguntar "Por favor, o direto de saber o quê?" (no belo artigo *"Um culto da ignorância"*, [que eu traduzi aqui](https://www.llsaboya.com/p/traducao-de-um-culto-da-ignorancia-por-isaac-asimov/)). A imprensa brasileira já não é reconhecida pela qualidade faz muito tempo.
 
 Quando era criança, meu tio Arthur e eu passávamos certas manhãs procurando erros de português nos jornais - já que eram raros - e tentávamos tirar alguma conclusão disso. Quer um exercício melhor de falácia *post hoc ergo propter hoc* (“depois disto, portanto por causa disso”, em latim)? Entretanto, era inegável para mim (e ainda é) a direta relação entre erros de português e a qualidade das matérias nos jornais.
 
@@ -69,7 +67,7 @@ Então chegamos à pergunta incomoda do Asimov, **temos o direito de saber o qu�
 
 Trabalhar em um grande veículo de comunicação sempre terá glamoures, eu sei, mas a internet mostrou que nem todos os chamados profissionais da imprensa **não são competentes para fazer um bom trabalho**. Se antes era raro achar erros nos grandes jornais, hoje é lugar comum. As páginas da web tornam fácil acertar um erro de concordância, a flexão verbal, ou o artigo inteiro (quando é o caso).
 
-Mesmo que a internet seja a casa de diversos bons profissionais, gente que sabe ler e escrever descentemente, nenhum deles é capaz de ser um antagonista para o jornalismo profissional - e a [turma do Diogo Mainardi prova isso](https://llsaboya.com/p/revista-crusoe-contra-site-antagonista/) sendo apenas uma ilha (e eles não me convidaram para essa festa pobre - ninguém quer nem me convencer).
+Mesmo que a internet seja a casa de diversos bons profissionais, gente que sabe ler e escrever descentemente, nenhum deles é capaz de ser um antagonista para o jornalismo profissional - e a [turma do Diogo Mainardi prova isso](https://www.llsaboya.com/p/revista-crusoe-contra-site-antagonista/) sendo apenas uma ilha (e eles não me convidaram para essa festa pobre - ninguém quer nem me convencer).
 
 Ter uma televisão ainda é uma concessão pública. Papel para imprimir jornal ainda é muito caro (isso se ainda existisse bancas para vender seu impresso). Ninguém se importa mais em ler. Onde você acha alguém que escreve bem?
 

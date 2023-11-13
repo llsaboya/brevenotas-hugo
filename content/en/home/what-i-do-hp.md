@@ -1,10 +1,11 @@
 ---
-title: "What I Do"
+title: What I Do
 weight: 30
+lastmod: 2023-11-13T01:39:56.958Z
 ---
 
 # Transforming Performance Through Learning
 
 Are you looking to optimize your organization's performance? I specialize in transforming performance through a strategic and integrated approach. From instructional design to task analysis and performance-based learning, I provide tailored solutions that enhance skills, knowledge, and productivity.
 
-[Discover how I can help you achieve exceptional performance »](https://llsaboya.com/blog/what-i-do/)
+[Discover how I can help you achieve exceptional performance »](https://www.llsaboya.com/blog/what-i-do/)

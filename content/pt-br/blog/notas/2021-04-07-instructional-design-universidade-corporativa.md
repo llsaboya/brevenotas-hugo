@@ -1,18 +1,15 @@
 ---
 title: Instructional Design na aprendizagem corporativa
-description: Somos pessoas, não algoritmos, e seres humanos precisam de processos e métodos
-  para ensinar e aprender.
+description: Somos pessoas, não algoritmos, e seres humanos precisam de processos e métodos para ensinar e aprender.
 categories:
   - Design Instrucional
 tags:
   - Instructional Design
   - Universidade Corporativa
   - Design Instrucional
-
 slug: instructional-design-na-aprendizagem-corporativa
 date: 2021-04-07T18:45:10.792Z
-lastmod: 2022-12-17T13:31:17.054Z
-# image: /images/1-design.jpg
+lastmod: 2023-11-13T01:39:56.980Z
 ---
 Educação corporativa não é um novo conceito, muito pelo contrário. A General Motors começou a fornecer educação e treinamento para funcionários em 1914, criando a sua Universidade Corporativa (com maiúsculas) em 1950. O McDonald's abriu sua "Universidade do Hamburger" em 1960. A Universidade da Disney e da Motorola apareceram nos anos 70. E a partir do final do século passado, as universidades corporativas se espalharam pelas mais diversas empresas.
 
@@ -57,7 +54,7 @@ Também não faz mal nenhum um nome moderno e marcante. Entra em cena o **design
 
 Nem ensinar, nem aprender são tarefas fáceis. Como eu digo para meu filho, se você acha a 1ª série difícil, eu tenho péssimas notícias para o resto da sua vida.
 
-O [design instrucional](https://llsaboya.com/blog/o-que-e-design-instrucional-ou-intructional-design/) (ID) consiste em projetar, desenvolver e entregar produtos e experiências instrucionais, tanto digitais quanto físicas, de forma consistente, confiável, eficiente, eficaz, atraente, envolvente e inspiradora.
+O [design instrucional](https://www.llsaboya.com/blog/o-que-e-design-instrucional-ou-intructional-design/) (ID) consiste em projetar, desenvolver e entregar produtos e experiências instrucionais, tanto digitais quanto físicas, de forma consistente, confiável, eficiente, eficaz, atraente, envolvente e inspiradora.
 
 E é mais fácil falar do que fazer. Entretanto é um passo importante para o aprendizado profissional, porque cada empresa, cada tarefa, cada trabalho e cada tipo de profissional precisa de soluções distintas porque enfrentam problemas distintos.
 
@@ -143,4 +140,4 @@ Plínio, ainda na Roma Antiga já sabia disso:
 
 > O homem é o único animal que não aprende nada sem ser ensinado: não sabe falar, nem caminhar, nem comer, enfim, não sabe fazer nada no estado natural, a não ser chorar.
 
- **Esse texto** foi publicado primeiro no [Aula de Negócios](https://llsaboya.com/instructional%20design/instructional-design-na-aprendizagem-corporativa/).
+ **Esse texto** foi publicado primeiro no [Aula de Negócios](https://www.llsaboya.com/instructional%20design/instructional-design-na-aprendizagem-corporativa/).
