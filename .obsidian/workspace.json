@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meça regular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "af0147155f1c27da",
+  "active": "ad1c1453a95c4da2",
   "lastOpenFiles": [
     "content/pt-br/blog/portfolio-di-para-empresarios/index.md",
     "content/en/blog/portfolio-di-para-empresarios/index.md",
