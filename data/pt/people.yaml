@@ -1,3 +1,11 @@
+- name: Projeto PokéPais
+  function: Unindo Famílias Através do Jogo de Cartas Pokémon
+  image: /portfolio/capa-d4t.png
+  description: O D4T fornece uma coleção selecionada de informações e recursos para educadores e designers instrucionais.
+  email:
+  phone:
+  linkedin:
+  website: /products/pokepais-pokemon/
 - name: D4T - Design for Thinking
   function: Digital Garden de Design Instrucional
   image: /portfolio/capa-d4t.png
