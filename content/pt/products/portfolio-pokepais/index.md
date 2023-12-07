@@ -36,7 +36,10 @@ No projeto **PokéPais** é um curso interativo para ensinar pais e filhos a jog
 
 {{< button2 "Confira o protótipo" "/portfolio/pokepais/index.html" >}}
 
-<div id="adobe-dc-view"></div>
+
+
+
+<div id="adobe-dc-view" style="width: 800px;"></div>
 <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
@@ -44,10 +47,9 @@ No projeto **PokéPais** é um curso interativo para ensinar pais e filhos a jog
 		adobeDCView.previewFile({
 			content:{location: {url: "/portfolio/pokepais/pos-projeto.pdf"}},
 			metaData:{fileName: "pos-projeto.pdf"}
-		}, {});
+		}, {embedMode: "IN_LINE"});
 	});
 </script>
-
 
 Encarar o desconhecido, seja ele intimidador ou empolgante, é como afiar uma nova ferramenta na oficina. Com esse espírito, mergulhamos no nosso projeto de laboratório de design instrucional. Tudo começou com um desafio pessoal: eu, um pai quarentão, buscando uma conexão com meu filho de 7 anos através do seu novo passatempo – jogar cartas Pokémon.
 
