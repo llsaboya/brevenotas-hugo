@@ -14,6 +14,8 @@ image: /portfolio/capa-pokepais.png
 
 Como muitos pais da minha geração, minha infância foi marcada por jogos de cartas clássicos, mas as cartas Pokémon eram como uma floresta inexplorada. Rapidamente percebi que não estava sozinho nesse caminho.
 
+Encarar o desconhecido, seja ele intimidador ou empolgante, é como afiar uma nova ferramenta na oficina. Com esse espírito, mergulhamos no nosso projeto de laboratório de design instrucional. Tudo começou com um desafio pessoal: eu, um pai quarentão, buscando uma conexão com meu filho de 7 anos através do seu novo passatempo – jogar cartas Pokémon.
+
 {{< /brick_title >}}
 
 {{< brick_wide >}}
@@ -42,8 +44,6 @@ No projeto **PokéPais** é um curso interativo para ensinar pais e filhos a jog
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/portfolio/pokepais/pos-projeto.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-Encarar o desconhecido, seja ele intimidador ou empolgante, é como afiar uma nova ferramenta na oficina. Com esse espírito, mergulhamos no nosso projeto de laboratório de design instrucional. Tudo começou com um desafio pessoal: eu, um pai quarentão, buscando uma conexão com meu filho de 7 anos através do seu novo passatempo – jogar cartas Pokémon.
 
 ## Problema a Resolver: Criar um Curso Inovador para Pais Dominarem o Pokémon
 
