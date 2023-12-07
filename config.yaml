@@ -1,0 +1,25 @@
+baseURL: www.llsaboya.com
+theme: ["hugo-notice", "hugobricks"]
+defaultContentLanguage: pt
+assetDir: static
+
+
+# Needed for mermaid/katex shortcodes
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in md files
+  tableOfContents:
+    startLevel: 1
+
+languages:
+  en:
+    languageName: English
+    contentDir: content/en
+    weight: 2
+    disabled: false
+  pt:
+    languageName: Português
+    contentDir: content/pt
+    weight: 1
+    disabled: false

@@ -1,19 +1,115 @@
-O design instrucional é a prática de criar experiências e materiais de aprendizagem que resultem na real aquisição _e_ aplicabilidade de conhecimentos e habilidades. O DI (design instrucional) segue um sistema de avaliação de necessidades reais, elaboração de um processo objetivo, desenvolvimento de materiais instrucionais de acordo com especialistas no assunto - além da avaliação de sua eficácia. 
+# What is Hugobricks?
 
-O **Design 4 Thinking** existe para apoiar empresas, empresários, alunos, professores, designers instrucionais e qualquer pessoa interessada em criar experiências de aprendizagem mais eficazes combinando a *arte* de criar experiências de aprendizagem envolventes com a *ciência* de como o cérebro funciona. 
+[View DEMO website](https://www.hugobricks.preview.usecue.com/)
 
-### Quem comanda esse projeto 
+Hugobricks is a free website theme for Hugo. It makes building Hugo websites child’s play due to its stackable (LEGO-like) content bricks. Stack an intro brick on top of some image bricks and a pricing table and build a complete website in seconds!
 
-Meu nome é Lefebvre Saboya. Sou formado em Processos Gerenciais e pós-graduando em Design Instrucional. Comecei a ensinar na monitoria do meu curso pré-vestibular para pagar meus estudos. Trabalhei com publicidade e marketing fazendo *avaliação crítica* para diversas campanhas. Durante 5 anos trabalhei no Banco do Estado do Rio Grande do Sul (Banrisul) realizando "Análise 360" das agências da rede de atendimento.  
+In the past you may have chosen a Wordpress theme and adjusted the images, colors and fonts to the needs of your client. In combination with tools like Gutenberg blocks and page builders like Elementor there was little that could compete with the development speed and flexibility that Wordpress offered. With Hugobricks we bring these advantages to the Jamstack eco-system. If you choose for the Hugobricks theme you get not just a head start, tremendous flexibility and lots of ready to use and reusable components, but also a lightning fast and unbreakable architecture. What are you waiting for? The future is here!
 
-O processo é simples. Usando o processo ADDIE e *Values Clarification*, para analisar as lacunas de conhecimentos e habilidades dentro de um grupo específico. Com a ajuda de Especialistas em Assuntos (SMEs), desenvolvo um plano que atenda às necessidades da organização criando experiências que desenvolvam a atitudes reflexivas e prática diante de situações problemáticas. 
+## What’s included in Hugobricks?
 
-Na medida em que o mundo dos negócios continua a mudar, as organizações e suas escolhas de aprendizagem mudam também. Ao iniciar um projeto eu desenvolvo a tarefa de identificar essas necessidades e descobrir a melhor forma de desafiar a capacidade dos profissionais em estabelecer relações e se tornarem capazes de ver mais de uma maneira de atingir os resultados. 
+Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project.
 
-O principal desafio de qualquer projeto de Design Instrucional é desenvolver uma equipe profissional que entregue o processo de aprendizagem certo. É por isso que trabalhamos com *Especialistas no Assunto* (SMEs) para criar fundações sólidas pra o projeto, desde design gráfico, passando pela experiência de usuário (UX) e qualquer objetivo específico que seja particular na área de atuação da sua organização. 
+- 10+ Pre-build pages
+- 99+ Google Pagespeed Score
+- Built with Hugo and CSS variables for easy styling
+- Fully responsive on all devices
+- SEO-optimized for better search engine rankings
 
-### Saiba Mais 
+##  Hugobricks that are available:
 
-Se tiver qualquer pergunta basta [entrar em contato](https://d4t.dev/contact/) para conversarmos. Enquanto isso, se você se interessar, descubra um pouco mais sobre o Design Instrucional com os links abaixo.
+- [x] Intro,
+- [x] CTA,
+- [x] Image,
+- [x] Image2 (alt),
+- [x] About,
+- [x] Contact,
+- [x] 404 Page
+- [x] Title,
+- [x] Title2 (alt),
+- [x] Map,
+- [x] Features,
+- [x] Reviews,
+- [x] Team,
+- [x] Blog/posts,
+- [x] Pricing,
+- [ ] Quote,
+- [ ] Stats,
+- [ ] Carousel,
+- [ ] Related
+- [ ] Authors
+- [ ] Search
+- [ ] Products,
+- [ ] Product,
+- [ ] Stats,
+- [ ] Gallery,
+- [ ] Brands,
+- [ ] Openinghours
 
-- [O que é Design Instrucional](https://d4t.dev/post/o-que-e-design-instrucional-ou-instructional-design/)
+## Hugobricks workflow
+
+Hugobricks aims to enhance the Hugo web framework by providing a variety of pre-made bricks for straightforward website-building.
+
+Our companion project, [hugocodex](https://hugocodex.org), guides beginners in starting a Hugo project from scratch. For those who already have experience with Hugo and want to use it for rapid prototyping and iterating, Hugobricks offers premade websites and customizable components powered by Hugo.
+
+Cloning this repository allows you to start building lightning-fast static sites with flexibility and ease with and already working website.
+
+Here is an example of two bricks (title and cta):
+
+```
+---
+title: Page title
+---
+{{< brick_title >}}
+
+# Title 1
+Your first paragraph with some lorem ipsum dolor sit amet.
+
+{{< /brick_title >}}
+{{< brick_cta >}}
+
+{{< /brick_cta >}}
+```
+
+### Get started with Hugobricks
+
+In order to get a working website feel free to 
+
+- clone our repository and start building with stackable content bricks.
+- enjoy your already working hugo website, plan your changes/iterations
+- re-use default hugobricks
+- and/or customise them !
+
+### Hugobricks theme features
+- Contact form
+- Map
+- Button (primary and secondary)
+- Social buttons
+- Contact buttons
+- Breadcrumbs
+- FAQ's
+- Tabs
+- Subpages
+- Gallery
+- Video (native html5),
+- Youtube video,
+- and much more ...
+
+## Hugobricks under the Hood
+
+Hugobricks is build with the regular [Hugo](https://gohugo.io/overview/introduction/) building blocks: 
+
+- [Shortcodes](https://gohugo.io/content-management/shortcodes/#what-a-shortcode-is) 
+- [Partials](https://gohugo.io/templates/partials/)
+- [Layouts / templating](https://gohugo.io/templates/base/)
+
+Hugobricks takes advantage of these things to allow content re-use, pivot around content and layouts, and calling the required styling and functional logic.
+
+### Hugobricks Feedback 
+
+Make your wishlist. Missing a given Hugobrick? [Let us know.](https://github.com/jhvanderschee/hugobricks/issues/5)
+
+
+### Credits and licenses
+
+The functionality is inspired by the many [Gutenberg Block Plugins](https://wpastra.com/plugins/wordpress-gutenberg-block-plugins/) that are available online. The design has been inspired by the MIT licensed [Hugoplate from Zeon Studio](https://github.com/zeon-studio/hugoplate.git). The fonts and icons are Apache Licensed and come from [Google Fonts](https://fonts.google.com) and [Google Material Symbols](https://fonts.google.com/icons). The illustrations are free to use but require [an attribution to Storyset](https://storyset.com/terms). The avatars are CC0 licensed and come from [Pravatar](https://www.pravatar.cc/images). The social media icons (Facebook, Instagram, etc) belong to the respective social networks/their owners.

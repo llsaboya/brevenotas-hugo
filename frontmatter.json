@@ -1,12 +1,10 @@
 {
-  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.framework.id": "hugo",
-  "frontMatter.content.publicFolder": "static",
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
-      "previewPath": null,
       "pageBundle": false,
+      "previewPath": null,
       "fields": [
         {
           "title": "Title",
@@ -21,12 +19,13 @@
         {
           "title": "Publishing date",
           "name": "date",
-          "type": "datetime"
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
         },
         {
-          "title": "Article preview",
+          "title": "Content preview",
           "name": "image",
-          "isPreviewImage": true,
           "type": "image"
         },
         {
@@ -45,59 +44,30 @@
           "type": "categories"
         },
         {
-          "title": "authors",
-          "name": "authors",
-          "type": "choice",
-          "choices": [
-            "Lefebvre Saboya"
-          ]
-        },
-        {
-          "title": "keywords",
-          "name": "keywords",
-          "type": "choice",
-          "choices": [
-            "Dale Carnegie",
-            "Soft skills",
-            "Hard skills",
-            "Auto-ajuda",
-            "Warren Buffett",
-            "Desenvolvimento Pessoal",
-            "Habilidades Interpessoais"
-          ]
-        },
-        {
           "title": "aliases",
           "name": "aliases",
           "type": "choice",
           "choices": [
-            "/dale-carnegie-vale-a-pena/",
-            "/post/dale-carnegie-vale-a-pena/",
-            "/blog/dale-carnegie-vale-pena/",
-            "/p/dale-carnegie-vale-pena/"
+            "/blog/qual-melhor-linux-para-macbook-air-antigo/",
+            "/p/qual-melhor-linux-para-macbook-air-antigo/"
           ]
+        },
+        {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
         }
       ]
     }
   ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "images",
-      "path": "[[workspace]]/assets/images"
-    },
-    {
-      "title": "content",
-      "path": "[[workspace]]/content"
-    },
-    {
-      "title": "static",
-      "path": "[[workspace]]/static"
-    },
-    {
-      "title": "blog",
-      "path": "[[workspace]]/content/pt-br/blog"
+      "title": "Content",
+      "path": "[[workspace]]/content/pt"
     }
   ],
-  "frontMatter.content.autoUpdateDate": true,
-  "frontMatter.preview.host": "http://localhost:1313"
+  "frontMatter.website.host": "https://www.llsaboya.com"
 }
