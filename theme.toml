@@ -1,12 +1,38 @@
-name = "Introduction"
-license = "Apache-2.0"
-licenselink = "https://github.com/victoriadrake/hugo-theme-introduction/blob/master/LICENSE"
-description = "Minimal, single page, smooth scrolling theme for Hugo."
-homepage = "https://github.com/victoriadrake/hugo-theme-introduction"
-tags = ["blog", "bulma", "clean", "dark", "disqus", "font awesome", "gallery", "minimal", "minimalist", "mobile", "multilingual", "one page", "personal", "responsive", "simple", "single page", "starter", "syntax highlighting", "projects", "white" ]
-features = ["responsive", "blog", "portfolio", "gallery"]
-min_version = "0.49"
+name = "Hugoplate"
+license = "MIT"
+licenselink = "https://github.com/zeon-studio/hugoplate/blob/main/LICENSE"
+description = "Hugoplate is a free starter template built with Hugo, and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+homepage = "https://github.com/zeon-studio/hugoplate"
+demosite = "https://hugoplate.netlify.app/"
+min_version = "0.118.2"
+
+tags = [
+  "blog",
+  "responsive",
+  "minimal",
+  "personal",
+  "light",
+  "dark",
+  "multilingual",
+  "landing",
+  "contact",
+  "dark mode",
+  "tailwindcss",
+]
+
+features = [
+  "Multi-Authors",
+  "Search",
+  "Multilingual",
+  "Dark Mode",
+  "Taxonomies",
+]
 
 [author]
-  name = "Victoria Drake"
-  homepage = "https://victoria.dev"
+name = "Zeon Studio"
+homepage = "https://zeon.studio"
+
+[original]
+author = "Zeon Studio"
+homepage = "https://zeon.studio"
+repo = "https://github.com/zeon-studio/themeplate"
