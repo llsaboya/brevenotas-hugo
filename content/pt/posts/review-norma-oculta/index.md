@@ -4,7 +4,7 @@ title: A Norma Oculta, por Marcos Bagno
 description: A Norma Oculta é um livro cheio de erros infantis de discurso, raciocínio e análise e não deveria ser levado a sério.
 categories:
   - Cultura
-tags:
+keywords:
   - Marcos Bagno
   - Norma oculta
 slug: norma-oculta-por-marcos-bagno

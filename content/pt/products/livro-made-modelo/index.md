@@ -2,7 +2,7 @@
 title: Modelo de Análise e Diagnóstico de Empresa
 description: Você pode mudar para melhor a gestão da sua empresa sozinho com essa ferramenta.
 date: 2021-12-11T12:19:25.000Z
-tags:
+keywords:
   - Portfolio
 lastmod: 2022-12-16T17:58:52.083Z
 slug: modelo-de-analise-diagnostico-de-empresa

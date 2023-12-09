@@ -73,6 +73,8 @@ Cada módulo foi cuidadosamente criado para ensinar aos pais como ler as cartas,
 
 ![Storyboard do vídeo de introdução](image-2.png)
 
+![Fluxo de jogo desenvolvido no Canva](image-8.png)
+
 ## Gravação de Vídeos
 
 Sem a possibilidade de produzir gravações profissionais, recorremos ao ClipChamp, uma ferramenta prática com excelente funcionalidade de narração. Isso permitiu a rápida prototipagem dos vídeos do curso.

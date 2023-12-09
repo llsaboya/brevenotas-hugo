@@ -5,7 +5,7 @@ image: /portfolio/capa-atendimento.png
 authors:
   - Lefebvre Saboya
 date: 2023-12-01
-tags:
+keywords:
   - Portfolio
   - Livro
 slug: livro-atendimento-bancario

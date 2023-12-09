@@ -1,7 +1,7 @@
 ---
 title: Breaking Bad Habits - Freek Vermeulen
 description: Acabado com os maus-hábitos, desafie as normas da indústria e revigore seu negócio
-tags:
+keywords:
   - Breking Bad Habits
   - Falconi
   - Freek Vermeulen

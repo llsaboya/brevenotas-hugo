@@ -4,7 +4,7 @@ description: Interaction on Instructional Design for owners and entrepreneurs wh
   implement this solution in their companies.
 date: 2022-08-14T23:50:34.611Z
 # image: /images/post/portfolio/rise-1.jpeg
-tags:
+keywords:
   - Instructional Design
   - Articulate Rise 360
 categories:

@@ -4,7 +4,7 @@ description: O mercado de Design Instrucional pode parecer confuso porque existe
 draft: false
 categories:
   - Design Instrucional
-tags:
+keywords:
   - Instructional Design
   - Design Instrucional
 slug: 5-areas-design-instrucional
@@ -146,7 +146,7 @@ Os designers instrucionais não são especialistas em uma área particular. O de
 
 Você pode conhecer mais sobre esse relacionamento nesse vídeo: 
 
-{{< youtube id="H48CgPmPphY" title="Quem são os especialistas no assunto?" >}}
+{{< youtube "H48CgPmPphY" >}}
 
 
 O especialista pode entender tudo sobre a sua área, mas é o designer instrucional o especialista em aprendizagem. O designer instrucional cria e desenvolve experiências focadas no aluno, em estreita colaboração com os SMEs, para as pessoas apreenderem as informações necessárias para seu desenvolvimento. 

@@ -1,6 +1,6 @@
 ---
 title: Elements
-
+draft: true
 ---
 {{< brick_title >}}
 

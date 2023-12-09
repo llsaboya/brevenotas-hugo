@@ -1,7 +1,7 @@
 ---
 title: Dale Carnegie vale a pena?
 description: Descubra se os cursos de soft skills da Dale Carnegie são bons ou pura enganação.
-tags:
+keywords:
   - Dale Carnegie
 slug: dale-carnegie-vale-pena
 date: 2020-11-23T12:00:00.000Z

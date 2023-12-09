@@ -3,7 +3,7 @@ title: D4T - A Digital Garden of Instructional Design
 description: Discover the latest trends, research, and practices in instructional design. Our digital garden provides a curated collection of information and resources for educators and instructional designers.
 date: 2023-05-02T19:02:36.046Z
 # image: /images/post/portfolio/d4t-us.png
-tags:
+keywords:
   - Hugo
   - Digital Garden
   - Instructional Design

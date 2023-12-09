@@ -2,7 +2,7 @@
 title: D4T - Digital Garden de Design Instrucional
 description: O D4T fornece uma coleção selecionada de informações e recursos para educadores e designers instrucionais.
 date: 2023-05-02T19:02:44.890Z
-tags:
+keywords:
   - Hugo
   - Design Instrucional
   - Digital Garden

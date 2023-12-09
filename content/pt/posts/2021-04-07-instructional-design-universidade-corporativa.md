@@ -3,7 +3,7 @@ title: Instructional Design na aprendizagem corporativa
 description: Somos pessoas, não algoritmos, e seres humanos precisam de processos e métodos para ensinar e aprender.
 categories:
   - Design Instrucional
-tags:
+keywords:
   - Instructional Design
   - Universidade Corporativa
   - Design Instrucional

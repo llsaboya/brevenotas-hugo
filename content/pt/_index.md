@@ -1,5 +1,11 @@
 ---
-title: Home
+title: Lefebvre Saboya
+description: O DI Mais Odiado do 🇧🇷️
+tags:
+    - teste--tag
+image: /uploads/branding/logo-2-s.png
+keywords:
+    - keyword-test
 ---
 {{< brick_intro2 >}}
 

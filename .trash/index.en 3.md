@@ -4,7 +4,7 @@ description: This scenario tests the ability of leaders to find colleagues with 
   for promotion and the ability to delegation responsibilities in the team.
 date: 2022-12-15T23:50:15.174Z
 # image: images/post/portfolio/slide-titulo.png
-tags:
+keywords:
   - Scenario based eLearning
   - Instructional Design
   - Delegation

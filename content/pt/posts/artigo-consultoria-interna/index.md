@@ -3,7 +3,7 @@ title: Consultoria Interna e a Transformação Organizacional
 date: 2023-05-11T14:48:50.739Z
 description: Explore o poder da consultoria interna na transformação organizacional e reorganização. Como redesenhar processos, estruturar e criar uma cultura de mudança.
 slug: consultoria-interna-transformacao-organizacional
-tags:
+keywords:
   - Consultoria Interna
 image: /uploads/gallery/office.png
 ---

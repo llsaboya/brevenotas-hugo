@@ -2,7 +2,7 @@
 title: Resgate - Uma Janela Para os Oitocentos
 description: Será que Comendador Manoel Aguiar Vallim foi apenas o típico fazendeiro da época de ouro do café?
 slug: resgate-uma-janela-para-os-oitocentos
-tags:
+keywords:
   - Eduardo Schnoor
   - Hebe Maria Mattos de Castro
   - Manoel Aguiar Vallim

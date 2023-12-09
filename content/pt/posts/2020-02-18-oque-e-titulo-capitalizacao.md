@@ -1,7 +1,7 @@
 ---
 title: Título de Capitalização - O que é e como se vende
 description: Títulos de capitalização não são investimentos, são instrumentos de transformação social e financeira
-tags:
+keywords:
   - Bancos
 slug: titulo-de-capitalizacao-e-como-se-vende
 date: 2020-02-18T18:19:25+06:00

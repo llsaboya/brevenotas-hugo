@@ -3,7 +3,7 @@ title: Qual o melhor Linux para o MacBook Air antigo
 draft: false
 slug: qual-melhor-linux-para-macbook-air-antigo
 description: Quer ressuscitar um MacBook antigo e nao sabe o que fazer? Aqui está a solução.
-tags:
+keywords:
   - elementary os
   - Linux
   - MacBook
