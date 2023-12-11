@@ -66,7 +66,7 @@ Você escolhe o tópico, nós o enfrentamos juntos por uma hora inteira combinan
 
 ### _R$_**1.500**_,00_/pack
 
-- *Upselling*: somente para quem já é cliente e com resultados
+- *Upselling*: somente para quem já é cliente
 - 3 sessões ao vivo, individuais e personalizadas
 - Avaliação criteriosa do seu trabalho atual, com insights para refinamento e melhoria
 - Planejamento para desenvolvimento de soluções
@@ -186,9 +186,9 @@ Adotando as mais recentes tecnologias educacionais, de análises aprimoradas por
 
 {{< brick_posts >}}
 
-# Blog posts
+# Blog 
 
-This is a demo of the blog. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+O Breves Notas é um blog organizado de modo um tanto caótico e contém diversos trechos que foram incluídos simplesmente porque na hora eu achei ser uma boa idéia.
 
 {{< /brick_posts >}}
 

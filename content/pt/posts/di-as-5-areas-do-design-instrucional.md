@@ -185,7 +185,7 @@ Cabe ao designer instrucional, quando desenvolve as soluções de aprendizagem, 
 
 Algumas soluções simples (até mesmo óbvias) geram mais resultados do que as novidades no mercado de DI.
 
-## Em resumo 
+## Para concluir 
 
 Pode parecer paradoxal uma área especializada em aprendizagem ser tão confusa. E se você pensa assim, concordo com você. 
 

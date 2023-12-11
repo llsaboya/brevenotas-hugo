@@ -21,7 +21,7 @@ Conheço pouca gente no mercado financeiro que sabe o que é e para que serve um
 
 Entretanto\... [essa experiência](https://www.linkedin.com/posts/antoniorochajr_finanaexas-economia-notaedciaseopiniaeto-activity-6633821989037457408-e3CB/) do Antônio Rocha me fez pensar se seria interessante desmistificar o título de capitalização.
 
-Em resumo, Antônio foi despachar uma encomenda e resolveu comprar um [PostalCap](https://www.brasilcap.com.br/correios/index.html), um título de capitalização de R\$14,00 vendidos nos Correios e operado pelo Banco do Brasil. Após os 12 meses de vigência do título, ele receberá 50,96849% do valor pago, atualizado pela TR (Taxa de Referencial de hoje: ZERO%).
+Para concluir, Antônio foi despachar uma encomenda e resolveu comprar um [PostalCap](https://www.brasilcap.com.br/correios/index.html), um título de capitalização de R\$14,00 vendidos nos Correios e operado pelo Banco do Brasil. Após os 12 meses de vigência do título, ele receberá 50,96849% do valor pago, atualizado pela TR (Taxa de Referencial de hoje: ZERO%).
 
 Entendo a indignação dele. Entretanto, ele comprou um Título de Capitalização Popular (um dos seis que existem: tradicional, popular, incentivo, compra programada, instrumento de garantia e filantropia premiável) regulamentado pelas circulares n° 569 e 576 da SUSEP.
 

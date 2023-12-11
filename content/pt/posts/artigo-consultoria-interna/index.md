@@ -89,7 +89,7 @@ Para superar esses desafios, as organizações podem precisar passar por uma tra
 
 A consultoria interna pode desempenhar um papel fundamental neste processo, fornecendo conhecimento especializado, orientação e suporte para ajudar a organização a identificar e abordar efetivamente suas ineficiências estruturais e desafios culturais. Isso pode envolver a análise da situação atual da organização, a identificação de áreas problemáticas e a proposição de soluções adequadas.
 
-Em resumo, os desafios organizacionais são uma realidade para muitas organizações. No entanto, com uma abordagem estratégica e um compromisso com a transformação, esses desafios podem ser superados, levando a um desempenho melhorado e a uma maior eficiência e eficácia organizacional.
+Para concluir, os desafios organizacionais são uma realidade para muitas organizações. No entanto, com uma abordagem estratégica e um compromisso com a transformação, esses desafios podem ser superados, levando a um desempenho melhorado e a uma maior eficiência e eficácia organizacional.
 
 {{< notice "warning" >}}
 Embora a consultoria interna possa trazer muitos benefícios para uma organização, [também existem algumas críticas e desafios associados a essa prática](https://www.grin.com/document/1185076). Aqui estão alguns dos mais comuns:<br>
