@@ -16,10 +16,6 @@ Responder a este questionário é como ir à caça de um urso – você precisa 
 
 {{< subpages >}}
 
-{{< notice tip >}} 
-Responda como se estivesse contando a história do seu dia a dia, não apenas um evento raro. Lembre-se, a sabedoria de Deming – 94% da qualidade depende do sistema.Os outros 6% são causas especiais. 
-{{< /notice >}}
-
 Suas ações sistemáticas devem ser tão claras quanto um caminho na floresta:
 
 - **Abordagem**: Como você corta madeira na sua organização?
@@ -34,16 +30,18 @@ Para os resultados, você está procurando troféus mensuráveis:
 - **Comparações**: Como seu corte de madeira se compara aos outros?
 - **Integração**: Você está cortando as árvores certas para a saúde da sua floresta?
 
+{{< notice tip >}} Responda como se estivesse contando a história do seu dia a dia, não apenas um evento raro. Lembre-se, a sabedoria de Deming – 94% da qualidade depende do sistema.Os outros 6% são causas especiais. {{< /notice >}}
+
 ## Avaliando Sua Organização
 
 Aqui está como você avalia cada resposta. Pense nisso como avaliar suas habilidades de corte de madeira:
 
 | Notas  | Descrição                                                      |
-| ----- | -------------------------------------------------------------- |
-| A     | **Visão Sistêmica Integrada**: Você é o Paul Bunyan[^1] dos negócios, com processos tão consistentes quanto os anéis em uma árvore. Tudo é avaliado e aprimorado, e todos os seus lenhadores estão cantando em harmonia. |
-| B     | **Abordagens Alinhadas**: Suas operações são como uma cabana robusta – bem construída e regularmente mantida. Há boa comunicação entre seus lenhadores, e todos sabem quais árvores cortar. |
-| C     | **Abordagens Sistemáticas Iniciais**: Você está começando a entender este negócio de silvicultura. Tem alguns planos, mas ainda tropeça ocasionalmente nas raízes. |
-| D     | **Reagindo a Problemas**: É como combater incêndios florestais sem um plano. Você está cortando árvores ao acaso e esperando pelo melhor. Hora de afiar seu machado e traçar um mapa melhor. |
+| ------ | -------------------------------------------------------------- |
+| A      | **Visão Sistêmica Integrada**: Você é o Paul Bunyan[^1] dos negócios, com processos tão consistentes quanto os anéis em uma árvore. Tudo é avaliado e aprimorado, e todos os seus lenhadores estão cantando em harmonia. |
+| B      | **Abordagens Alinhadas**: Suas operações são como uma cabana robusta – bem construída e regularmente mantida. Há boa comunicação entre seus lenhadores, e todos sabem quais árvores cortar. |
+| C      | **Abordagens Sistemáticas Iniciais**: Você está começando a entender este negócio de silvicultura. Tem alguns planos, mas ainda tropeça ocasionalmente nas raízes. |
+| D      | **Reagindo a Problemas**: É como combater incêndios florestais sem um plano. Você está cortando árvores ao acaso e esperando pelo melhor. Hora de afiar seu machado e traçar um mapa melhor. |
 
 
 ## Entendendo Conceitos Fundamentais
