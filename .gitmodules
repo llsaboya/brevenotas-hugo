@@ -1,9 +1,0 @@
-[submodule "themes/iwriter-hugo"]
-	path = themes/iwriter-hugo
-	url = https://github.com/llsaboya/iwriter-hugo.git
-[submodule "themes/brevesnotas-geeky-hugo"]
-	path = themes/brevesnotas-geeky-hugo
-	url = https://github.com/llsaboya/brevesnotas-geeky-hugo.git
-[submodule "themes/introduction"]
-	path = themes/introduction
-	url = https://github.com/llsaboya/hugo-theme-introduction.git
